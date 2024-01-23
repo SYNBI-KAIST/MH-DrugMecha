@@ -11,7 +11,7 @@ Daeho Lee, Myeong-Ha Hwang, Sechan Lee and Gwan-Su Yi*
 
 ## Overview
 
-TBD
+![Architecture of DrugMecha](https://github.com/SYNBI-KAIST/DrugMecha/blob/main/1.Overview_New.png)
 
 ## Acknowledgement
 
