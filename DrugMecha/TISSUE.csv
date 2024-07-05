@@ -1,0 +1,810 @@
+TISSUE_ID,TISSUE_NAME,UMLS_ID
+1,16s tooth,C1552130
+2,abdominal fat,C1563742
+3,accessory basal amygdaloid nucleus,C0175223
+4,accessory cuneate nucleus,C0152397
+5,accessory medullary lamina of pallidum,C0175213
+6,accessory short gyrus (human only),C0694591
+7,acellular dermal matrix,C3494272
+8,adenoidal structure,C0001428
+9,adipose tissue,C0001527
+10,adrenal glands,C0001625
+11,adrenal medulla,C0001629| C1550278| C0025148
+12,airway structure,C0458827
+13,alar central lobule,C0175469
+14,allantoic fluid,C0230988
+15,alveolar,C1440080
+16,alveolus,C1515933
+17,amniotic fluid,C0002638
+18,amygdaloid structure,C0002708
+19,anatomic node,C0746922
+20,anatomic valve,C1186983
+21,anatomical layer,C0934502
+22,animal coat,C2987482
+23,anterior accessory gyrus (human only),C0694592
+24,anterior cingulate cortex,C5700070
+25,anterior descending branch of left coronary artery,C0226032
+26,anterior median oculomotor nucleus,C0175382
+27,anterior olfactory nucleus,C0175225
+28,anterior part of apical segmental vein,C1181160
+29,anterior part of the anterior commissure,C0149561| C0175209
+30,anterior ramus of apical segmental bronchus,C1180679
+31,anterior ramus of trunk of apical segmental artery,C1181028
+32,anterior thalamic peduncle,C0175306
+33,antrum,C1549092
+34,anus,C0003461
+35,aorta,C0003483
+36,apical leaf,
+37,apical part of apical segmental vein,C1181159
+38,apical part of posterior segmental vein,C1181171
+39,apical ramus of apical segmental bronchus,C1180676
+40,apical ramus of posterior segmental artery,C1181031
+41,apical ramus of posterior segmental bronchus,C1180684
+42,apical ramus of trunk of apical segmental artery,C1181025
+43,appendage,C0598782
+44,appendix,C0003617
+45,aqueous humor,C0003662
+46,arachnoid mater,C0003707
+47,arteries,C0003842
+48,ascitic fluid,C5441965
+49,aspirate substance,C0370199
+50,auricle of external ear,C0928075
+51,avian crop,C0010352
+52,axis vertebra,C0004457
+53,belly of skeletal muscle,C0224086
+54,berry,
+55,bile fluid,C0005388
+56,biliary calculi,C0242216
+57,bladder detrusor muscle,C4551532| C0225358
+58,bld.dot,C1442195
+59,block specimens,C1533157
+60,blood,C0005767
+61,blood - brain barrier anatomy,C0005854
+62,blood capillaries,C0006901
+63,blood vessel,C0005847
+64,bodily secretions,C0036537
+65,body excretions,C0504085
+66,body fluid discharge,C0600083| C0012621
+67,body fluids,C0005889
+68,body fluids and substances,C1521806
+69,body of uterus,C0227813
+70,body part,C0229962
+71,body parts - cannula,C1550232
+72,body parts - dental,C1550246
+73,body tissue,C0040300
+74,body water (substance),C0005909
+75,bolus of ingested food,C1186706
+76,bone,C0262950
+77,bone callus,C0006767
+78,bone structure of calcaneum,C0006655
+79,bone structure of cranium,C0037303
+80,bone structure of humerus,C0020164
+81,bone structure of ilium,C0020889
+82,bone structure of radius,C0034627
+83,bone structure of rib,C0035561
+84,bone structure of spine,C0549207
+85,bone structure of tibia,C0040184
+86,bony process,C1184743| C1186763
+87,both cardiac atria,C0524422
+88,brain,C0006104
+89,brain stem,C0006121
+90,brain tissue surgical material,C0440746
+91,breast,C0929301| C0006141
+92,bronchi,C0006255
+93,bronchial,C0205039
+94,bronchial system,C0205039| C1442216
+95,bronchioles,C0006270
+96,bronchoalveolar lavage fluid,C0006279
+97,brown fat,C0006298
+98,bundle of his,C0006382
+99,burn specimen,C1550619
+100,ca2 field,C0694599
+101,ca3 field,C0694600
+102,ca4 field,C2328406
+103,calculi,C0006736
+104,calvaria,C0205950
+105,cancellous bone,C0222660
+106,cannula,
+107,capillary vessel,C0006901| C0935624
+108,capsule of the medial geniculate body,C0175297
+109,cardiac chamber structure,C0729936
+110,carotid arteries,C0007272
+111,cartilage,C0007301
+112,casts body substance,C0302143
+113,caudate,
+114,caudate nucleus structure,C0007461
+115,cecum,C0007531
+116,cell cluster,C1179412
+117,cell line-derived xenograft,C4722223
+118,cell pellet,C3831156
+119,central lobule of cerebellum,C0228477
+120,central medial thalamic nucleus,C0920328
+121,central oculomotor nucleus,C0175384
+122,cerebellar gracile lobule,C0228498
+123,cerebellar tuber,C0228487
+124,cerebellum,C0007765
+125,cerebrospinal fluid,C0007806
+126,cerebrum,C0242202
+127,cervix,C0007874
+128,cervix mucus,C0007872
+129,cervix uteri,C0007874
+130,chamber [body part],C0935616
+131,cheek pouch,C0226919
+132,chorioallantoic membrane,C0178551
+133,choroid,C0008520
+134,ciliary body,C0008779
+135,claustral amygdalar area,C0262214
+136,claw,C0008919
+137,clone,C1522642
+138,cns (mmhcc),C1522730
+139,cns - brain (mmhcc),C1521713
+140,cns - spinal cord (mmhcc),C1522592
+141,cochlear structure,C0009195
+142,"colloid, body substance",C1527250
+143,colon structure (body structure),C0009368
+144,colostrum,C0009413
+145,column (anatomic),C1185738
+146,conjunctiva,C0009758
+147,connective tissue,C0009780
+148,cord - body parts,C1550235
+149,core specimen,C3274653
+150,cornea,C0010031
+151,"corpora quadrigemina, superior colliculus",C0228405| C0038533
+152,corpus callosum splenium,C0152319
+153,cortex of organ,C1176472
+154,cortical amygdaloid nucleus,C0175216
+155,corticotectal tract,C0262216
+156,cotyledon,C0242769
+157,craniofacial,C0596392
+158,crista ampullaris,C0229465
+159,crus cerebri,C3495416
+160,crypt,C1880192
+161,crystal - human material,C0427896
+162,cuff - body part,C1550244
+163,cuneocerebellar tract,C0175556
+164,cuneus,C3811911
+165,cytoplasmic fraction,C5444060
+166,deep tissue,C5453900
+167,densocellular part of the medial dorsal nucleus,C0262218
+168,dental cementum,C0011343
+169,dental pulp,C0011399
+170,dentin,C0011429
+171,dermis,C0011646
+172,detrusor,C1180419
+173,diaphyses,C0242696
+174,digit structure,C0582802
+175,disc - body part,C1556138
+176,dorsal acoustic stria,C0175454
+177,dorsal external arcuate fibers,C0175552
+178,dorsal motor nucleus,C0596458
+179,dorsal nucleus of lateral geniculate body,C0175292
+180,dorsal nucleus of the medial geniculate body,C0175294
+181,dorsal raphe nucleus,C0175392
+182,dorsal tegmental nucleus,C0175393
+183,dried specimen,C2827485
+184,duct (organ) structure,C0687028
+185,duodenal juice,C0227306
+186,duodenum,C0013303
+187,dura mater,C0013313
+188,ear,C0521421
+189,ear structure,C0013443
+190,ectopic graft,C4050503
+191,edinger westphal nucleus,C0228416
+192,efflux pump complex,C3824504
+193,eminence,C1184742
+194,emission - male genitalia finding,C0233929
+195,endocardium,C0014124
+196,endocrine pancreas - islet of langerhans (mmhcc),C1522528
+197,endometrium,C0014180
+198,endothelium,C0014257
+199,epidermis,C0014520
+200,epididymis,C0014533
+201,epiphysial cartilage,C0018283
+202,epithalamic structure,C0152361
+203,epithelial lining fluid,C4252513
+204,epithelium,C0014609
+205,esophagus,C0014876
+206,exhaled air (substance),C0225387
+207,exoskeleton,C0596796
+208,external lateral ligament,C3658298
+209,extracellular fluid,C0015349
+210,extracellular matrix,C0015350
+211,exudate,C0015388
+212,eye,C0015392
+213,eyelash,C0015422
+214,eyelid structure,C0015426
+215,facial nucleus,C0228740
+216,fallopian tubes,C0029954| C0015560
+217,fang (body structure),C0227136
+218,fat body,C0015665
+219,fat pad,C0935625
+220,feces,C0015733
+221,femur,C0015811
+222,fetal tissue,C0242291
+223,fibrous tissue,C0225331
+224,fifth ventricle,C0228158
+225,fin,C0230113
+226,fingers,C0016129
+227,first short gyrus (human only),C0699897
+228,fixed specimen,C2827483
+229,flower,C0330090
+230,follicle,C1571705
+231,foot,C0016504
+232,footpad,C2985236
+233,forepaw,C1533572
+234,foreskin of penis,C0227952
+235,fragments,C0486805
+236,fresh specimen,C2827486
+237,frontal lobe,C0016733
+238,frontal lobe gyrus,C0228195
+239,fruit,
+240,fundus,C0740422
+241,gallbladder,C0016976
+242,ganglia,C0017067
+243,gastric acid,C0017119
+244,gastric content,C0038352
+245,gastric fluid,C2828094
+246,gastric juice (substance),C0017133
+247,gastrocnemius muscle structure,C0242691
+248,gastrointestinal contents,C0017177
+249,geniculate body structure,C0017405
+250,genital,C0559522
+251,genitalia,C0017420
+252,gill structure,C0017558
+253,gingiva,C0017562
+254,giv,C5239884
+255,gizzard,C1510668
+256,gland,C1285092
+257,globus pallidus,C0017651
+258,glomerular basement membrane,C0599297
+259,gomar,
+260,gonadal structure,C0018067
+261,granulation tissue,C0018180
+262,green seed,
+263,ground substance,C1253945
+264,gut,C0699819
+265,gut associated lymphoid tissue,C0596638
+266,gyrus cinguli,C0018427
+267,habenula,C0152362
+268,hair,C0018494
+269,hand,C0018563
+270,heart,C0018787
+271,heart atrium,C0018792
+272,heart ventricle,C0018827| C2355627
+273,helix of ear,C0229304
+274,hemisphere of the posterior lobe,C0175472
+275,hemolymph,C0019051
+276,hilum,C0929176
+277,hindbrain,C0035507
+278,hindlimb,C0023216| C1522391
+279,hip structure,C0019552
+280,hippocampus,C0019564
+281,hippocampus (brain),C0019564
+282,hippocampus proper,C3887642
+283,horns,C0019939
+284,human tissue,C0440744
+285,hyalin substance,C0020191
+286,hypothalamic structure,C0020663
+287,hypothalamus,C1280712
+288,ileum,C0020885
+289,inferior cerebellar peduncle,C0152393
+290,inferior colliculus,C0021358
+291,inferior olivary eminence,C0228539| C0262254
+292,inferior thalamic peduncle,C0175308
+293,ingested food,C1179481
+294,insula of reil,C0021640
+295,integumentary scale,C0222045
+296,intermediate short gyrus (human only),C0694587
+297,internal capsule anterior limb structure,C0152342
+298,internal capsule posterior limb structure,C0152344
+299,interpeduncular nucleus,C0175398
+300,interstitial fluid,C0162367
+301,interstitium,C2328510
+302,intestinal contents,C0226893
+303,intestinal juice,C0545874
+304,intestines,C0021853
+305,intracalcarine cortex,C4084820
+306,intracellular fluid,C0021866
+307,intralobular part of terminal lactiferous duct,C0929370
+308,iris (eye),C0022077
+309,irradiated blood product (product),C1277077
+310,islands of calleja,C0262264
+311,islets of langerhans,C0022131
+312,isogeneic graft,C0392763
+313,jaw,C0022359
+314,jejunum,C0022378
+315,kidney,C0022646
+316,kidney glomerulus,C0022663
+317,"kidney tubules, proximal",C0022677
+318,knee,C0022742
+319,labyrinth,C0022889
+320,lamina of septum pellucidum,C0152278
+321,larynx,C0023078
+322,lateral habenular nucleus,C0228390
+323,lateral occipital gyrus (human only),C0228228
+324,lateral part of the basolateral nucleus,C0694601
+325,lateral pes lemniscus,C0175409
+326,lateral septal nucleus,C0175232
+327,lateral superior olivary nucleus,C0175429
+328,lavage fluid,C3641255
+329,leaf,C0242724
+330,leaf base,
+331,leg,C1140621
+332,"lens, crystalline",C0023317
+333,leukocyte - myelocyte (granulocyte) - eosinophil (mmhcc),C1522587
+334,leukocyte buffy coat,C0443089
+335,ligaments,C0023685
+336,limb structure,C0015385
+337,lip structure,C0023759
+338,liver,C0023884
+339,liver - hepatocyte (mmhcc),C1522062
+340,liver parenchyma,C0736268
+341,lobe,C0796494
+342,lobule,C0921005
+343,lobule iv of hemisphere of cerebellum,C4253586
+344,long insular gyri (human only),C0152308| C0228261
+345,longitudinal sulcus of insula (human only),C0262277
+346,loop of henle,C0023986
+347,lower part of body,C1268088
+348,lung,C0024109
+349,lymph,C0024202
+350,lymphoid tissue,C0024296
+351,magnocellular nucleus of the medial geniculate body,C0175296
+352,magnocellular part of red nucleus,C0175402
+353,malpighian tubules,C0024648
+354,mammillary princeps fasciculus,C0175331
+355,mandible,C0024687
+356,mandibular left first molar distal hemisection,C1552108
+357,mandibular left second premolar tooth,C0227059
+358,mandibular left third molar distal hemisection,C1552104
+359,mandibular right first molar mesial hemisection,C1552109
+360,mandibular right third molar distal hemisection,C1552114
+361,mandibular right third molar mesial hemisection,C1552113
+362,marginal zone,C1711368
+363,marrow,C0376152
+364,matrix substance,C1706515
+365,maxilla,C0024947
+366,media layer,C1254021
+367,medial collateral ligament,C4085349
+368,medial habenular nucleus,C0228389
+369,medial longitudinal stria,C0175201
+370,medial orbital gyrus,C0175179
+371,medial parabrachial nucleus,C0175446
+372,medial part of basal amygdaloid nucleus,C1134422
+373,medial pes lemniscus,C0175410
+374,medulla,C1305694
+375,medulla oblongata,C0025148
+376,medullary body of the cerebellum,C0175492
+377,meninges,C0025285
+378,meniscus structure of joint,C0224498
+379,metaphysis,C0222671
+380,metatarsal bone structure,C0025584
+381,microphage,C0682637
+382,microvascular network,C2350571
+383,microvessels,C2350570
+384,midbrain structure,C0025462
+385,middle gray layer of the superior colliculus,C0175364
+386,milk (body substance),C0026131
+387,molar tooth,C0026367
+388,mouse blood,C1511225
+389,mouse embryonic fibroblast,C1516828
+390,mouse forestomach,C1517295
+391,mouse liver,C1517914
+392,mouse skin,C1519352
+393,mouse vas deferens,C1519953
+394,mucosa-associated lymphoid tissue,C0599921
+395,mucous membrane,C0026724
+396,mucus (substance),C0026727
+397,muscle (organ),C4083049| C1995013
+398,muscle tissue,C0026845
+399,mushroom bodies,C0949650
+400,musk body substance,C1260691
+401,myelin,C0026969
+402,myocardium,C0027061
+403,myometrium,C0027088
+404,nasopharynx,C0027442
+405,neocortex,C0175173
+406,neodentate part of dentate nucleus,C0175485
+407,neostriatum,C0162512
+408,nerve,C0027740
+409,neuromast,C0598833
+410,neurosphere,C5419550
+411,nictitating membrane,C0028058
+412,nociceptors,C0028246
+413,nodulus cerebelli,C0228505
+414,nose,C0028429
+415,nucleus accumbens,C0028633
+416,nucleus emboliformis,C0175488
+417,nucleus fastigii,C0175490
+418,nucleus globosus,C0175489
+419,nucleus of the lateral olfactory tract,C0175218
+420,nucleus of the pretectal area,C0175358
+421,nucleus pulposus,C1185714
+422,nucleus raphe magnus,C0175515
+423,nucleus raphe obscurus,C0175516
+424,nucleus raphe pallidus,C0175517
+425,nucleus solitarius,C0175559| C0175518
+426,occipital gyrus,C0228220
+427,occipital lobe,C0028785
+428,olfactory tubercle,C0917714
+429,olivary nucleus,C0228539| C0262254
+430,olivary pretectal nucleus,C0175359
+431,omentum,C0028977
+432,operculum,C0228262
+433,organ,C0178784
+434,organoids,C0029250
+435,organum vasculosum laminae terminalis,C0175427| C0175316
+436,orthotopic graft (qualifier value),C0686909
+437,osteon,C0824691
+438,ovarian,C0205065
+439,ovary,C0029939
+440,palatine tonsil,C0040421
+441,paleodentate part of the dentate nucleus,C0175486
+442,pancreas,C0030274
+443,pancreatic juice,C0030296
+444,papilla,C3714556
+445,parahippocampal gyrus,C0228249
+446,pararenal fat,C0738679
+447,paraterminal gyrus,C0228426| C0175231
+448,parathyroid gland,C0030518
+449,paratrigeminal nucleus,C0175531
+450,parenchyma,C0933845
+451,parietal lobe,C0030560
+452,parotid gland,C0030580
+453,pars compacta,C0175412
+454,pars postrema of the ventral lateral nucleus,C0262304
+455,patella,C0030647
+456,paw,C0687080
+457,pelvis,C0030797
+458,pelvis>placenta,C4266528
+459,penis,C0030851
+460,perforant pathway,C0524810
+461,periarterial lymphatic sheath,C1186982
+462,pericardial effusion body substance,C1253937
+463,pericardial sac structure,C0031050
+464,periodontal ligament,C0031093
+465,peritoneal fluid (body substance),C0003964
+466,peritoneum,C0031153
+467,phalanx unspecified,C0223792| C0222682
+468,pharyngeal structure,C0031354
+469,phloem,C1720878
+470,pigment epithelium,C1519082
+471,pineal gland,C0031939
+472,pinnae,
+473,pituitary gland,C0032005
+474,placenta,C0032043
+475,placental tissue sample,C0694695
+476,plaque tissue,C4316797
+477,"plaque, atherosclerotic",C2936350
+478,plasma,C0032105
+479,platelet poor plasma (substance),C0370219
+480,platelet rich plasma,C0370220
+481,pleural effusion fluid,C1253943
+482,pleural fluid,C0225778
+483,plexus,C1184808
+484,pontine structure,C0032639| C0228192
+485,pontobulbar nucleus,C0175532
+486,pooled sample,C1709595
+487,portal system,C0032717| C0227514
+488,portal triad,C0227514
+489,portion of chyme,C0227258
+490,portion of respiratory air,C0225386
+491,posterior basal segmental bronchus,C0507110
+492,posterior basal segmental vein,C0507132
+493,posterior interventricular branch of right coronary artery,C0226047
+494,posterior nucleus of thalamus,C0262315
+495,posterior part of the anterior commissure,C0175210
+496,posterior periventricular nucleus of hypothalamus,C0262317
+497,posterior ramus of posterior segmental artery,C1181034
+498,posterior ramus of trunk of anterior segmental artery,C1181037
+499,posterior root of spinal nerve,C0205955
+500,posterior thalamic peduncle,C0175309
+501,premammillary nuclei,C0262322
+502,preolivary nucleus,C0175431
+503,preoptic areas,C0033063
+504,pressoreceptors,C0033093
+505,principal inferior olivary nucleus,C0175525
+506,principal pretectal nucleus,C0175355
+507,prosencephalon,C0085140
+508,prostate,C0033572
+509,proventriculus,C0033745
+510,pupil,C0034121
+511,pus,C0034161
+512,pylorus,C0034196
+513,rachis,C0037949
+514,raphe nuclei,C0034671
+515,rat cartilage,C1882614
+516,rat joint,C1882711
+517,rat mesentery,C1882778
+518,rat skeletal system,C1882855
+519,rat urinary system part,C1882902
+520,rectal mucous membrane,C0227395
+521,rectum,C0034896
+522,rectus abdominis,C0206066
+523,red nucleus structure,C0034910
+524,reptile and/or avian cloaca structure,C1504659
+525,respiratory diaphragm,C0011980
+526,respiratory specimen,C5442009
+527,reticular formation of pons,C0228428
+528,reticulum,C0035295
+529,retina,C0035298
+530,retroperitoneal fat,C0738677
+531,rhomboid body structure,C1260952
+532,root,C0242726
+533,root body part,C0040452| C1318154
+534,rumen,C0035946
+535,saliva,C0036087
+536,scalp structure,C0036270
+537,sclera,C0036410
+538,scrapings (specimen),C0444082
+539,second short gyrus (human only),C0694586
+540,semen,C2756969
+541,seminal fluid,C0036614
+542,seminal vesicles,C0036628
+543,seminiferous tubule structure,C0036630
+544,septum,
+545,septum pellucidum,C0936188| C0036700
+546,serous membrane,C0036760
+547,serum,C0229671
+548,set of muscles,C4083049| C1995013
+549,shell structure (body structure),C0222041
+550,shoot,C2700376
+551,short insular gyrus,C0262329
+552,sigmoid colon,C0227391
+553,simple lobule of cerebellum,C2338991
+554,sinusoidal beds,C2337009
+555,skeletal bone,C0262950
+556,skeletal tissue,C0586827
+557,skin,C1123023
+558,skin of neck,C0205030
+559,skin of trunk,C0205031
+560,skin specimen,C0444099
+561,skin structure of back,C0222155
+562,skull,C0037303| C2951888
+563,snout,C0230040
+564,soft tissue,C0225317
+565,soleus muscle structure,C0242694
+566,specimen type - abscess,C1550609
+567,specimen type - cardiac muscle,C1550621
+568,specimen type - electrode,C1550631
+569,specimen type - eosinophils,C1550634
+570,specimen type - erythrocytes,C1550635
+571,specimen type - fibroblasts,C1550637
+572,specimen type - filter,C1550638
+573,specimen type - fistula,C1550639
+574,specimen type - leukocytes,C1550647
+575,specimen type - lymphocytes,C1550651
+576,specimen type - macrophages,C1550652
+577,specimen type - patient,C1550655
+578,specimen type - polymorphonuclear neutrophils,C1550658
+579,specimen type - skeletal muscle,C1550659
+580,specimen type - ulcer,C1550672
+581,specimen type - whole body,C1550677
+582,specimen type - wound,C1550680
+583,specimentype - basophils,C1550610
+584,specimentype - cyst,C1550626
+585,sphincter,C1409894
+586,spinal cord,C0037925
+587,spino-olivary tract,C0175562
+588,spinothalamic tract of medulla,C1283383
+589,spleen,C0037993
+590,sputum,C0038056
+591,stem of organ,C1184743| C1186763
+592,sternum,C0038293
+593,stomach,C0038351
+594,stool (mmhcc),C1522009
+595,stratum corneum,C0221921
+596,stratum lemnisci of the superior colliculus,C0175363
+597,stratum radiatum,C2340164
+598,stria,C1253938
+599,stroma,C0927195
+600,structure of aggregated lymphoid follicle of small intestine,C0031272
+601,structure of alveus of hippocampus,C0228247
+602,structure of anatomic arteriovenous anastomosis,C0225984
+603,structure of angular gyrus,C0152305
+604,structure of anterior cerebral artery,C0149561| C0175209
+605,structure of anterior commissure,C0152335
+606,structure of anterior inferior cerebellar artery,C0226245
+607,structure of arteriole,C0003847
+608,structure of body of corpus callosum,C0152320
+609,structure of ciliary processes,C1261761
+610,structure of commissure of inferior colliculus,C0175371| C0152367
+611,structure of commissure of superior colliculus,C0152366
+612,structure of condyle,C0524414
+613,structure of corpus luteum of ovary,C0010092
+614,structure of cortex of kidney,C0007776| C0001613| C0022655
+615,structure of cuneus,C0152307
+616,structure of deltoid muscle,C0224234
+617,structure of dentate gyrus,C0152314
+618,structure of diencephalon,C0012144
+619,structure of dorsal accessory olivary nucleus,C0152395
+620,structure of dorsal spinocerebellar tract,C0175560
+621,structure of dorsomedial hypothalamic nucleus,C0013055
+622,structure of entorhinal cortex,C0175196
+623,structure of extensor digitorum muscle of hand,C0224268
+624,structure of external medullary lamina of thalamus,C0228350
+625,structure of fila radicularia of spinal nerve,C0228807
+626,structure of flocculus peduncle,C0228506
+627,structure of forceps major,C0809941
+628,structure of forceps minor,C0152325
+629,structure of gastrointestinal mucous membrane,C0226876
+630,structure of genu of corpus callosum,C0152321
+631,structure of glomerular mesangium,C0017655
+632,structure of gracilis muscle,C0224439
+633,structure of gyrus rectus,C0152309| C0152300
+634,structure of habenular commissure,C0152363
+635,structure of head of caudate nucleus,C0152336
+636,structure of hemidiaphragm,C1269845
+637,structure of inferior brachium of corpora quadrigemina,C0175372
+638,structure of inferior central nucleus of pons,C0228434
+639,structure of inferior medullary velum,C0152285
+640,structure of inferior temporal gyrus,C0152311
+641,structure of lateral olfactory gyrus,C0228280
+642,structure of lateral preoptic nucleus,C0175312
+643,structure of lenticular fasciculus,C0152353
+644,structure of levator ani muscle,C0224384
+645,structure of limitans nucleus,C0175299
+646,structure of locus ceruleus,C0023951
+647,structure of mammillary peduncle,C0152358
+648,structure of medial accessory olivary nucleus,C0152396
+649,structure of medial lemniscus in pons,C1744546
+650,structure of medial preoptic nucleus,C0175313
+651,structure of median forebrain bundle,C0025055
+652,structure of medulla oblongata fasciculus cuneatus,C0228521
+653,structure of medulla oblongata fasciculus gracilis,C0228522
+654,structure of medulla oblongata medial lemniscus,C0228534
+655,structure of middle cerebellar peduncle,C0152392
+656,structure of middle cerebral artery,C0149566
+657,structure of middle lobe of right lung,C4281590
+658,structure of middle temporal gyrus,C0039441| C0152310| C0228376
+659,structure of nucleus infundibularis hypothalami,C0003741
+660,structure of nucleus prepositus,C0152399
+661,structure of oculomotor nerve central caudal nucleus,C0228689
+662,structure of olfactory bulb,C0028936
+663,structure of organ capsule,C0524463
+664,structure of otoconia,C0029894
+665,structure of paraventricular nucleus,C0030532
+666,structure of pars magnocellularis of dorsomedial nucleus of thalamus,C0228331
+667,structure of pars parvocellularis of ventral anterior nucleus of thalamus,C0228334
+668,structure of perirenal fat,C0227638
+669,structure of peritracheal tissue,C0225596
+670,structure of permanent mandibular right first molar tooth,C5234870
+671,structure of piriformis muscle,C0224429
+672,structure of postcentral gyrus,C0152302
+673,structure of posterior cerebral artery,C0149576
+674,structure of posterior inferior cerebellar artery,C0149573
+675,structure of precuneus,C0152306
+676,structure of preoptic periventricular nucleus,C0175314
+677,structure of purkinje fibers,C0034144
+678,structure of putamen,C0034169
+679,structure of pyramidalis muscle,C0224374
+680,structure of quadriceps femoris muscle,C0224440
+681,structure of retinal pigment epithelium,C0035322
+682,structure of rostrum of corpus callosum,C0152322
+683,structure of spinothalamic tract of pons,C0152380
+684,structure of subiculum hippocampi,C0152316
+685,structure of superior brachium of corpora quadrigemina,C0175368
+686,structure of superior central nucleus of pons,C0228432
+687,structure of superior cerebellar artery,C0149575
+688,structure of superior cerebellar peduncle,C0152391
+689,structure of superior longitudinal fasciculus,C0228270
+690,structure of superior parietal lobule,C0152303
+691,structure of supracallosal gyrus,C0152333
+692,structure of suprachiasmatic nucleus,C0038866
+693,structure of supramammillary nucleus,C0228378
+694,structure of supramarginal gyrus,C0228214
+695,structure of supraoptic nucleus,C0038869
+696,structure of tracheal muscle,C0225595
+697,structure of vein of trunk,C0447122
+698,structure of ventral posterior inferior nucleus,C0175291
+699,structure of ventromedial hypothalamic nucleus,C0042518
+700,structure of venule,C0042520
+701,subcutaneous fat,C0222331
+702,subcutaneous tissue,C0278403
+703,subintima,C0920995
+704,submucosa,C0225344
+705,substantia nigra structure,C0038590
+706,subventricular zone,C3498657
+707,superficial gray layer of superior colliculus,C0175361
+708,superior salivatory nucleus,C0175447
+709,superior temporal gyrus,C0152309| C0152300
+710,supernatant,C1550101
+711,supernumerary mandibular left second molar,C1552132
+712,supernumerary mandibular left third molar,C1552131
+713,supernumerary mandibular right central incisor,C1552139
+714,supernumerary mandibular right second molar,C1552145
+715,supernumerary mandibular right second premolar,C1552143
+716,supernumerary mandibular right third molar,C1552146
+717,supernumerary maxillary left canine,C1552125
+718,supernumerary maxillary left first molar,C1552128
+719,supernumerary maxillary left first premolar,C1552126
+720,supernumerary maxillary left lateral incisor,C1552124
+721,supernumerary maxillary left second molar,C1552129
+722,supernumerary maxillary left second premolar,C1552127
+723,surgical flaps,C0038925
+724,sweat,C0038984
+725,synovial bursa,C0006441
+726,synovial fluid,C0039097
+727,synovial membrane,C0039099
+728,taenia coli,C0227365
+729,tail,C0039259
+730,talus,C0039277
+731,tarsal bones,C0039316
+732,taste buds,C0039337
+733,tears body substance,C0039409
+734,tectum mesencephali,C0039433
+735,telencephalon,C0039452
+736,telodiencephalic fissure,C0262340
+737,temporal lobe,C0039485
+738,tendon structure,C0039508
+739,tenia tecta,C3496643
+740,teres muscle,C1515272
+741,tertiary lymphoid structures,C4277544
+742,testis,C0039597
+743,thalamic structure,C0039729
+744,thalamocortex,
+745,throat,C3665375
+746,thumb structure,C0040067
+747,thymus gland,C0040113
+748,thyroid gland,C0040132
+749,tibialis muscle,C1710422
+750,tissue fiber,C1304649
+751,tissue membrane,C0025255
+752,tissue type,C2713035
+753,toes,C0040357
+754,tongue,C0040408
+755,tonsil,C0040421| C0836921
+756,tooth crowns,C0226993
+757,tooth root structure,C0040452| C1318154
+758,tooth structure,C0040426
+759,total tissue,C2983684
+760,trabecular meshwork structure,C0040573
+761,trachea,C0040578
+762,tract,C1185740
+763,transplanted tissue,C0332835
+764,trapezoid bone structure,C0223741
+765,trichomes,C3658255
+766,trunk of posterior basal segmental artery,C0933649
+767,tubercle of bone,C1184740
+768,tumor,C0027651
+769,tumor tissue sample,C0475358
+770,tumour,C0027651
+771,tunica intima,C0162864
+772,uncinate fasciculus of the pons,C0175449
+773,upper esophageal sphincter,C1451819
+774,upper extremity,C1140618
+775,upper part of body,C1268087
+776,urethra,C0041967
+777,urinary bladder,C0005682
+778,urine,C0042036
+779,urine (mmhcc),C1523991
+780,urothelium,C0227598
+781,uterus,C0042149
+782,uvea,C0042160
+783,vagina,C0042232
+784,vaginal secretions,C0392908
+785,vagus nerve structure,C0042276
+786,vas deferens,C0042360
+787,vas deferens structure,C0042360
+788,veins,C0042449
+789,ventral acoustic stria,C0175456
+790,ventral amygdalofugal projection,C0175242
+791,ventral reticular nucleus,C0175509
+792,ventral reticulospinal tract,C0546040
+793,ventral tegmental area,C0175405
+794,ventricular septum,C0225870
+795,vermis of anterior lobe,C0175470
+796,vertebral column,C0037949
+797,vestibulocerebellar tract,C0175462
+798,viscera,C0042779
+799,visceral fat,C1563740
+800,vitreous body structure,C0042905
+801,vitreous humor,C0229096
+802,vomitus,C0042965
+803,vulva,C0042993
+804,wall of anterior cranial fossa,C4243600
+805,white adipose tissue,C1704223
+806,white matter,C0682708
+807,whole blood,C0370231
+808,wing,C0043189
+809,zona glomerulosa,C0043518
