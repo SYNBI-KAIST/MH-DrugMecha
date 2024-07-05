@@ -6,7 +6,7 @@
 
 Myeong-Ha Hwang, Daeho Lee, Sechan Lee, Hyojin Son and Gwan-Su Yi*
 
-- First Author: hmh929@kaist.ac.kr, daeho715@kaist.ac.kr
+- First Author: hmh929@kaist.ac.kr
 - Correspondence: gwansuyi@kaist.ac.kr
 
 ## Overview
