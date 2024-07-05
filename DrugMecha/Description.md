@@ -37,31 +37,13 @@ The database consists of several interconnected tables, each representing a diff
 - **ORGANISM_ID**: Unique identifier for the associated organism.
 - **ORGANISM_NAME**: Name of the associated organism.
 
-### GENE
-- **GENE_ID**: Unique identifier for the gene.
-- **GENE_NAME**: Name of the gene.
-- **UMLS_ID**: Unified Medical Language System ID.
-- **UMLS_NAME**: UMLS name.
-- **UNIPROT_GENE_NAME**: UniProt gene name.
-- **NCBI_GENE_ID**: NCBI gene ID.
-
-### CELL_LINE
-- **CELL_LINE_ID**: Unique identifier for the cell line.
-- **CELL_LINE_NAME**: Name of the cell line.
-- **PUBCHEM_ID**: PubChem ID.
-- **CELLOSAURUS_ID**: Cellosaurus ID.
-- **UMLS_ID**: UMLS ID.
-- **CELL_ONTOLOGY_ID**: Cell Ontology ID.
-
-### TISSUE
-- **TISSUE_ID**: Unique identifier for the tissue.
-- **TISSUE_NAME**: Name of the tissue.
-- **UMLS_ID**: UMLS ID.
-
-### ORGANISM
-- **ORGANISM_ID**: Unique identifier for the organism.
-- **ORGANISM_NAME**: Name of the organism.
-- **NCBI_TEXONOMY_ID**: NCBI Taxonomy ID.
+### SUBSTANCE_ACTIVITY
+- **SID**: Substance ID.
+- **AID**: Assay ID.
+- **METAPATH_ID**: Metapath ID.
+- **ACTIVE**: Active status.
+- **INACTIVE**: Inactive status.
+- **ACTIVITY_SCORE**: Activity score.
 
 ### BIOLOGICAL_FUNCTION
 - **FUNCTION_ID**: Unique identifier for the biological function.
@@ -90,13 +72,31 @@ The database consists of several interconnected tables, each representing a diff
 - **BIOCARTA**: BioCarta pathway ID.
 - **NETPATH**: NetPath ID.
 
-### SUBSTANCE_ACTIVITY
-- **SID**: Substance ID.
-- **AID**: Assay ID.
-- **METAPATH_ID**: Metapath ID.
-- **ACTIVE**: Active status.
-- **INACTIVE**: Inactive status.
-- **ACTIVITY_SCORE**: Activity score.
+### GENE(Target)
+- **GENE_ID**: Unique identifier for the gene.
+- **GENE_NAME**: Name of the gene.
+- **UMLS_ID**: Unified Medical Language System ID.
+- **UMLS_NAME**: UMLS name.
+- **UNIPROT_GENE_NAME**: UniProt gene name.
+- **NCBI_GENE_ID**: NCBI gene ID.
+
+### CELL_LINE(Target)
+- **CELL_LINE_ID**: Unique identifier for the cell line.
+- **CELL_LINE_NAME**: Name of the cell line.
+- **PUBCHEM_ID**: PubChem ID.
+- **CELLOSAURUS_ID**: Cellosaurus ID.
+- **UMLS_ID**: UMLS ID.
+- **CELL_ONTOLOGY_ID**: Cell Ontology ID.
+
+### TISSUE(Target)
+- **TISSUE_ID**: Unique identifier for the tissue.
+- **TISSUE_NAME**: Name of the tissue.
+- **UMLS_ID**: UMLS ID.
+
+### ORGANISM(Target)
+- **ORGANISM_ID**: Unique identifier for the organism.
+- **ORGANISM_NAME**: Name of the organism.
+- **NCBI_TEXONOMY_ID**: NCBI Taxonomy ID.
 
 ## Installation
 To install DrugMecha, clone the repository from GitHub:
