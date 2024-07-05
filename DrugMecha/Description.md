@@ -8,7 +8,6 @@ It integrates various biological entities such as genes, cell lines, tissues, or
 1. [Introduction](#introduction)
 2. [Database Schema](#database-schema)
 3. [Installation](#installation)
-4. [Usage](#usage)
 
 ## Introduction
 DrugMecha is developed by the Synergistic Bioinformatics Laboratory at the Korea Advanced Institute Science and Technology (KAIST).<br>
