@@ -11,7 +11,7 @@ It integrates various biological entities such as genes, cell lines, tissues, or
 
 ## Introduction
 DrugMecha is developed by the Synergistic Bioinformatics Laboratory at the Korea Advanced Institute Science and Technology (KAIST).<br>
-The database utilizes text mining techniques to extract and organize information about drug mechanisms from various biomedical literature sources.
+The database utilizes text mining techniques to extract and organize information about drug mechanisms from PubChem Bioassay Database.
 
 ## Database Schema
 The database consists of several interconnected tables, each representing a different biological entity or relationship.<br>
@@ -70,7 +70,7 @@ Below is a brief description of each table and its columns:
 - **BIOCARTA**: BioCarta pathway ID.
 - **NETPATH**: NetPath ID.
 
-### GENE(Target)
+### GENE(Assay Target)
 - **GENE_ID**: Unique identifier for the gene.
 - **GENE_NAME**: Name of the gene.
 - **UMLS_ID**: Unified Medical Language System ID.
@@ -78,7 +78,7 @@ Below is a brief description of each table and its columns:
 - **UNIPROT_GENE_NAME**: UniProt gene name.
 - **NCBI_GENE_ID**: NCBI gene ID.
 
-### CELL_LINE(Target)
+### CELL_LINE(Assay Target)
 - **CELL_LINE_ID**: Unique identifier for the cell line.
 - **CELL_LINE_NAME**: Name of the cell line.
 - **PUBCHEM_ID**: PubChem ID.
@@ -86,12 +86,12 @@ Below is a brief description of each table and its columns:
 - **UMLS_ID**: UMLS ID.
 - **CELL_ONTOLOGY_ID**: Cell Ontology ID.
 
-### TISSUE(Target)
+### TISSUE(Assay Target)
 - **TISSUE_ID**: Unique identifier for the tissue.
 - **TISSUE_NAME**: Name of the tissue.
 - **UMLS_ID**: UMLS ID.
 
-### ORGANISM(Target)
+### ORGANISM(Assay Target)
 - **ORGANISM_ID**: Unique identifier for the organism.
 - **ORGANISM_NAME**: Name of the organism.
 - **NCBI_TEXONOMY_ID**: NCBI Taxonomy ID.
