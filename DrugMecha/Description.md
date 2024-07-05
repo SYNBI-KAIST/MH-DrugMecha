@@ -1,7 +1,7 @@
 # DrugMecha: An Ontology-based Knowledge Graph Database of Drug Mechanisms via Text Mining
 
 ## Overview
-DrugMecha is an ontology-based knowledge graph database designed to capture the mechanisms of drugs through text mining. 
+DrugMecha is an ontology-based knowledge graph database designed to capture the mechanisms of drugs through text mining.<br>
 It integrates various biological entities such as genes, cell lines, tissues, organisms, and biological functions to provide a comprehensive resource for understanding drug actions and their effects.
 
 ## Table of Contents
@@ -11,11 +11,11 @@ It integrates various biological entities such as genes, cell lines, tissues, or
 4. [Usage](#usage)
 
 ## Introduction
-DrugMecha is developed by the Synergistic Bioinformatics Laboratory at the Korea Advanced Institute Science and Technology (KAIST). 
+DrugMecha is developed by the Synergistic Bioinformatics Laboratory at the Korea Advanced Institute Science and Technology (KAIST).<br>
 The database utilizes text mining techniques to extract and organize information about drug mechanisms from various biomedical literature sources.
 
 ## Database Schema
-The database consists of several interconnected tables, each representing a different biological entity or relationship. 
+The database consists of several interconnected tables, each representing a different biological entity or relationship.<br>
 Below is a brief description of each table and its columns:
 
 ![Schema of DrugMecha](https://github.com/SYNBI-KAIST/MH-DrugMecha/raw/main/DrugMecha/DrugMecha-Schema.png)
