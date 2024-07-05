@@ -18,7 +18,7 @@ The database utilizes text mining techniques to extract and organize information
 The database consists of several interconnected tables, each representing a different biological entity or relationship. 
 Below is a brief description of each table and its columns:
 
-![Schema of DrugMecha](https://github.com/SYNBI-KAIST/DrugMecha/DrugMecha/DrugMecha-Schema.png)
+![Schema of DrugMecha](./DrugMecha/DrugMecha-Schema.png)
 
 ### DRUG_MECHANISM
 - **DRUG_MECHANISM_ID**: Unique identifier for each drug mechanism entry.
