@@ -1,0 +1,6092 @@
+ORGANISM_ID,ORGANISM_NAME,NCBI_TEXONOMY_ID
+1,Myrospermum frutescens,100153
+2,Streptomyces coelicolor A3(2),100226
+3,Cricetinae,10026
+4,Cricetulus aureus,10029
+5,long-tailed dwarf hamster,10030
+6,Mesocricetus auratus,10036
+7,Dzhungarian hamster,10044
+8,gerbils,10045
+9,jirds,10046
+10,Mongolian gerbil,10047
+11,Ophiopogon japonicus,100506
+12,Asparagus cochinchinensis,100514
+13,Microtus,10053
+14,Dracaena angustifolia,100531
+15,Dracaena draco,100532
+16,Ficus auriculata,100541
+17,leng guo rong,100573
+18,Calthropella,1006832
+19,Neamphius,1006835
+20,Neamphius huxleyi,1006836
+21,Thrombus,1006837
+22,Dysphania,1007465
+23,Hericium coralloides,100756
+24,Madurella mycetomatis,100816
+25,Gambian giant pouched rat,10085
+26,Phytophthora litchii,100870
+27,Mus,10088
+28,Coprobacillus cateniformis,100884
+29,Catenibacterium mitsuokai,100886
+30,Mus caroli,10089
+31,house mouse,10090
+32,baboon,100937
+33,mice,10095
+34,Cryptococcus albidus,100951
+35,Styloscolex baicalensis,100962
+36,Cladobotryum rubrobrunnescens,100994
+37,Hypomyces cervinigenus,100997
+38,Natal multimammate mouse,10112
+39,rats,10114
+40,brown rat,10116
+41,Bipolaris oryzae,101162
+42,Trichoderma asperellum,101201
+43,Microsporum distortum,101202
+44,Saprolegnia parasitica,101203
+45,Conus anemone,101285
+46,Conus generalis,101304
+47,Hystrix,10136
+48,guinea pigs,10140
+49,Cavia porcellus,10141
+50,Cavia cutleri,10144
+51,Wedelia biflora,101473
+52,Trichophyton interdigitale,101480
+53,Monographella nivalis,101483
+54,Chinchilla,10151
+55,short-tailed chinchilla,10152
+56,Capnocytophaga gingivalis,1017
+57,Pandanus utilis,101712
+58,Barleria lupulina,101743
+59,Capnocytophaga ochracea,1018
+60,Castor,10184
+61,Capnocytophaga sputigena,1019
+62,Rotifera,10190
+63,Japanese apricot,102107
+64,Bugula neritina,10212
+65,Solobacterium moorei,102148
+66,Cyanobacterium,102234
+67,Hymenolepis nana,102285
+68,Orthopoxvirus,10242
+69,Cowpox virus,10243
+70,Monkeypox virus,10244
+71,Vaccinia virus,10245
+72,Vaccinia virus Copenhagen,10249
+73,Vaccinia virus Lister,10252
+74,Vaccinia virus WR,10254
+75,small pox virus,10255
+76,Orf virus,10258
+77,Helicobacter pylori SS1,102617
+78,Acar,102633
+79,Amylosporus,1026883
+80,white snakeroot,102750
+81,Eupatorium chinense,102772
+82,Molluscum contagiosum virus,10279
+83,H5N1 subtype,102793
+84,Molluscum contagiosum virus subtype 1,10280
+85,Proteus penneri,102862
+86,Simplexvirus,10294
+87,Drupella fragum,1029762
+88,Herpes simplex virus type 1,10298
+89,Herpes simplex virus (type 1 / strain 17),10299
+90,Herpes simplex virus (type 1 / strain F),10304
+91,Human herpesvirus 1 strain KOS,10306
+92,Herpes simplex virus (type 1 / strain SC16),10309
+93,Human herpesvirus 2,10310
+94,Human herpesvirus 2 strain G,10314
+95,Human herpesvirus 2 strain HG52,10315
+96,Bovine herpesvirus 1,10320
+97,monkey B virus,10325
+98,Equid herpesvirus 1,10326
+99,Afipia,1033
+100,Felid herpesvirus 1,10334
+101,Varicella-zoster virus,10335
+102,Indus valley bullfrog,103373
+103,Human herpesvirus 3 strain Dumas,10338
+104,Stereum ostrea,103387
+105,Suid herpesvirus 1,10345
+106,Cytomegalovirus,10358
+107,Human herpesvirus 5,10359
+108,Human herpesvirus 5 strain AD169,10360
+109,Murine cytomegalovirus,10366
+110,Verticillium,1036719
+111,Human herpesvirus 6,10368
+112,Human herpesvirus 6 (strain Uganda-1102),10370
+113,Chromolaena odorata,103745
+114,Eupatorium lindleyanum,103753
+115,Human herpesvirus 4,10376
+116,Epstein-Barr virus (strain B95-8),10377
+117,Pseudomonas fluorescens A506,1037911
+118,Thermococcus sp. 9oN-7,103799
+119,Coxsackievirus B3 (strain Nancy),103903
+120,Tyromyces fissilis,1040649
+121,Hepatitis B virus,10407
+122,Scenedesmus acutus,104103
+123,Desmodesmus subspicatus,104105
+124,Bothrops pauloensis,1042543
+125,Tenacibaculum,104267
+126,Postia placenta,104341
+127,Gloeophyllum trabeum,104355
+128,Hohenbuehelia grisea,104357
+129,Lycia,104487
+130,olive fly,104688
+131,Arvicola amphibius,1047088
+132,Zymoseptoria tritici,1047171
+133,African swine fever virus,10497
+134,Paramecium bursaria Chlorella virus 1,10506
+135,Human adenovirus 2,10515
+136,Human adenovirus 7,10519
+137,Purpureocillium,1052105
+138,Cyperus esculentus,1053340
+139,unidentified adenovirus,10535
+140,Aspergillus awamori,105351
+141,Aciculata,105390
+142,Zoanthus,105401
+143,Lessonia <stramenopiles>,105411
+144,Valsa mali,105487
+145,Sandaracinus,1055688
+146,Symploca,105591
+147,Human papillomavirus,10566
+148,Prunus tomentosa,105667
+149,Alpinia nigra,105678
+150,Epicoccum nigrum,105696
+151,Mucor piriformis,105697
+152,Grevillea robusta,105748
+153,Aeromonas bestiarum,105751
+154,Human papillomavirus type 11,10580
+155,Crossosoma bigelovii,105808
+156,Human papillomavirus type 1a,10583
+157,Japanese honeysuckle,105884
+158,Human papillomavirus type 58,10598
+159,Rhodotorula bogoriensis,106002
+160,Rhodotorula ingeniosa,106010
+161,tickbush,106041
+162,burgan,106044
+163,Rhodobacter capsulatus,1061
+164,Comasteridae,106121
+165,Thai rosewood,106130
+166,BK polyomavirus,10629
+167,Rhodobacter sphaeroides,1063
+168,JC polyomavirus,10632
+169,Simian virus 40,10633
+170,Murine polyomavirus,10634
+171,Carnation etched ring virus,10640
+172,Figwort mosaic virus,10649
+173,Pseudoflavonifractor capillosus,106588
+174,Bruguiera cylindrica,106616
+175,Enterobacteria phage T4,10665
+176,Dorstenia psilurus,106723
+177,Planes,106761
+178,Radix natalensis,106804
+179,Enterobacteria phage lambda,10710
+180,Linaria genistifolia subsp. dalmatica,1071897
+181,Diabrotica balteata,107213
+182,Croton sublyratus,107238
+183,licorice weed,107240
+184,Enterobacteria phage 933W,10730
+185,Dalbergia sissoo,107308
+186,Pseudoalteromonas ulvae,107327
+187,Didemnum,107394
+188,Tenacibaculum maritimum,107401
+189,Influenza B virus (B/Lee/40),107412
+190,Microsphaeropsis,107453
+191,Isis,1074817
+192,Isis hippuris,1074818
+193,Enterobacteria phage T3,10759
+194,Enterobacteria phage T7,10760
+195,Amaranthus palmeri,107608
+196,Acinetobacter calcoaceticus subsp. anitratus,107673
+197,Plenodomus tracheiphilus,1077377
+198,Barringtonia racemosa,107821
+199,Thanatephorus cucumeris,107832
+200,Tribulus,1078576
+201,Trididemnum solidum,1079459
+202,Cadophora malorum,108018
+203,Macrophoma,108329
+204,Sida spinosa,108380
+205,Neoscytalidium dimidiatum,108428
+206,Chloranthus multistachys,108430
+207,Salmonella enterica subsp. enterica serovar Newport,108619
+208,Para spiny rat,108849
+209,Mammalian orthoreovirus 3 Dearing,10886
+210,Theobroma grandiflorum,108881
+211,Inonotus baumii,108892
+212,Phellinus tremulae,108899
+213,Porodaedalea pini,108901
+214,Phellinus ribis,108904
+215,Reovirus sp.,10891
+216,brown planthopper,108931
+217,Alnus firma,109059
+218,Alnus japonica,109063
+219,Chaerophyllum hirsutum,109101
+220,Rotavirus,10912
+221,Simian rotavirus,10922
+222,Perichaena,1092570
+223,Perichaena chrysosperma,1092571
+224,Sceptrella,1093061
+225,Hemipholiota populnea,109743
+226,Mycobacterium tuberculosis str. UT205,1097669
+227,Lactobacillus jensenii,109790
+228,Macaranga tanarius,109849
+229,Rice dwarf virus,10991
+230,wild radish,109996
+231,Zeuzera pyrina,1101072
+232,Guanomyces polythrix,110160
+233,Oculimacula acuformis,110162
+234,Eastern equine encephalitis virus,11021
+235,Ross River virus,11029
+236,Semliki forest virus,11033
+237,Sindbis virus,11034
+238,Venezuelan equine encephalitis virus,11036
+239,Venezuelan equine encephalitis virus (strain Trinidad donkey),11038
+240,Western equine encephalitis virus,11039
+241,Rubella virus,11041
+242,Vertebrata lanosa,110463
+243,arboviruses group B,11051
+244,Dengue virus 1,11053
+245,Conoideocrella,1105318
+246,Conoideocrella tenuis,1105321
+247,Mycobacterium vanbaalenii,110539
+248,Dengue virus 2,11060
+249,Dengue virus 2 Puerto Rico/PR159-S1/1969,11066
+250,Talinum fruticosum,110664
+251,Dengue virus 3,11069
+252,Prismatomeris tetrandra,110690
+253,Dengue virus 4,11070
+254,Japanese encephalitis virus,11072
+255,Hedychium spicatum,110723
+256,Cea,1107390
+257,Murray Valley encephalitis virus,11079
+258,West Nile virus,11082
+259,Powassan virus,11083
+260,Tick-borne encephalitis virus,11084
+261,Yellow fever virus,11089
+262,Yellow fever virus 17D,11090
+263,Classical swine fever virus,11096
+264,Bovine viral diarrhea virus 1,11099
+265,Hepatitis C virus,11103
+266,Hepatitis C virus (isolate 1),11104
+267,Hepatitis C virus (isolate BK),11105
+268,Alternaria alstroemeriae,1111114
+269,Hepatitis C virus (isolate Japanese),11116
+270,Synechocystis sp. PCC 6803 substr. Kazusa,1111708
+271,Coronaviridae,11118
+272,Infectious bronchitis virus,11120
+273,Brontispa longissima,111217
+274,Bovine coronavirus,11128
+275,Heterogenea,1113441
+276,FIPV,11135
+277,Human coronavirus 229E,11137
+278,Murine hepatitis virus,11138
+279,Murine hepatitis virus strain A59,11142
+280,Transmissible gastroenteritis virus,11149
+281,Mumps virus,11161
+282,Cladosporium phlei,1116209
+283,Alectoria sarmentosa,111643
+284,blue-green algae,1117
+285,Galium spurium,1117032
+286,Newcastle disease virus,11176
+287,Electron,1118549
+288,Sendai virus,11191
+289,Crypteronia paniculata,111953
+290,Aphanomyces cochlioides,112091
+291,Human parainfluenza virus 2,11212
+292,Human parainfluenza virus 3,11216
+293,Arthrinium,112177
+294,Anopheles minimus,112268
+295,Canine distemper virus,11232
+296,Measles virus,11234
+297,Helichrysum odoratissimum,112363
+298,Bovine respiratory syncytial virus,11246
+299,Ramularia collo-cygni,112498
+300,Microcystis,1125
+301,Human respiratory syncytial virus,11250
+302,Biomphalaria pfeifferi,112525
+303,Coniella fragariae,1125743
+304,Human respiratory syncytial virus A2,11259
+305,Microcystis aeruginosa,1126
+306,Vesicular stomatitis virus,11276
+307,Vesicular stomatitis Indiana virus,11277
+308,Casearia sylvestris,112817
+309,Chamaelirium luteum,112831
+310,Macrosteles quadripunctulatus,1128428
+311,Vesicular stomatitis Indiana virus strain San Juan,11285
+312,goji berry,112863
+313,gou qi,112883
+314,Synechococcus,1129
+315,Infectious hematopoietic necrosis virus,11290
+316,Rabies virus,11292
+317,Flaviporus,1130278
+318,Ramaria cystidiophora,113088
+319,unidentified influenza virus,11309
+320,Sogatella furcifera,113103
+321,Fowl plague virus,11313
+322,Penicillium brefeldianum,1131482
+323,Penicillium aurantiacobrunneum,1131577
+324,Talaromyces coalescens,1131645
+325,Influenza A virus,11320
+326,Pseudocercospora musae,113226
+327,Pseudoramibacter alactolyticus,113287
+328,Echium plantagineum,113446
+329,Thielavia subthermophila,113609
+330,Fusarium oxysporum f. gladioli,113634
+331,Synechococcus elongatus PCC 7942,1140
+332,marsh elder,114188
+333,Synechocystis,1142
+334,Nigrospora,114230
+335,Nigrospora sphaerica,114231
+336,Synechocystis sp.,1143
+337,Tritrichomonas foetus,1144522
+338,Gardenia jasminoides,114476
+339,Illicium henryi,114516
+340,Aeromonas veronii biovar sobria,114517
+341,H2N2 subtype,114729
+342,Stylocheilus longicauda,114761
+343,Dysidea arenaria,1147784
+344,Synechocystis sp. (PCC 6803),1148
+345,Xylaria longipes,114818
+346,Influenza B virus,11520
+347,Pseudanabaena sp.,1153
+348,Harmonia axyridis,115357
+349,Spirulina <Cyanobacteria>,1154
+350,Pythium mamillatum,115418
+351,Pythium ultimum var. sporangiiferum,115421
+352,Glaucus,1154736
+353,Influenza C virus,11552
+354,Moorea,1155738
+355,La Crosse virus,11577
+356,Oscillatoria,1158
+357,Punta Toro virus,11587
+358,Rift Valley fever virus,11588
+359,Rift valley fever virus (STRAIN ZH-548 M12),11589
+360,Villosiclava virens,1159556
+361,Salmonella enterica subsp. enterica serovar Montevideo,115981
+362,Hantaan virus,11599
+363,Planktothrix agardhii,1160
+364,Prospect Hill virus,11603
+365,Sargassum pallidum,116055
+366,Suberea,1161115
+367,Junin virus,11619
+368,Lassa virus,11620
+369,Lassa virus Josiah,11622
+370,Lymphocytic choriomeningitis virus,11623
+371,Lymphocytic choriomeningitis virus (strain Armstrong),11624
+372,Hyrtios reticulatus,1162751
+373,Pseudoceratina purpurea,1162763
+374,Pseudoceratina verrucosa,1162764
+375,Spongia irregularis,1162765
+376,Suberea clavata,1162767
+377,Coscinoderma,1162776
+378,Dactylospongia,1162778
+379,Dactylospongia elegans,1162779
+380,Dactylospongia metachromia,1162780
+381,Petrosaspongia,1162788
+382,Porphyria,1162790
+383,Machupo virus,11628
+384,Thorectandra,1162801
+385,Anabaena,1163
+386,Pichinde virus,11630
+387,Euryspongia,1163034
+388,Tacaribe virus,11631
+389,Retroviridae,11632
+390,Simian foamy virus,11642
+391,Anabaena cylindrica,1165
+392,Dolichospermum flos-aquae,1166
+393,Equine infectious anemia virus,11665
+394,Feline immunodeficiency virus,11673
+395,Human immunodeficiency virus 1,11676
+396,Human immunodeficiency virus type 1 BH10,11678
+397,Human immunodeficiency virus type 1 (CLONE 12),11679
+398,HIV-1 M:B_ARV2/SF2,11685
+399,Human immunodeficiency virus type 1 (BRU ISOLATE),11686
+400,Human immunodeficiency virus type 1 (SF162 ISOLATE),11691
+401,Penicillium decaturense,116971
+402,Human immunodeficiency virus type 1 (NEW YORK-5 ISOLATE),11698
+403,Human immunodeficiency virus type 1 (RF/HAT ISOLATE),11701
+404,Clitocybe nebularis,117024
+405,Human immunodeficiency virus type 1 (STRAIN UGANDAN / ISOLATE U455),11703
+406,Athalia rosae ruficornis,1170497
+407,HIV-1 M:B_HXB2R,11706
+408,Anthrax,117078
+409,Human immunodeficiency virus 2,11709
+410,Fusarium verticillioides,117187
+411,Human immunodeficiency virus type 2 (ISOLATE ROD),11720
+412,Simian immunodeficiency virus,11723
+413,Visna/maedi virus,11741
+414,Visna lentivirus (strain 1514),11742
+415,Cephalodiscus,117498
+416,Cytospora,117544
+417,Valsa ceratosperma,117550
+418,Mycobacterium frederiksbergense,117567
+419,Mouse mammary tumor virus,11757
+420,Mirabilis multiflora,117589
+421,Aphanizomenon flos-aquae,1176
+422,Mouse mammary tumor virus (STRAIN GR),11760
+423,Sargassum sagamianum,1176466
+424,Nephthea erecta,1176642
+425,Feline leukemia virus,11768
+426,Nostoc,1177
+427,Nostoc commune,1178
+428,Crocidolomia,1178244
+429,Mea,1178312
+430,Murine leukemia virus,11786
+431,Abelson murine leukemia virus,11788
+432,AKT8 murine leukemia virus,11790
+433,Lucifer,117980
+434,Nostoc sp.,1180
+435,Moloney murine leukemia virus,11801
+436,Selenastrum capricornutum,118073
+437,Moloney murine sarcoma virus,11809
+438,Myxilla incrustans,118321
+439,Agrobacterium tumefaciens str. B6,1183423
+440,Rhododendron micranthum,118363
+441,Rhododendron brachycarpum,118365
+442,Polymastia tenax,1183872
+443,Penicillata,118559
+444,Arthrospira platensis,118562
+445,Calothrix,1186
+446,Avian myeloblastosis virus,11866
+447,Avian sarcoma virus,11876
+448,Tussilago farfara,118778
+449,Fujinami sarcoma virus,11885
+450,Rous sarcoma virus,11886
+451,Rous sarcoma virus - Prague C,11888
+452,Fischerella,1190
+453,Bovine leukemia virus (JAPANESE ISOLATE BLV-1),11907
+454,Caldanaerobacter subterraneus subsp. tengcongensis,119072
+455,Human T-lymphotropic virus 1,11908
+456,Carpesium abrotanoides,119172
+457,Inula britannica,119176
+458,Pulicaria undulata,119186
+459,Cupriavidus metallidurans,119219
+460,Human T-cell lymphotrophic virus type 1 (strain ATK),11926
+461,cassia-bark,119260
+462,Rauscher murine leukemia virus,11938
+463,Hippospongia,119430
+464,Exanthemachrysis gayraliae,119497
+465,Hea,1195100
+466,Streptococcus dysgalactiae subsp. equisimilis,119602
+467,Arthroderma obtusum,119676
+468,Calamus,119695
+469,Microchaete diplosiphon,1197
+470,Woolly monkey sarcoma virus,11970
+471,Petrus,119731
+472,Feline calicivirus,11978
+473,Phormidium,1198
+474,Norwalk virus,11983
+475,Francisella tularensis subsp. tularensis,119856
+476,Carnation mottle virus,11986
+477,Mouriri guianensis,119903
+478,Alternaria japonica,119919
+479,Alternaria macrospora,119921
+480,Alternaria tenuissima,119927
+481,Myrtus communis,119949
+482,Alternaria chartarum,119957
+483,Alisma canaliculatum,120010
+484,Phytophthora melonis,120023
+485,Fusarium oxysporum f. sp. lini,120040
+486,Enterococcus faecalis ATCC 29212,1201292
+487,guava,120290
+488,Blissus,1202957
+489,Fusarium oxysporum f. melongenae,120296
+490,Fusarium oxysporum f. sp. niveum,120297
+491,Scytonema,1203
+492,Chama,120379
+493,Discodoris atromaculata,120394
+494,Neofusicoccum luteum,120395
+495,Cyclina,120565
+496,Picornaviridae,12058
+497,Enterovirus,12059
+498,Echovirus E9,12060
+499,Echovirus E6,12062
+500,Podocarpus latifolius,120620
+501,Enterovirus E,12064
+502,Coxsackievirus,12066
+503,Human coxsackievirus A9,12067
+504,Coxsackievirus A21,12069
+505,Human coxsackievirus B1,12071
+506,Anoxia,1207117
+507,Inca,1207154
+508,Human coxsackievirus B3,12072
+509,Human coxsackievirus B4,12073
+510,Human coxsackievirus B5,12074
+511,Echovirus E11,12078
+512,Mycobacterium avium complex (MAC),120793
+513,Human poliovirus 1,12080
+514,Human poliovirus 1 Mahoney,12081
+515,Human poliovirus 1 strain Sabin,12082
+516,Human poliovirus 2,12083
+517,Human poliovirus 3,12086
+518,Coxsackievirus A24,12089
+519,Human enterovirus 70,12090
+520,Hepatitis A virus,12092
+521,Diaphania hyalinata,1209549
+522,Nocardia abscessus,120957
+523,Encephalomyocarditis virus,12104
+524,Mengo virus,12107
+525,Cassytha filiformis,121073
+526,Foot-and-mouth disease virus,12110
+527,Aphanoascus terreus,121129
+528,Foot-and-mouth disease virus (strain A12),12114
+529,Foot-and-mouth disease virus - type O,12118
+530,human head louse,121226
+531,Human rhinovirus 1B,12129
+532,Human rhinovirus A2,12130
+533,Human rhinovirus B14,12131
+534,Human rhinovirus A89,12132
+535,Human rhinovirus 1A,12134
+536,Maize chlorotic mottle virus,12138
+537,Diaporthe ampelina,1214573
+538,Aplysina,121476
+539,Streptocarpus dunnii,121487
+540,Spongia,121489
+541,elephant ear sponge,121490
+542,Corticium,121491
+543,Thorectidae,121495
+544,Rumex confertus,1215406
+545,Penicillium janczewskii,121612
+546,Phyllosticta,121621
+547,Phyllosticta capitalensis,121624
+548,Carnation latent virus,12164
+549,Symmetrischema tangolias,1216959
+550,Paracoccidioides brasiliensis,121759
+551,Digitaria sanguinalis,121769
+552,Japanese barnyard millet,121770
+553,Nipah virus,121791
+554,Encarsia inaron,121801
+555,Potato virus X,12183
+556,Diaphorina citri,121845
+557,Lettuce mosaic virus,12202
+558,Amphibalanus improvisus,1220549
+559,Pepper mottle virus,12209
+560,Ancistrocladus abbreviatus,122295
+561,Cercospora beticola,122368
+562,purple photosynthetic bacteria and relatives,1224
+563,Tobacco mosaic virus,12242
+564,Neisseria meningitidis MC58,122586
+565,Clonostachys rogersoniana,122658
+566,Philinopsis speciosa,1226721
+567,Carnation ringspot virus,12268
+568,leaf-rolling weevils,122737
+569,Fusarium oxysporum f. sp. cubense race 4,1229665
+570,Alternaria humicola,1232597
+571,Alternaria kikuchiana,1232598
+572,Amphibalanus amphitrite,1232801
+573,Rice stripe virus,12331
+574,Hyaloperonospora parasitica,123356
+575,Denhamia celastroides,123412
+576,Pleurostylia opposita,123450
+577,Acorus tatarinowii,123564
+578,Gammaproteobacteria,1236
+579,Lessonia <Aves>,123642
+580,Madracis myriaster,123771
+581,Thielaviopsis basicola,124036
+582,Discula,124132
+583,Leuconostoc,1243
+584,Dialysis,124307
+585,Cantagalo virus,124313
+586,Emesis,124370
+587,Sesquicillium microsporum,124425
+588,Ustilaginoidea,124426
+589,Leuconostoc mesenteroides,1245
+590,Hypalocrinus,1245193
+591,Hypalocrinus naresianus,1245194
+592,Borna disease virus,12455
+593,Hepatitis E virus,12461
+594,Hepatitis delta virus,12475
+595,Amaranthus blitum subsp. oleraceus,124762
+596,rough pigweed,124763
+597,Amaranthus spinosus,124765
+598,Illicium difengpium,124772
+599,Kadsura angustifolia,124779
+600,Kadsura coccinea,124780
+601,Kadsura heteroclita,124781
+602,Kadsura longipedunculata,124782
+603,Schisandra glaucescens,124787
+604,Schisandra grandiflora,124788
+605,Schisandra propinqua,124790
+606,Schisandra rubriflora,124791
+607,Centaurea diffusa,124929
+608,Azadirachta indica,124943
+609,Cyperus microiria,1249730
+610,Cyperus serotinus,1249733
+611,Epstein-Barr virus type 2,12509
+612,sharp-leaf galangal,125261
+613,Pediococcus,1253
+614,Neophaeosphaeria quadriseptata,125377
+615,Omsk hemorrhagic fever virus,12542
+616,Maladera castanea,1254970
+617,Peptostreptococcus,1257
+618,Peptoniphilus asaccharolyticus,1258
+619,Finegoldia magna,1260
+620,Peptostreptococcus anaerobius,1261
+621,Peptostreptococcus sp.,1262
+622,Ruminococcus,1263
+623,Colletotrichum gossypii,1263198
+624,Syringa reticulata,126367
+625,Dengue virus,12637
+626,Betacoronavirus England 1,1263720
+627,Providencia alcalifaciens,126385
+628,Duck hepatitis B virus,12639
+629,Ruminococcus albus,1264
+630,Forsythia suspensa,126418
+631,Lantana camara,126435
+632,Ruminococcus flavefaciens,1265
+633,Sarcina,1266
+634,Symphonia,1266145
+635,Feline coronavirus,12663
+636,Talaromyces purpureogenus,1266744
+637,Gyrophyllum sibogae,1267065
+638,Alertigorgia,1267117
+639,Klebsiella pneumoniae hvKP1,1267897
+640,Senna occidentalis,126820
+641,Micrococcus,1269
+642,gooseberry-tomato,126903
+643,Ikeda,1269045
+644,Vassobia breviflora,126907
+645,Withania somnifera,126910
+646,Micrococcus luteus,1270
+647,Sphaerotheca,127028
+648,Micrococcus sp.,1271
+649,Syncope,1271638
+650,Human immunodeficiency virus,12721
+651,Memphis,127271
+652,Micrococcus lylae,1273
+653,Human parainfluenza virus 1,12730
+654,Bia,127307
+655,Panacea,127360
+656,Vila,127372
+657,Infectious flacherie virus,12742
+658,Sargassum serratifolium,127450
+659,Kocuria rosea,1275
+660,Sargassum siliquastrum,127572
+661,Ethiopia Peters frog,127645
+662,Staphylococcus,1279
+663,Vibrio cholerae O1,127906
+664,Anthemis maritima,127979
+665,Staphylococcus aureus,1280
+666,Staphylococcus carnosus,1281
+667,Lentzea violacea,128104
+668,Aphis medicaginis,1281368
+669,Respiratory syncytial virus,12814
+670,Phormidium autumnale,128152
+671,Staphylococcus epidermidis,1282
+672,Chimarrhis turbinata,128292
+673,Staphylococcus haemolyticus,1283
+674,Hintonia standleyana,128316
+675,Uncaria tomentosa,128375
+676,Staphylococcus hyicus,1284
+677,Talaromyces pittii,128440
+678,Talaromyces pinophilus,128442
+679,Swine influenza virus,12845
+680,Phos,128483
+681,Staphylococcus intermedius,1285
+682,Portieria hornemanii,128534
+683,Staphylococcus simulans,1286
+684,Cinnamomum verum,128608
+685,Cryptocarya chinensis,128609
+686,Lindera umbellata,128640
+687,Theta,1286490
+688,Staphylococcus xylosus,1288
+689,Spilarctia obliqua,1288830
+690,"Ebola virus - Mayinga, Zaire, 1976",128952
+691,Staphylococcus hominis,1290
+692,Julica,1290180
+693,Trematodes,1290878
+694,Trichosporon dermatis,129132
+695,Ufo,1291723
+696,Staphylococcus warneri,1292
+697,Ipomoea grandifolia,129204
+698,Polytrichastrum alpinum,129212
+699,Staphylococcus gallinarum,1293
+700,Glomerella tucumanensis,129314
+701,Geobacillus,129337
+702,Phytophthora katsurae,129354
+703,Phytophthora porri,129359
+704,Ochrolechia parella,129506
+705,Trapeliopsis granulosa,129519
+706,pawpaw,12953
+707,Clavigralla tomentosicollis,1295332
+708,Anticarsia,129553
+709,Anticarsia gemmatalis,129554
+710,Amphitrite ornata,129555
+711,leaf cutting ants,12956
+712,Axinella,12958
+713,Staphylococcus sciuri,1296
+714,Bathymodiolus thermophilus,12966
+715,Sphaerostilbella broomeana,129729
+716,Psoroptes cuniculi,129836
+717,Deinococcus radiodurans,1299
+718,Ceratocystis paradoxa,13001
+719,Chloranthus japonicus,13007
+720,Streptococcus,1301
+721,Lophophora diffusa,130137
+722,Codakia orbicularis,13016
+723,Streptococcus gordonii,1302
+724,Streptococcus oralis,1303
+725,Piper aduncum,130377
+726,Streptococcus salivarius,1304
+727,West Indian weevil,13040
+728,kava,130404
+729,Piper retrofractum,130414
+730,Aegilops cylindrica,130456
+731,Streptococcus sanguinis,1305
+732,Streptococcus sp.,1306
+733,Antillogorgia acerosa,1306265
+734,Fuchsia,13069
+735,Streptococcus suis,1307
+736,Streptococcus salivarius thermophilus,1308
+737,Streptococcus mutans,1309
+738,Streptococcus sobrinus,1310
+739,Anomala orientalis,1310277
+740,Tetra,1310384
+741,Lissoclinum,13109
+742,Streptococcus agalactiae,1311
+743,Lissoclinum patella,13110
+744,Actinomyces turicensis,131111
+745,primrose-willow,13118
+746,gypsy moth,13123
+747,Streptococcus pneumoniae,1313
+748,Perilla,1313341
+749,Streptococcus pyogenes,1314
+750,Alticini,131578
+751,Aulacophora,131591
+752,Myzus persicae,13164
+753,Dichothrix,1316747
+754,Dichothrix baueriana,1316775
+755,Streptococcus parasanguinis,1318
+756,Streptococcus sp. 'group B',1319
+757,Pectinophora gossypiella,13191
+758,Pemphigus,13192
+759,Cercospora canescens,132095
+760,Exserohilum rostratum,132102
+761,Lecanicillium antillanum,132115
+762,Pochonia suchlasporia,132136
+763,Acrostalagmus luteoalbus,132138
+764,Piper nigrum,13216
+765,Nocardia veterana,132249
+766,Pseudococcus affinis,13232
+767,Unidentified Influenza A virus (H1N1),1323429
+768,Calopogonium mucunoides,132433
+769,Millettia pulchra,132451
+770,Pueraria montana,132459
+771,Streptomyces alboniger,132473
+772,Influenza A virus (A/X-31(H3N2)),132504
+773,Eclipta <beetle>,1325150
+774,Boletus roseoflavus,1325616
+775,Saururus cernuus,13260
+776,Schizaphis graminum,13262
+777,Alicia,1326982
+778,Stellaria media,13274
+779,Streptococcus anginosus,1328
+780,Thlaspi arvense,13288
+781,Cinnamosma madagascariensis,132965
+782,Tuberculatus,133114
+783,Acalymma vittatum,133117
+784,Otanthus maritimus,133239
+785,Achillea millefolium,13329
+786,soursop,13337
+787,Streptococcus dysgalactiae,1334
+788,lined sea star,133437
+789,Citrobacter youngae,133448
+790,Ardisia crenata,13345
+791,Mexicana,1334743
+792,Arthrobotrys,13348
+793,Osca,1334961
+794,Streptococcus equinus,1335
+795,Middle East respiratory syndrome coronavirus,1335626
+796,Briareum excavatum,1335667
+797,Streptococcus equi,1336
+798,Spongia pertusa,1336825
+799,Chondrosia corticata,1336847
+800,Luffariella geometrica,1336870
+801,Phorbas amaranthus,1336879
+802,Candidaspongia,1336906
+803,Homophymia,1336924
+804,Jaspis,1336932
+805,Hamigera <sponge>,1336954
+806,Burkholderia mallei,13373
+807,Streptococcus intermedius,1338
+808,western flower thrips,133901
+809,Conidiobolus paulus,1342296
+810,succory,13427
+811,Streptococcus vestibularis,1343
+812,Leucania,134393
+813,Spodoptera exempta,134406
+814,Coffea arabica,13443
+815,Gersemia fruticosa,134440
+816,Corylus avellana,13451
+817,Phoma destructiva,134531
+818,Zyzzya fuliginosa,1346156
+819,Dactylia,1346157
+820,Psammoclema,1346159
+821,Cupressus sempervirens,13469
+822,Cylindrocarpon,13474
+823,Ureaplasma parvum,134821
+824,Bacillus megaterium NBRC 15308 = ATCC 14581,1348623
+825,European seabass,13489
+826,Streptococcus uberis,1349
+827,Calycopteris floribunda,134915
+828,Enterococcus,1350
+829,Enterococcus faecalis,1351
+830,Enterococcus faecium,1352
+831,Antillogorgia elisabethae,1352039
+832,Euptelea polyandra,13523
+833,Podosphaera xanthii,135283
+834,Enterococcus gallinarum,1353
+835,Enterococcus hirae,1354
+836,Eremophila <Aves>,135429
+837,Bacillus subtilis subsp. subtilis,135461
+838,Gerbera jamesonii,13547
+839,Glomerella <ascomycete fungus>,13548
+840,Nocardia cyriacigeorgica,135487
+841,Histomonas meleagridis,135588
+842,Phellinus weirii,135589
+843,Heterobasidion annosum,13563
+844,Coniothyrium cereale,135650
+845,goldenseal,13569
+846,lactic streptococci,1357
+847,Hypoestes forskaolii,13571
+848,Bacillus endophyticus,135735
+849,common rush,13579
+850,Lactococcus lactis,1358
+851,Kalmia buxifolia,13585
+852,Alternaria citri,135859
+853,Lactococcus lactis lactis,1360
+854,Dolichospermum compactum,136073
+855,Gaussia <copepod>,136202
+856,Curcuma aeruginosa,136205
+857,Curcuma kwangsiensis,136216
+858,Curcuma longa,136217
+859,Curcuma phaeocaulis,136218
+860,Curcuma xanthorrhiza,136222
+861,Lactococcus garvieae,1363
+862,Lucilia sericata,13632
+863,Delphinium viridescens,136343
+864,Lactococcus plantarum,1365
+865,Ophiocoma scolopendrina,1365868
+866,Phoradendron vernicosum,136782
+867,Parastagonospora nodorum,13684
+868,Sphingomonas paucimobilis,13689
+869,Data,1369087
+870,Dicyma,136933
+871,Archaster typicus,136937
+872,Mediaster,136943
+873,Syncephalastrum,13705
+874,Syncephalastrum racemosum,13706
+875,marigolds,13707
+876,Plasmodium falciparum HB3,137071
+877,Gentianella amarella,137095
+878,Tetraclinis articulata,13717
+879,Selaginella tamariscina,137178
+880,Rheum palmatum,137221
+881,Rheum undulatum,137227
+882,Aerococcus,1375
+883,Sepsis,137507
+884,Kina,137513
+885,Arcyria,137620
+886,Arcyria cinerea,137621
+887,Persicaria pensylvanica,137687
+888,Polygonum aviculare,137693
+889,Aerococcus viridans,1377
+890,Laurencia obtusa,137763
+891,Streptomyces sp. MB-PO13,1377993
+892,Atopobium minutum,1381
+893,Atopobium parvulum,1382
+894,Cladiella krempfi,1382565
+895,Klyxum flaccidum,1382569
+896,Aspergillus sclerotiorum,138282
+897,Plasmodium vinckei petteri,138298
+898,Janus,1385265
+899,Veronica persica,138560
+900,Bacillus,1386
+901,Mendi termite,138608
+902,Enterovirus C,138950
+903,Enterovirus C,138953
+904,Borrelia burgdorferi,139
+905,Bacillus amyloliquefaciens,1390
+906,Heterocapsa circularisquama,139025
+907,Baeospora myosura,139080
+908,anthrax,1392
+909,Brevibacillus brevis,1393
+910,Thelephora vialis,139392
+911,Mimetica,1395737
+912,Empoasca,139594
+913,Empoasca fabae,139595
+914,Bacillus cereus,1396
+915,Botryotinia squamosa,139640
+916,Bacillus circulans,1397
+917,Bacillus coagulans,1398
+918,Plagiochila stephensoniana,139841
+919,Cryptosphaeria,140164
+920,Eutypella,140192
+921,Bacillus licheniformis,1402
+922,Smilax,1402161
+923,sour cherry,140311
+924,Bacillus megaterium,1404
+925,Cunonia macrophylla,140420
+926,Bacillus mycoides,1405
+927,Eutypella scoparia,140560
+928,Aspergillus pseudoglaucus,1405805
+929,Paenibacillus polymyxa,1406
+930,Bacillus pumilus,1408
+931,Vela,1408220
+932,Scabies,1408500
+933,Schoenoplectus acutus,140885
+934,Bacillus sp.,1409
+935,Monophylla,1410178
+936,Lawsonia inermis,141191
+937,Hypoestes aristata,141314
+938,Calotropis procera,141467
+939,Cynanchum stoloniferum,141507
+940,Cerbera manghas,141545
+941,Geissospermum laeve,141565
+942,Voacanga africana,141630
+943,Ala,1416571
+944,Lysinibacillus sphaericus,1421
+945,Alia,1421180
+946,Geobacillus stearothermophilus,1422
+947,Bacillus subtilis,1423
+948,Vibrio ichthyoenteri,142461
+949,Harpalyce brasiliana,142522
+950,Eubacterium sp.,142586
+951,Dendrobium moniliforme,142614
+952,Bacillus thermoproteolyticus,1427
+953,Stellera chamaejasme,142738
+954,Pannus,1427526
+955,Norovirus,142786
+956,Bacillus thuringiensis,1428
+957,Biomphalaria peregrina,142893
+958,Lista,1429834
+959,Halenospora,1432242
+960,Mycosphaerella arachidis,143450
+961,Plasmopara viticola,143451
+962,Pseudoperonospora cubensis,143453
+963,Herdmania,1434919
+964,Phyllosticta spinarum,143791
+965,Mobiluncus curtisii subsp. curtisii,144177
+966,Pyracantha fortuneana,144562
+967,Tetraselmis helgolandica,1445872
+968,Diploicia canescens,144695
+969,spotted sea hare,144766
+970,Aplysia fasciata,144767
+971,Methanothermobacter thermautotrophicus,145262
+972,Illicium oligandrum,145286
+973,Staphylococcus hominis subsp. novobiosepticus,145393
+974,Amathia convoluta,145466
+975,Brassica rapa subsp. oleifera,145471
+976,Deroceras reticulatum,145610
+977,Theba pisana,145622
+978,Malva sylvestris,145754
+979,Okeania,1458928
+980,Colletotrichum circinans,145973
+981,Ophioparma ventosa,145978
+982,Bougainvillea spectabilis,146096
+983,Pyrenula,146308
+984,Paenibacillus larvae,1464
+985,Brevibacillus laterosporus,1465
+986,Chloranthus serratus,146543
+987,Bacillus lentus,1467
+988,Puma,146712
+989,Callosobruchus chinensis,146774
+990,Dictyophora indusiata,146777
+991,Corynebacterium simulans,146827
+992,Chrysanthemum indicum,146995
+993,Himalayan yew,147273
+994,Sporosarcina pasteurii,1474
+995,Staphylococcus saprophyticus subsp. saprophyticus,147452
+996,Human rhinovirus A18,147674
+997,Human rhinovirus A45,147676
+998,Human rhinovirus B6,147681
+999,Human rhinovirus B42,147683
+1000,Rhinovirus A,147711
+1001,Rhinovirus B,147712
+1002,Human rhinovirus B5,147714
+1003,Magnaporthiopsis poae,148304
+1004,Magnaporthe grisea,148305
+1005,Valsa ambiens,148335
+1006,Clostridium,1485
+1007,Anemia myriophylla,148554
+1008,Parapiptadenia rigida,148713
+1009,Clostridium acetobutylicum,1488
+1010,[Clostridium] bifermentans,1490
+1011,Clostridium botulinum,1491
+1012,Clostridium butyricum,1492
+1013,Setaria faberi,149378
+1014,Setaria verticillata,149379
+1015,Salmonella enterica subsp. enterica serovar Enteritidis,149539
+1016,[Clostridium] difficile,1496
+1017,Angylocalyx pynaertii,149630
+1018,Bacillus subtilis subsp. globigii,1496303
+1019,Clostridium histolyticum,1498
+1020,Staphylococcus fleurettii,150056
+1021,wapato,15008
+1022,Clostridium pasteurianum,1501
+1023,Clostridium perfringens,1502
+1024,Niso,1502585
+1025,Culicinomyces,150370
+1026,Stilbella,150382
+1027,Clostridium septicum,1504
+1028,[Clostridium] sordellii,1505
+1029,Ophiostoma minus,150568
+1030,Automate,150701
+1031,Clostridium sporogenes,1509
+1032,Human rhinovirus B17,150904
+1033,hopshrub,151065
+1034,[Clostridium] sticklandii,1511
+1035,Clypearia,1511276
+1036,Clostridium symbiosum,1512
+1037,Clostridium tetani,1513
+1038,limber pine,151559
+1039,Dendronephthya gigantea,151771
+1040,Thalassotalea,1518149
+1041,Clostridium beijerinckii,1520
+1042,Trichobotrys,1520156
+1043,Trichobotrys effusa,1520157
+1044,Fritillaria pallidiflora,152091
+1045,Magnolia ovata,152188
+1046,Clostridium innocuum,1522
+1047,Tinospora sinensis,152349
+1048,Pericampylus glaucus,152355
+1049,Cocculus orbiculatus,152358
+1050,Sinomenium acutum,152363
+1051,Cyclea barbata,152373
+1052,Butyriboletus,1524449
+1053,Burkholderia ambifaria,152480
+1054,Burkholderia dolosa,152500
+1055,Muscodor albus,152623
+1056,[Clostridium] aminovalericum,1527
+1057,Clostridium cadaveris,1529
+1058,Lactarius lignyotus,152938
+1059,Comanthus parvicirrus,1529418
+1060,Lactarius uvidus,152949
+1061,Alopecurus,15303
+1062,[Clostridium] clostridioforme,1531
+1063,Geobacillus toebii,153151
+1064,Blautia coccoides,1532
+1065,Clavularia viridis,153213
+1066,Clavularia koellikeri,153214
+1067,Clostridium fallax,1533
+1068,Lepidium meyenii,153348
+1069,Beata magna,153390
+1070,Clostridium kluyveri,1534
+1071,Vitis thunbergii,153476
+1072,Vitis sinocinerea,153477
+1073,[Clostridium] leptum,1535
+1074,Styrax agrestis,153522
+1075,Styrax tonkinensis,153559
+1076,Buxus microphylla,153571
+1077,Sarcococca saligna,153583
+1078,Torrubiella <Cordycipitaceae>,153665
+1079,Conoideocrella luteorostrata,153666
+1080,Clostridium malenominatum,1539
+1081,Asterospicularia laurae,1540332
+1082,[Clostridium] hathewayi,154046
+1083,Clostridium novyi,1542
+1084,Colon,1542223
+1085,Dendrobium crepidatum,154289
+1086,Glossodoris,154628
+1087,Erysipelatoclostridium ramosum,1547
+1088,Clostridium sporosphaeroides,1549
+1089,Aspergillus stellatus,1549217
+1090,Euphorbia helioscopia,154990
+1091,Clostridium subterminale,1550
+1092,Anogeissus acuminata,155018
+1093,Terminalia bellirica,155021
+1094,black myrobalan,155022
+1095,Ballota hispanica,155229
+1096,Leishmania mexicana venezuelensis,155283
+1097,Lindera fruticosa,155292
+1098,Litsea cubeba,155299
+1099,Guarea guidonia,155637
+1100,chinaberry,155640
+1101,Streptococcus entericus,155680
+1102,Cunninghamella bainieri,155725
+1103,Chaetomium cupreum,155874
+1104,Caulobacter vibrioides,155892
+1105,Clostridium tertium,1559
+1106,Isabella,1560370
+1107,Clostridium baratii,1561
+1108,Anabaena torulosa,156211
+1109,Neopestalotiopsis,1562158
+1110,Karenia brevis,156230
+1111,Leptadenia hastata,156241
+1112,Garcinia intermedia,156481
+1113,Symphonia globulifera,156483
+1114,Calonectria canadiana,156632
+1115,Sporosarcina,1569
+1116,Sporosarcina ureae,1571
+1117,Phyllidia coelestis,157139
+1118,Corymbia,157310
+1119,Cervus canadensis,1574408
+1120,Lichina pygmaea,157483
+1121,Antrodia heteromorpha,157704
+1122,Daedalea dickinsii,157706
+1123,Oligoporus tephroleucus,157707
+1124,Pleurobranchus,157720
+1125,Conticribra weissflogii,1577725
+1126,mung bean,157791
+1127,Lactobacillus,1578
+1128,Lactobacillus acidophilus,1579
+1129,Treponema denticola,158
+1130,Retusa,158038
+1131,Phaeomoniella chlamydospora,158046
+1132,Leishmania martiniquensis,1580590
+1133,white panic,158098
+1134,Dutch grass,158174
+1135,Lactobacillus casei,1582
+1136,Astragalus penduliflorus,158323
+1137,Lactobacillus delbrueckii,1584
+1138,Folsomia candida,158441
+1139,Manchurian birthwort,158555
+1140,Pycnoporus coccineus,158605
+1141,Trametes sanguinea,158606
+1142,Lyngbya majuscula,158786
+1143,Enterobacter hormaechei,158836
+1144,Staphylococcus aureus subsp. aureus Mu50,158878
+1145,Staphylococcus aureus subsp. aureus N315,158879
+1146,Calophyllum inophyllum,158927
+1147,Brachyspira hyodysenteriae,159
+1148,Lactobacillus arizonae,1590
+1149,Atalantia monophylla,159025
+1150,Clausena anisata,159034
+1151,Clausena harmandiana,159036
+1152,Clausena lansium,159037
+1153,Clausena wallichii,159038
+1154,Glycosmis chlorosperma,159042
+1155,Toddalia asiatica,159068
+1156,Zanthoxylum ailanthoides,159071
+1157,Lactobacillus sp.,1591
+1158,Ainigmaptilon,1593385
+1159,Clavelina,159416
+1160,timothy,15957
+1161,Lactobacillus gasseri,1596
+1162,Bulinus africanus,159640
+1163,Anacyclus pyrethrum,159698
+1164,Lactobacillus reuteri,1598
+1165,Lactobacillus sakei,1599
+1166,Ricinus,160061
+1167,Heia,1603193
+1168,Penstemon barbatus,160364
+1169,Alternaria longipes,160389
+1170,Clostridium lactatifermentans,160404
+1171,Pseudomonas putida KT2440,160488
+1172,Clivia miniata,16049
+1173,Streptococcus pyogenes (serotype 1 / M1 GAS),160490
+1174,Leptochloa,160553
+1175,Chaos,160821
+1176,Thrips palmi,161013
+1177,Thrips tabaci,161014
+1178,Lemna aequinoctialis,161097
+1179,Lactobacillus fermentum,1613
+1180,woad,161756
+1181,beet,161934
+1182,Ammannia,162021
+1183,Ammannia baccifera,162022
+1184,Rotala indica,162024
+1185,Sclerospora graminicola,162130
+1186,Human metapneumovirus,162145
+1187,Picea asperata,162306
+1188,Metapneumovirus,162387
+1189,Lactobacillus salivarius,1624
+1190,Aspergillus nidulans,162425
+1191,Influenza A virus (A/Taiwan/4845/1999(H1N1)),162536
+1192,Lentinus connatus,1628009
+1193,Zasmidium citrigriseum,1629917
+1194,Pleurobranchus forskalii,1631834
+1195,Halichondria okadai,163232
+1196,Doru,163242
+1197,Lactobacillus vaginalis,1633
+1198,Gigartina bracteata,163338
+1199,Rhodophyllis membranacea,163341
+1200,Monsonia speciosa,163694
+1201,Listeria,1637
+1202,Tritoniopsis,1637250
+1203,Listeria ivanovii,1638
+1204,Frankliniella intonsa,163893
+1205,Listeria monocytogenes,1639
+1206,Listeria seeligeri,1640
+1207,Listeria grayi,1641
+1208,Listeria innocua,1642
+1209,Balanus improvisus,164413
+1210,Fadogia ancylantha,164500
+1211,Ucla,1647203
+1212,Erysipelothrix rhusiopathiae,1648
+1213,Veronica longifolia,165317
+1214,Chinese angelica,165353
+1215,Cortinarius infractus,165398
+1216,Actinomyces,1654
+1217,Hansenia forbesii,165499
+1218,Actinomyces naeslundii,1655
+1219,Blissus occiduus,1655881
+1220,Actinomyces viscosus,1656
+1221,Heraeus,1656782
+1222,Sphingobium,165695
+1223,Actinobaculum suis,1657
+1224,Magnaporthe salvinii,165778
+1225,Anaerococcus,165779
+1226,Latrunculia brevis,1658078
+1227,Microxina,1658100
+1228,Pachypellina,1658102
+1229,Actinomyces israelii,1659
+1230,Exserohilum rostratum,1659837
+1231,Sanghuangporus,1659840
+1232,Actinomyces odontolyticus,1660
+1233,Ditylenchus dipsaci,166011
+1234,Trueperella pyogenes,1661
+1235,Arthrobacter,1663
+1236,Tetragonisca angustula,166442
+1237,Arthrobacter globiformis,1665
+1238,Arthrinium sacchari,166626
+1239,Cladosporium cucumerinum,166633
+1240,Arthrobacter sp.,1667
+1241,Montanoa hibiscifolia,166991
+1242,Montanoa leucantha,166995
+1243,Arthrobacter citreus,1670
+1244,Arthrobacter oxydans,1671
+1245,Isca,1672066
+1246,Human rhinovirus strain Hanks,167323
+1247,Vetiveria zizanioides,167337
+1248,Inonotus obliquus,167356
+1249,Cyanobium,167375
+1250,Houttuynia cordata,16752
+1251,Stemona tuberosa,167572
+1252,Velutina,1676592
+1253,Alternaria mali,167741
+1254,Bifidobacterium,1678
+1255,Eurythoe complanata,167815
+1256,Cannabis sativa subsp. sativa,1678924
+1257,Symplocos chinensis,167894
+1258,Bifidobacterium longum subsp. longum,1679
+1259,Ajuga decumbens,167911
+1260,golden dewdrops,167917
+1261,Bifidobacterium adolescentis,1680
+1262,Bifidobacterium bifidum,1681
+1263,Bifidobacterium longum subsp. infantis,1682
+1264,Laribacter hongkongensis,168471
+1265,Penicillium arenicola,168477
+1266,Buddleja crispa,168493
+1267,Buddleja globosa,168495
+1268,Bifidobacterium breve,1685
+1269,striped riceborer,168631
+1270,Salinispora,168694
+1271,Salinispora tropica,168695
+1272,Salinispora arenicola,168697
+1273,Bifidobacterium dentium,1689
+1274,Verrucaria,168925
+1275,Alangium chinense,16897
+1276,Cornus officinalis,16906
+1277,Human rhinovirus sp.,169066
+1278,Cornus walteri,16907
+1279,Guignardia aesculi,169186
+1280,Camptotheca acuminata,16922
+1281,Glinus lotoides,169249
+1282,Corynebacterium aurimucosum,169292
+1283,Fusarium solani,169388
+1284,Bifidobacterium pseudolongum,1694
+1285,Rhis,169493
+1286,Brevibacterium,1696
+1287,Tagetes lucida,169606
+1288,Corynebacterium ammoniigenes,1697
+1289,Arcyria ferruginea,1697574
+1290,Brevibacterium epidermidis,1698
+1291,Arthrobacter gandavensis,169960
+1292,Listeria monocytogenes strain EGD-e,169963
+1293,Streptococcus pneumoniae TIGR4,170187
+1294,Caldora,1702237
+1295,Caldora penicillata,1702241
+1296,Brevibacterium linens,1703
+1297,Mitragyna speciosa,170351
+1298,Measles virus genotype D6,170527
+1299,Measles virus genotype D7,170529
+1300,Pteris multifida,170715
+1301,Tritoniopsis elegans,1707732
+1302,Cellulosimonas fimi,1708
+1303,Melinda,170907
+1304,Thai lime,170989
+1305,Leptospira,171
+1306,Photuris pensylvanica,1710587
+1307,Streptococcus pneumoniae R6,171101
+1308,Acer maximowiczianum,171213
+1309,Corynebacterium,1716
+1310,Inquilinus limosus,171674
+1311,Corynebacterium diphtheriae,1717
+1312,Corynebacterium glutamicum,1718
+1313,Helleborus orientalis,171898
+1314,Corynebacterium pseudotuberculosis,1719
+1315,Helleborus thibetanus,171900
+1316,maranon,171929
+1317,Corynebacterium sp.,1720
+1318,Amphimallon majale,1720622
+1319,Ormosia,1720826
+1320,Coniella,172190
+1321,Pilidiella eucalyptorum,172191
+1322,Corynebacterium xerosis,1725
+1323,Broussonetia papyrifera,172644
+1324,Arcytophyllum thymifolium,172780
+1325,Tor,172918
+1326,Leptospira interrogans,173
+1327,Eubacterium,1730
+1328,Pestalotiopsis adusta,173179
+1329,Pestalotiopsis disseminata,173182
+1330,Pestalotiopsis neglecta,173184
+1331,Pestalotiopsis palmarum,173185
+1332,Trachinotus falcatus,173331
+1333,Eubacterium biforme,1735
+1334,Saccharothrix algeriensis,173560
+1335,Eubacterium limosum,1736
+1336,Delphacodes,173790
+1337,Didymochlaena truncatula,173906
+1338,Lysichiton camtschatcensis,174226
+1339,Propionibacterium,1743
+1340,Galanga,1745512
+1341,Rumex crispus,174649
+1342,Propionicibacterium acnes,1747
+1343,Sphaerius,174920
+1344,finger-root,174970
+1345,Uvaria grandiflora,174973
+1346,Uvaria hamiltonii,174975
+1347,Propionicibacterium propionicum,1750
+1348,Primula vulgaris,175104
+1349,Irena,175118
+1350,Prunella,175132
+1351,Thermoanaerobacter,1754
+1352,Andrographis paniculata,175694
+1353,Actinobacteria <class>,1760
+1354,Eos,176063
+1355,Aspergillus ochraceopetaliformis,176175
+1356,Aspergillus pseudodeflectus,176178
+1357,Beauveria bassiana,176275
+1358,Staphylococcus epidermidis str. RP62A,176279
+1359,Staphylococcus epidermidis ATCC 12228,176280
+1360,Listeria monocytogenes ATCC 19115,176281
+1361,Mycobacterium,1763
+1362,Mycobacterium avium,1764
+1363,Lobaria scrobiculata,176461
+1364,Mycobacterium bovis,1765
+1365,Solenopsis saevissima,176597
+1366,Mycobacterium fortuitum,1766
+1367,Hofmeisteria schaffneri,176606
+1368,Ageratina adenophora,176616
+1369,Mycobacterium intracellulare,1767
+1370,Mycobacterium kansasii,1768
+1371,Mycobacterium leprae,1769
+1372,Paraboeremia,1769962
+1373,Mycobacterium avium paratuberculosis,1770
+1374,Mycobacterium phlei,1771
+1375,Mycobacterium smegmatis,1772
+1376,Agra,177257
+1377,Mycobacterium tuberculosis,1773
+1378,Mycobacterium chelonae chelonae,1774
+1379,Francisella tularensis subsp. tularensis str. SCHU S4,177416
+1380,Lia,177434
+1381,Mycobacterium flavescens,1776
+1382,Mycobacterium gordonae,1778
+1383,Cheumatopsyche,177865
+1384,Verongiida,1779151
+1385,Batzella,1779225
+1386,Mycobacterium malmoense,1780
+1387,Mycobacterium marinum,1781
+1388,Calyptranthes pallens,178121
+1389,Syncarpia glomulifera,178137
+1390,Phaeosphaeria fuckelii,178153
+1391,Mycobacterium scrofulaceum,1783
+1392,Mycobacterium simiae,1784
+1393,Acanthostrongylophora,178473
+1394,Mycobacterium sp.,1785
+1395,Amphimedon,178513
+1396,Aka,178515
+1397,Amphimedon viridis,178517
+1398,Sarcodon scabrosus,178525
+1399,Boletopsis leucomelaena,178527
+1400,Callyspongia,178537
+1401,Haliclona vansoesti,178543
+1402,Xestospongia,178550
+1403,giant barrel sponge,178552
+1404,Fusarium oxysporum f. sp. cyclaminis,178565
+1405,Cicuta maculata,178650
+1406,Mycobacterium szulgai,1787
+1407,Anopterus glandulosus,178799
+1408,Mycobacterium terrae,1788
+1409,Cryptococcus neoformans var. grubii,178876
+1410,Tetranychus evansi,178897
+1411,Mycobacterium xenopi,1789
+1412,Pachychalina,179012
+1413,Mycobacterium aurum,1791
+1414,Paradendryphiella salina,179392
+1415,Ami,1795681
+1416,Mycobacterium thermoresistibile,1797
+1417,Strophioblachia fimbricalyx,179702
+1418,Itoa orientalis,179731
+1419,Nardostachys chinensis,179860
+1420,Dictyochloris fragrans,179863
+1421,Burkholderia anthina,179879
+1422,Psychotria oleoides,180038
+1423,Sambucus williamsii,180062
+1424,Scabiosa tschiliensis,180067
+1425,Patrinia scabra,180074
+1426,Mycobacterium diernhoferi,1801
+1427,Garcinia atroviridis,180101
+1428,Garcinia cowa,180103
+1429,Sphaerotheca humuli,180121
+1430,Radix acuminata,1804063
+1431,Sclerotium delphinii,180424
+1432,Anopheles gambiae str. PEST,180454
+1433,Pholidota chinensis,180499
+1434,Moricandia arvensis,180540
+1435,Mycobacterium microti,1806
+1436,Gymnascella dankaliensis,180778
+1437,Mycobacterium ulcerans,1809
+1438,Cyperus compressus,180964
+1439,Trichosporum,1809731
+1440,Mycobacterium vaccae,1810
+1441,Alternaria eureka,181018
+1442,Apiospora,1811811
+1443,Commiphora africana,181237
+1444,Amycolatopsis,1813
+1445,Cyathus stercoreus,181520
+1446,Ophiarachna,1815292
+1447,Ophiarachna incrassata,1815294
+1448,Actinokineospora fastidiosa,1816
+1449,Nocardia,1817
+1450,magic mushroom,181762
+1451,Heimiomyces,181956
+1452,Leucopaxillus gentianeus,181998
+1453,Pao,1820602
+1454,Daphniphyllum calycinum,182071
+1455,Gynostemma pentaphyllum,182084
+1456,Botrytis fabae,182092
+1457,Nocardia sp.,1821
+1458,Poaceicola,1821268
+1459,Paraburkholderia,1822464
+1460,Nocardia otitidiscaviarum,1823
+1461,Polyspora chrysandra,182314
+1462,Schima noronhae,182319
+1463,Anneslea fragrans,182331
+1464,Erwinia billingiae,182337
+1465,Nocardia asteroides,1824
+1466,Rhodococcus,1827
+1467,Oceanobacillus iheyensis,182710
+1468,Rhodococcus fascians,1828
+1469,Pseudobaeospora pyrifera,182862
+1470,Rhodococcus rhodochrous,1829
+1471,Oplopanax horridus,182917
+1472,Galinsoga quadriradiata,183030
+1473,Melampodium leucanthum,183048
+1474,Neurolaena lobata,183056
+1475,Parthenium hysterophorus,183063
+1476,Synedrella nodiflora,183085
+1477,Rhodococcus sp.,1831
+1478,Rhodococcus erythropolis,1833
+1479,Streptomyces padanus,183408
+1480,Proteus hauseri,183417
+1481,Saccharopolyspora erythraea,1836
+1482,Corymbia intermedia,183805
+1483,Valeriana sorbifolia,183954
+1484,Cosenzaea myxofaciens,184072
+1485,Ecteinascidia thurstoni,1841246
+1486,Schizozygia coffaeoides,184394
+1487,Sporotrichum,184471
+1488,Sporotrichum laxum,184472
+1489,Rhododendron latoucheae,184576
+1490,Pseudonocardia,1847
+1491,Candida deformans,184778
+1492,Corallococcus coralloides,184914
+1493,Saccharomonospora,1851
+1494,Liposcelis bostrychophila,185214
+1495,Trypanosoma brucei TREU927,185431
+1496,yerba-mate,185542
+1497,Leucetta chagosensis,185688
+1498,Dendrolobium lanceolatum,185705
+1499,Lanceolata,185814
+1500,Human rhinovirus B4,185889
+1501,Human rhinovirus A8,185890
+1502,Human rhinovirus A9,185891
+1503,Human rhinovirus A15,185894
+1504,Human rhinovirus A22,185896
+1505,Human rhinovirus A25,185898
+1506,Human rhinovirus A30,185901
+1507,Human rhinovirus A39,185907
+1508,Human rhinovirus A41,185909
+1509,Human rhinovirus A51,185912
+1510,Human rhinovirus A59,185918
+1511,Human rhinovirus A63,185921
+1512,Human rhinovirus A67,185924
+1513,Human rhinovirus B70,185926
+1514,Human rhinovirus A71,185927
+1515,Human rhinovirus A85,185937
+1516,Human rhinovirus B86,185938
+1517,Albifimbria verrucaria,1859699
+1518,Wisteria brachybotrys,185975
+1519,Paramyrothecium roridum,1859971
+1520,Streptococcus pyogenes MGAS8232,186103
+1521,Cossidae,186108
+1522,Fomitopsis palustris,186125
+1523,Bovicola ovis,186214
+1524,Wardomyces anomalus,186366
+1525,Pyrococcus furiosus DSM 3638,186497
+1526,Actinoplanes,1865
+1527,Physalospora,186525
+1528,Ebolavirus,186536
+1529,Marburgvirus,186537
+1530,Zaire ebolavirus,186538
+1531,Actinoplanes teichomyceticus,1867
+1532,Plasmodium falciparum FcB1/Columbia,186763
+1533,Fusarium reticulatum,186800
+1534,Clostridia,186801
+1535,Lachnospiraceae,186803
+1536,Goatpox virus,186805
+1537,Bacillaceae,186817
+1538,Diplobatis ommata,1870830
+1539,nan sha shen,187269
+1540,Micromonospora,1873
+1541,Pseudocercospora fijiensis,1873960
+1542,Yersinia pestis KIM10+,187410
+1543,Methanobacterium thermoautotrophicum str. Delta H,187420
+1544,Gymnema inodorum,187497
+1545,Marsdenia tenacissima,187505
+1546,Micromonospora echinospora,1877
+1547,Parvicirrus,187803
+1548,Streptomyces,1883
+1549,Lysidice <polychaete>,188454
+1550,Cryptococcus gattii species complex,1884637
+1551,kantan,188493
+1552,Zingiber spectabile,188518
+1553,Streptomyces albogriseolus,1887
+1554,Streptomyces koyangensis,188770
+1555,Streptomyces albus,1888
+1556,Microchaete,188910
+1557,Mycobacterium lacticola,188916
+1558,Streptomyces antibioticus,1890
+1559,Betapolyomavirus hominis,1891762
+1560,Betapolyomavirus macacae,1891767
+1561,Meloidogyne,189290
+1562,Streptomyces atratus,1893
+1563,Kitasatospora aureofaciens,1894
+1564,Streptomyces avidinii,1895
+1565,Chrysoperla carnea,189513
+1566,Indicator,189528
+1567,Tamarix nilotica,189799
+1568,camel's foot,189976
+1569,Streptomyces coelicolor,1902
+1570,Ixeridium dentatum,190260
+1571,Fusobacterium nucleatum subsp. nucleatum strain ATCC 25586,190304
+1572,Aphylla,1904581
+1573,Streptomyces exfoliatus,1905
+1574,luo han guo,190515
+1575,Dysidea,190526
+1576,Streptomyces fradiae,1906
+1577,Caulobacter crescentus CB15,190650
+1578,Periploca sepium,190712
+1579,Streptomyces globisporus,1908
+1580,tickweed,190804
+1581,Hexabranchus sanguineus,190924
+1582,Phyllidia varicosa,190926
+1583,Apiospora sinensis,190939
+1584,Halorosellinia oceanica,190947
+1585,Reticulidia fungia,190952
+1586,Scleritoderma nodosum,1909725
+1587,Stimpsonia chamaedryoides,191057
+1588,Streptomyces sp. WXC19-1,1911
+1589,Streptomyces hygroscopicus,1912
+1590,Bacillus anthracis strain A2012,191218
+1591,Cistus creticus,191224
+1592,Hirtella,1912254
+1593,Termitoidae,1912919
+1594,Aphis fabae,191316
+1595,red cotton bug,191328
+1596,Stereum sanguinolentum,191435
+1597,Eurhopalus australis,1915147
+1598,Streptomyces lividans,1916
+1599,Indoplanorbis exustus,191797
+1600,Burkea africana,191880
+1601,yellow nicker,191881
+1602,Colvillea racemosa,191917
+1603,Stuhlmannia moavi,191956
+1604,climbing hempweed,192012
+1605,Usnea articulata,192175
+1606,Echinochloa crus-galli var. formosensis,192189
+1607,Streptomyces plicatus,1922
+1608,Campylobacter jejuni subsp. jejuni NCTC 11168 = ATCC 700819,192222
+1609,Streptomyces phaeochromatogenes,1923
+1610,Myosotis arvensis,192338
+1611,Neglectibacter,1924105
+1612,potato tuberworm,192464
+1613,Aspergillus porosus,1924929
+1614,Major,1925465
+1615,Ipa,1926247
+1616,Streptomyces rochei,1928
+1617,Chaetomium nigricolor,192817
+1618,Streptomyces scabiei,1930
+1619,Linaria,1930290
+1620,Streptomyces sp.,1931
+1621,Aigialus parvus,193128
+1622,kapoktree,193163
+1623,Streptomyces tendae,1932
+1624,Watersipora subtorquata,193294
+1625,Hypomyces subiculosus,193393
+1626,Streptomyces thermovulgaris,1934
+1627,Amesia nigricolor,1934353
+1628,Streptomyces aureus,193461
+1629,Streptomyces violaceoruber,1935
+1630,Neoseiulus cucumeris,193551
+1631,Streptomyces viridochromogenes,1938
+1632,Campylobacter,194
+1633,Arion subfuscus,194188
+1634,breadfruit,194251
+1635,Maclura cochinchinensis,194324
+1636,Pleione yunnanensis,194513
+1637,Campylobacter coli,195
+1638,Streptomyces peucetius,1950
+1639,Clostridium perfringens 13,195102
+1640,Fusarium falciforme,195108
+1641,Veronica polita,195136
+1642,Rappaport,1955421
+1643,Streptomyces diastaticus,1956
+1644,Valencia,195854
+1645,small brown planthopper,195883
+1646,Actinoalloteichus caeruleus,195949
+1647,Campylobacter fetus,196
+1648,Taiwanofungus camphoratus,196114
+1649,Naja mossambica,196380
+1650,Malayotyphlops ruber,196476
+1651,Callithrix,1965096
+1652,Staphylococcus aureus subsp. aureus MW2,196620
+1653,Corynebacterium glutamicum ATCC 13032,196627
+1654,Desmanthus illinoensis,196648
+1655,Dichrostachys cinerea,196665
+1656,Dysidea avara,196820
+1657,Streptomyces chartreusis,1969
+1658,Operculina <Foraminiferida>,196918
+1659,Campylobacter jejuni,197
+1660,Leucetta microraphis,197028
+1661,Streptomyces noursei,1971
+1662,bu za ye,197124
+1663,Cylas formicarius,197179
+1664,Laurencia brongniartii,197325
+1665,Laurencia catarinensis,197326
+1666,Laurencia intricata,197329
+1667,Cyclocybe aegerita,1973307
+1668,Blaps,197343
+1669,Streptococcus pasteurianus,197614
+1670,Emaravirus fici,1980427
+1671,Orthohantavirus hantanense,1980471
+1672,Orthonairovirus haemorrhagiae,1980519
+1673,American serpentine leafminer,198433
+1674,Streptococcus pyogenes MGAS315,198466
+1675,Phyllosticta cirsii,1986016
+1676,Disporum viridescens,198699
+1677,Talaromyces verruculosus,198730
+1678,sour mangosteen,198766
+1679,Harungana madagascariensis,198768
+1680,Actinomadura,1988
+1681,Iris sanguinea,198824
+1682,Iris tenuifolia,198827
+1683,Actinomadura sp.,1989
+1684,Campylobacter concisus,199
+1685,Coccidioides posadasii,199306
+1686,Escherichia coli strain CFT073,199310
+1687,Chinese-ginger,199623
+1688,sha ren,199627
+1689,Curcuma comosa,199633
+1690,Kaempferia pulchra,199647
+1691,Renealmia alpinia,199658
+1692,Bacteria,2
+1693,Streptosporangium,2000
+1694,Stypopodium zonale,200428
+1695,Sophora alopecuroides,200492
+1696,broadleaf signalgrass,200625
+1697,Xanthogaleruca luteola,200915
+1698,Acanthoscelides obtectus,200917
+1699,Bocks-Hauhechel,200952
+1700,langsat,201017
+1701,Actinobacteria,201174
+1702,Penicillium brocae,201291
+1703,Nocardiopsis,2013
+1704,Nocardiopsis dassonvillei,2014
+1705,Streptoalloteichus hindustanus,2017
+1706,Car,201850
+1707,Aplidium,201956
+1708,Didemnum candidum,201962
+1709,red sea-squirt,201963
+1710,large pine weevil,201999
+1711,ivyleaf speedwell,202477
+1712,Trichoderma erinaceum,202914
+1713,Trichoderma velutinum,202918
+1714,Acinetobacter baylyi,202950
+1715,Hylotelephium erythrostictum,202969
+1716,Veratrum grandiflorum,203092
+1717,Veratrum nigrum,203100
+1718,Onychocola sclerotica,203146
+1719,Nes,203327
+1720,Curtobacterium flaccumfaciens,2035
+1721,Sisymbrium officinale,203582
+1722,Actinomycetales,2037
+1723,Kochiana,2038624
+1724,Basilicum polystachyon,204108
+1725,Hyptis brevipes,204123
+1726,Isodon pharicus,204134
+1727,Isodon ternifolius,204136
+1728,Ocimum tenuiflorum,204149
+1729,Astragalus lentiginosus,20416
+1730,Plectranthus amboinicus,204180
+1731,Plectranthus cylindraceus,204214
+1732,Pterogorgia citrina,204322
+1733,Eunicea knighti,204324
+1734,Eunicea fusca,204327
+1735,Plexaurella grisea,204333
+1736,Ibicella lutea,204345
+1737,Pseudopterogorgia,204376
+1738,Antillogorgia elisabethae,204377
+1739,Pseudopterogorgia bipinnata,204379
+1740,Antillogorgia acerosa,204390
+1741,Pimelobacter simplex,2045
+1742,Brucella suis 1330,204722
+1743,Asterospicularia,205091
+1744,Cladiella,205093
+1745,Lobophytum,205095
+1746,Lobophytum pauciflorum,205096
+1747,Sarcophyton trocheliophorum,205097
+1748,Mobiluncus curtisii,2051
+1749,Mobiluncus mulieris,2052
+1750,Globisporangium ultimum,2052682
+1751,Gordonia,2053
+1752,Tripterygium hypoglaucum,205465
+1753,Ebola virus sp.,205488
+1754,kumba,205524
+1755,Cylinder,2056773
+1756,Forsythia viridissima,205691
+1757,Disco,2056986
+1758,Pseudeurotium bakeri,205925
+1759,Mene,206144
+1760,Sandfly fever Naples virus,206160
+1761,Sesbania drummondii,206308
+1762,Klyxum,206345
+1763,Klyxum simplex,206346
+1764,Hymenaea courbaril,20676
+1765,Protodendron repens,2069431
+1766,Escovopsis sp.,2070380
+1767,Saccharothrix,2071
+1768,Chiron,207382
+1769,Desulfovibrio alaskensis strain G20,207559
+1770,Drosophila levii,207655
+1771,Remotididymella,2078546
+1772,Moorea bouillonii,207920
+1773,Lyngbya confervoides,207921
+1774,Lyngbya polychroa,207922
+1775,Lyngbya semiplena,207923
+1776,Symploca hydnoides,207924
+1777,Monosporium,2081241
+1778,Puccinia allii,208347
+1779,wheat leaf rust,208348
+1780,[Clostridium] bolteae,208479
+1781,Pseudomonas aeruginosa PAO1,208964
+1782,Helicobacter,209
+1783,Mycoplasma,2093
+1784,Aspergillus alliaceus,209559
+1785,Lobaria orientalis,209568
+1786,Mycoplasma gallisepticum,2096
+1787,Mycoplasma genitalium,2097
+1788,Mycoplasma hominis,2098
+1789,Liposcelis paeta,209927
+1790,Lepinotus reticulatus,209981
+1791,Helicobacter pylori,210
+1792,Streptococcus mutans UA159,210007
+1793,Maclura tricuspidata,210328
+1794,Euscaphis japonica,210332
+1795,Picrasma quassioides,210334
+1796,Brucea javanica,210348
+1797,Symplocos setchuensis,210366
+1798,Tribulus terrestris,210369
+1799,Aquilaria sinensis,210372
+1800,batoko plum,210376
+1801,Hypericum ascyron,210378
+1802,Mycoplasma pneumoniae,2104
+1803,Lactarius,210571
+1804,Striatella,210617
+1805,Wollastonia,2109277
+1806,Discula,2109287
+1807,Digitaria adscendens,2109293
+1808,Influenza A virus (A/Puerto Rico/8/1934(H1N1)),211044
+1809,Cyanthillium cinereum,211151
+1810,Mycoplasma fermentans,2115
+1811,Acanthamoeba quina,211522
+1812,Clusia paralicola,211713
+1813,Sabia,211740
+1814,Serratia marcescens subsp. marcescens,211759
+1815,Berberis koreana,211974
+1816,Garcinia subelliptica,212238
+1817,Hypericum patulum,212239
+1818,Galphimia glauca,212252
+1819,Codiaeum peltatum,212292
+1820,Croton insularis,212293
+1821,Mycoplasma putrefaciens,2123
+1822,Euphorbia humifusa,212301
+1823,Tripos,2126447
+1824,Clostridium tetani E88,212717
+1825,Conyza sumatrensis,212787
+1826,Sulfurihydrogenibium,212790
+1827,Ureaplasma,2129
+1828,Euphorbia heterophylla,212910
+1829,Euphorbia lathyris,212925
+1830,Euphorbia laurifolia,212926
+1831,Spiroplasma,2132
+1832,Lysimachia heterogenea,213271
+1833,Spiroplasma citri,2133
+1834,Ardisia gigantifolia,213405
+1835,Spiroplasma monobiae,2136
+1836,Spiroplasma apis,2137
+1837,Staphylea pinnata,213841
+1838,Viola tricolor,214053
+1839,Yersinia pestis strain CO92,214092
+1840,Pero,214303
+1841,Leishmania garnhami,214612
+1842,Cryptococcus neoformans var. neoformans strain JEC21,214684
+1843,Cavendish banana,214697
+1844,Acholeplasma laidlawii,2148
+1845,Papaver pseudo-orientale,215228
+1846,Exophiala oligosperma,215243
+1847,Brama,215351
+1848,zebra fish,215408
+1849,tropical soda-apple,215581
+1850,Centaurea maculosa,215693
+1851,Galenia africana,215966
+1852,Methanobacterium,2160
+1853,Issatchenkia hanoiensis,216065
+1854,Streptococcus agalactiae serogroup V,216466
+1855,Burkholderia cenocepacia str. J2315,216591
+1856,Bifidobacterium longum,216816
+1857,Spiroplasma floricola,216937
+1858,Onyong-nyong virus,2169701
+1859,Mammarenavirus juninense,2169991
+1860,Mammarenavirus caliense,2169993
+1861,Acridocarpus orientalis,217128
+1862,Paxillus curtisii,217300
+1863,crucian carp,217509
+1864,grassy rockgoldenrod,217597
+1865,Dialister invisus,218538
+1866,Pestalotiopsis theae,218556
+1867,Cordyceps cicadae,218633
+1868,Methanocaldococcus jannaschii,2190
+1869,Oxypetalum strictum,219268
+1870,Shewanella,22
+1871,Clathria,2200920
+1872,Plumbago,2201679
+1873,Salmonella enterica subsp. enterica serovar Typhi CT18,220341
+1874,Leptosphaeria biglobosa,220672
+1875,Methanosarcina,2207
+1876,Eugongylus rufescens,220764
+1877,Methanosarcina thermophila,2210
+1878,Amphimallon,221091
+1879,Amphimallon majalis,221092
+1880,Limimaricola,2211638
+1881,Stigonema,221292
+1882,Westiellopsis prolifica,221298
+1883,Holothuria nobilis,221420
+1884,Polytolypa hystricis,221428
+1885,Filaria,221949
+1886,Cymopolia barbata,222010
+1887,Cortinarius subtortus,222051
+1888,Peregrinus,222431
+1889,Peregrinus maidis,222432
+1890,littleseed canarygrass,222563
+1891,Mycobacterium chimaera,222805
+1892,Citharexylum spinosum,222865
+1893,Orobanche crenata,223102
+1894,Akanthomyces muscarius,2231603
+1895,Togninia minima,223192
+1896,Parauronema longum,223573
+1897,yomogi,223870
+1898,Lipaphis erysimi,223995
+1899,Murine norovirus 1,223997
+1900,Daphne gnidium,224034
+1901,emerald ash borer,224129
+1902,Bacillus subtilis subsp. subtilis str. 168,224308
+1903,Aquifex aeolicus VF5,224324
+1904,Borrelia burgdorferi B31,224326
+1905,Shiraia bambusicola,224420
+1906,Aurapex penicillata,224451
+1907,Ambavia gerrardii,224845
+1908,Knema laurina,224862
+1909,Leishmania orientalis,2249476
+1910,Karenia mikimotoi,225107
+1911,Carpophilus,225191
+1912,Perforatella incarnata,225471
+1913,Gnetum latifolium,225592
+1914,Cestrum nocturnum,225615
+1915,Annickia kummeriae,225831
+1916,Alteromonas,226
+1917,Pyrococcus,2260
+1918,Pyrococcus furiosus,2261
+1919,Enterococcus faecalis str. V583,226185
+1920,dan shen,226208
+1921,Hedyosmum orientale,226581
+1922,zakuro,22663
+1923,complex-toothed flying squirrel,226819
+1924,Morus lhou,226896
+1925,Bacillus cereus ATCC 14579,226900
+1926,Pithomyces,227062
+1927,Typhonium giganteum,227256
+1928,Aspergillus nidulans FGSC A4,227321
+1929,Indian nightshade,227722
+1930,Cercospora sojina,227735
+1931,SARS coronavirus,227859
+1932,SARS coronavirus Tor2,227984
+1933,Pseudoalteromonas haloplanktis,228
+1934,Myosoton aquaticum,228244
+1935,Ceylon blue glassy tiger,228300
+1936,SARS coronavirus Urbani,228330
+1937,Tephrosia purpurea,228354
+1938,Streptacidiphilus,228398
+1939,Sulfolobus,2284
+1940,Prevotella salivae,228604
+1941,Krameria lappacea,228636
+1942,Holopus,228696
+1943,Sulfolobus solfataricus,2287
+1944,Tylophora ovata,228704
+1945,Cynanchum wilfordii,228709
+1946,Tylophora tanakae,228715
+1947,Vincetoxicum pycnostelma,228726
+1948,Proteus sp.,229037
+1949,yellow boxfish,229058
+1950,Amyris,2290857
+1951,Indian-hemp,229543
+1952,Streptococcus minor,229549
+1953,Stoechospermum marginatum,2301667
+1954,Fatsia polycarpa,230586
+1955,Misumenops,231350
+1956,Puccinia asparagi,231640
+1957,Clematis tashiroi,231662
+1958,Garcinia hanburyi,231906
+1959,Garcinia schomburgkiana,231908
+1960,Pythium debaryanum,231958
+1961,Alteromonas sp.,232
+1962,Rubus,23216
+1963,Greyia radlkoferi,23282
+1964,Culex pipiens molestus,233155
+1965,Bacillus sp. PS3,2334
+1966,Haemophilus ducreyi 35000HP,233412
+1967,Thermotoga maritima,2336
+1968,Diploknema butyracea,233684
+1969,Mariannaea camptospora,233850
+1970,Scutellaria lateriflora,233893
+1971,Flos,233962
+1972,Laetisaria fuciformis,234799
+1973,Brucella abortus,235
+1974,Alphonsea javanica,235712
+1975,Meiogyne cylindrocarpa,235742
+1976,Orophea enneandra,235778
+1977,Hubera cerasoides,235797
+1978,Monoon longifolium,235806
+1979,Parmotrema tinctorum,235862
+1980,Leptocorisa acuta,236728
+1981,Flavobacterium,237
+1982,Aaptos,237077
+1983,Aaptos suberitoides,237078
+1984,Spheciospongia,237082
+1985,Axinella verrucosa,237119
+1986,Stylissa,237127
+1987,Stylissa flabelliformis,237128
+1988,Myrmekioderma,237137
+1989,Acanthostrongylophora ingens,237153
+1990,Candida albicans SC5314,237561
+1991,Teratosphaeria,237584
+1992,Ustilago maydis 521,237631
+1993,Cryptosporidium hominis,237895
+1994,gomo-ju,237958
+1995,Elizabethkingia meningoseptica,238
+1996,stinking sumac,23810
+1997,Yunnanensis,2382309
+1998,Kadsura polysperma,238548
+1999,Schisandra lancifolia,238549
+2000,Doras,238594
+2001,Iso,238707
+2002,Rotylenchulus reniformis,239373
+2003,Petromarula pinnata,239464
+2004,Carolinensis,239491
+2005,Tsukamurella pseudospumae,239498
+2006,Dryopteris wallichiana,239607
+2007,Euphorbia kansui,239687
+2008,Alistipes,239759
+2009,Shewanella putrefaciens,24
+2010,Schizothrix,240294
+2011,Neofusicoccum australe,240362
+2012,Urochloa decumbens,240449
+2013,Calcarisporium arbuscula,240499
+2014,Candida africana,241526
+2015,Xylocarpus granatum,241841
+2016,bloodwood,241870
+2017,Gloydius blomhoffii,242054
+2018,Fer,2420712
+2019,Magnaporthe oryzae 70-15,242507
+2020,Rumex bucephalophorus,242533
+2021,Alcaligenaceae bacterium FB188,242601
+2022,Prevotella bergensis,242750
+2023,Pochonia,243023
+2024,Burkholderia mallei ATCC 23344,243160
+2025,Deinococcus radiodurans str. R1,243230
+2026,Photorhabdus luminescens subsp. laumondii str. TTO1,243265
+2027,Thermotoga maritima strain MSB8,243274
+2028,Vibrio cholerae serotype O1 biotype El Tor strain N16961,243277
+2029,Klebsiella variicola,244366
+2030,Mino,245039
+2031,Oenanthe,245059
+2032,Stemphylium globuliferum,245170
+2033,Cis,245896
+2034,Mycobacterium smegmatis 'MC2 155',246196
+2035,Myxococcus xanthus DK 1622,246197
+2036,Staphylococcus equorum,246432
+2037,Hebeloma monticola,246631
+2038,Trichoderma brevicompactum,247546
+2039,Anagrus nilaparvatae,2479706
+2040,Apolygus lucorum,248454
+2041,Dalea filiciformis,248502
+2042,Dalea purpurea,248511
+2043,Psorothamnus arborescens,248527
+2044,Ceratostema lanigerum,249288
+2045,Serpula <polychaete>,249367
+2046,Sporisorium formosanum,249473
+2047,obscure mealybug,249563
+2048,Streptomyces cacaoi subsp. asoensis,249586
+2049,Anonymus,2496901
+2050,Roche,2506334
+2051,Fritillaria,2507559
+2052,Asimina longifolia,251264
+2053,Junceella juncea,252316
+2054,alhandal,252529
+2055,Tambja ceutae,252560
+2056,Micropterus salmoides rhabdovirus,2527734
+2057,Trichosporon mycotoxinovorans,252803
+2058,Hexagonia apiaria,252826
+2059,Rotunda,2528346
+2060,Phorbas,252957
+2061,Plakortis simplex,252963
+2062,Spongia officinalis,252964
+2063,Chryseobacterium indologenes,253
+2064,Aaptos aaptos,253165
+2065,Stelletta,253167
+2066,Darwinella,253178
+2067,Clavariopsis aquatica,253306
+2068,Epimedium sagittatum,253616
+2069,Epimedium brevicornu,253618
+2070,thyme-leaf sandwort,254029
+2071,Oenanthe fistulosa,254046
+2072,Fonsecaea monophora,254056
+2073,Autographa nigrisigna,254368
+2074,Monilia,254394
+2075,Monilinia mali,254396
+2076,Bacillus fortis,254758
+2077,Ascobolus stercorarius,255055
+2078,Apiospora montagnei,255776
+2079,Dichotomomyces cejpii,255781
+2080,Streptomyces aizunensis,255848
+2081,Elatine triandra,256093
+2082,Amentotaxus argotaenia,25625
+2083,Taxus baccata,25629
+2084,Latrodectus hesperus,256737
+2085,Strongyloidea,2572558
+2086,Lepidolaena clavigera,257378
+2087,Ptilonia australasica,257542
+2088,Lanceolata,2576003
+2089,European barberry,258209
+2090,Sagittaria pygmaea,258217
+2091,Thermothielavioides terrestris,2587410
+2092,Mops,258862
+2093,Salicornia herbacea,259302
+2094,Penaeus monodon nucleopolyhedrovirus,259389
+2095,Philinopsis,259619
+2096,Artemisia argyi,259893
+2097,Myrciaria vexator,260137
+2098,Syzygium samarangense,260143
+2099,Pandanus amaryllifolius,260201
+2100,Spongia hispida,2604253
+2101,Asparagopsis taxiformis,260499
+2102,Argentina,260511
+2103,Lycopus europaeus,260603
+2104,Orthosiphon stamineus,260636
+2105,watermelon,260674
+2106,cerejeira-do-Taiti,260718
+2107,Cystodytes,260823
+2108,Cystodytes dellechiajei,260824
+2109,Porzana carolina,261200
+2110,Paracercion sieboldii,261233
+2111,Intestinibacter bartlettii,261299
+2112,Omicron,2613138
+2113,Plagiochila fruticosa,261373
+2114,Laeta,2614789
+2115,Bacillus anthracis str. 'Ames Ancestor',261594
+2116,Scorzonera austriaca,261619
+2117,Eurypon,261679
+2118,Podospora decipiens,261697
+2119,Helichrysum arenarium,261776
+2120,curry plant,261786
+2121,Pinus clausa,261911
+2122,Francisella,262
+2123,Rodgersia podophylla,262050
+2124,Measles virus genotype A,262307
+2125,Solidago shortii,262317
+2126,Scaphechinus mirabilis,262334
+2127,Actinocyclus <sea slug>,262595
+2128,Thermus thermophilus strain HB27,262724
+2129,Ligularia nelumbifolia,262732
+2130,Chinese arbutus,262757
+2131,Alisma orientale,262913
+2132,Francisella tularensis,263
+2133,Chelator,263156
+2134,Onchocerca lienalis,263205
+2135,Melipona scutellaris,263364
+2136,Bacopa monnieri,263974
+2137,Francisella tularensis subsp. novicida,264
+2138,Boletopsis grisea,264080
+2139,Zymomonas mobilis subsp. mobilis ZM4 = ATCC 31821,264203
+2140,Pedipes mirabilis,264270
+2141,Ipomoea stans,264538
+2142,Trichormus,264688
+2143,Trichormus variabilis,264691
+2144,Byssochlamys spectabilis,264951
+2145,Pergularia tomentosa,264979
+2146,Prosopis farcta,264982
+2147,Paracoccus <bacteria>,265
+2148,Preussia <ascomycete fungus>,265084
+2149,Ena,265226
+2150,Contarinia nasturtii,265458
+2151,Astraeus pteridis,265492
+2152,Catalpa macrocarpa,265494
+2153,Chinese catalpa,265497
+2154,Listeria monocytogenes serotype 4b strain F2365,265669
+2155,Photobacterium halotolerans,265726
+2156,Eleutherococcus gracilistylus,265764
+2157,Artemisia capillaris,265783
+2158,Atractylodes macrocephala,265785
+2159,Angelica japonica,265806
+2160,Ectromelia virus Moscow,265874
+2161,Siphoptychium casparyi,2659272
+2162,Paracoccus denitrificans,266
+2163,Morinda parvifolia,266089
+2164,Cupriavidus metallidurans str. CH34,266264
+2165,Nemo,2663106
+2166,Prosthemadera novaeseelandiae,266374
+2167,Raspalia virgata,266493
+2168,Penicillium multicolor,266794
+2169,Influenza A virus (A/Thailand/1(KAN-1)/2004(H5N1)),266827
+2170,Paracoccus sp.,267
+2171,Methanococcus maripaludis strain S2,267377
+2172,Aleurodicus dispersus,267823
+2173,Agoseris x elata,268001
+2174,Bovine viral diarrhea virus 1-CP7,268305
+2175,Mylabris,268452
+2176,Perovskia atriplicifolia,268885
+2177,Salvia amarissima,268887
+2178,Salvia chamaedryoides,268898
+2179,Salvia microphylla,268916
+2180,Salvia polystachya,268922
+2181,Hypericum forrestii,268992
+2182,Hypericum lissophloeus,269003
+2183,Hypericum prolificum,269015
+2184,Synechococcus elongatus PCC 6301,269084
+2185,Bipolaris gigantea,2695822
+2186,Taiwanofungus camphoratus,2696576
+2187,Preussia africana,269684
+2188,Preussia similis,269685
+2189,Preussia minimoides,269686
+2190,Severe acute respiratory syndrome coronavirus 2,2697049
+2191,Cotinus coggygria,269719
+2192,Aphelenchoides besseyi,269767
+2193,Sar,2698737
+2194,Gardnerella vaginalis,2702
+2195,Fomitopsis officinalis,270279
+2196,Citrus,2706
+2197,lemon,2708
+2198,Thermus aquaticus,271
+2199,Uga,2710078
+2200,Olympus,2710706
+2201,Valencia orange,2711
+2202,northern armyworm,271217
+2203,Aquifex,2713
+2204,Cerastium arvense,271558
+2205,Cratoxylum cochinchinense,271749
+2206,Burkholderia thailandensis str. E264,271848
+2207,Palicourea condensata,272141
+2208,Marietta,272370
+2209,Ixa,2724163
+2210,Pterocella,2724379
+2211,Emma,2724385
+2212,Eretmocerus eremicus,272444
+2213,Boletinus asiaticus,2725002
+2214,Burkholderia pseudomallei K96243,272560
+2215,Chlamydia trachomatis D/UW-3/CX,272561
+2216,Clostridium difficile str. 630,272563
+2217,Lactococcus lactis subsp. lactis str. Il1403,272623
+2218,Bias,272805
+2219,Saccharomyces pastorianus,27292
+2220,Schwanniomyces occidentalis,27300
+2221,Sulfolobus solfataricus strain P2,273057
+2222,Ureaplasma parvum serovar 3 str. ATCC 700970,273119
+2223,Yersinia pseudotuberculosis IP 32953,273123
+2224,Acronychia pubescens,273126
+2225,Geotrichum candidum,27317
+2226,Metschnikowia pulcherrima,27326
+2227,Penicillium expansum,27334
+2228,Verticillium albo-atrum,27335
+2229,Verticillium dahliae,27337
+2230,Candida orthopsilosis,273371
+2231,Candida metapsilosis,273372
+2232,Sordaria fimicola,27338
+2233,Symbiobacterium thermophilum,2734
+2234,Puccinia coronata,27344
+2235,Puccinia recondita,27348
+2236,Eunicea pinta,2734872
+2237,Colletotrichum acutatum,27357
+2238,Colletotrichum coccodes,27358
+2239,Colletotrichum fragariae,27359
+2240,Protea nitida,273598
+2241,Lithoplocamia,2737420
+2242,Lithoplocamia lithistoides,2737421
+2243,Aegla ligulata,273813
+2244,Melasma,2738362
+2245,Thermus thermophilus,274
+2246,Peptococcus,2740
+2247,Camera,274080
+2248,Peptococcus niger,2741
+2249,Nierembergia aristata,274371
+2250,Chrysomelidae,27439
+2251,oriental fruit fly,27457
+2252,Tama,2747183
+2253,Fusarium vanettenii,2747968
+2254,Carnibacterium divergens,2748
+2255,Aphididae,27482
+2256,Cornu,2749756
+2257,Cornu,2749757
+2258,Carnibacterium mobile,2750
+2259,Leptothorax,27501
+2260,Carnobacterium maltaromaticum,2751
+2261,Carnobacterium funditum,2752
+2262,Irciniidae,275430
+2263,Ircinia,275431
+2264,Helicoverpa punctigera,27545
+2265,Brochothrix thermosphacta,2756
+2266,Brochothrix campestris,2757
+2267,eukaryotes,2759
+2268,Torpedo nobiliana,27590
+2269,Erylus trisphaerus,2760685
+2270,Lens,2762336
+2271,Ardisia japonica,276775
+2272,Daphniphyllum macropodum,276776
+2273,Callicarpa,2768729
+2274,Melanogaster,2771363
+2275,Stagonospora cirsii,2772424
+2276,Terminator,2776085
+2277,Terrazoanthus,2777043
+2278,dab,27771
+2279,rhinovirus A1B,2777147
+2280,Bacteroides sp.,2778071
+2281,Human coronavirus NL63,277944
+2282,Amaranthus tuberculatus,277990
+2283,Pterocella vesiculosa,2780185
+2284,Kazachstania pintolopesii,278025
+2285,Loktanella hongkongensis,278132
+2286,Cooperia,27827
+2287,Cooperia oncophora,27828
+2288,Nippostrongylus,27834
+2289,Nippostrongylus brasiliensis,27835
+2290,Hydnellum cyrneum,2784340
+2291,Botryotinia globosa,278942
+2292,Antrodia cinnamomea,279009
+2293,Bacillus licheniformis DSM 13 = ATCC 14580,279010
+2294,Trichophyton tonsurans var. sulfureum,279139
+2295,Botrytis allii,279185
+2296,Porphyridium aerugineum,2792
+2297,Lobata,27921
+2298,Calcarea,27929
+2299,Tylopilus balloui,279503
+2300,Maniola tithonus,2795565
+2301,Agelas nakamurai,279581
+2302,Axinyssa ambrosia,279583
+2303,Stylissa carteri,279588
+2304,Stylissa massa,279589
+2305,Topsentia,279594
+2306,Lamellodysidea herbacea,279619
+2307,Lamellodysidea chlorea,279620
+2308,Lendenfeldia,279622
+2309,Phyllospongia,279624
+2310,Phyllospongia papyracea,279625
+2311,Hyrtios,279627
+2312,Hyrtios erectus,279628
+2313,Aconitum heterophyllum,279769
+2314,Sea,2798467
+2315,Perkinsus,28000
+2316,Hypsiboas pulchellus,280005
+2317,Perkinsus sp.,28001
+2318,Eleocharis acicularis,280053
+2319,Eleocharis kuroguwai,280063
+2320,Schoenoplectiella juncoides,280076
+2321,Nocardiopsis gilva,280236
+2322,Bifidobacterium animalis,28025
+2323,Bifidobacterium pseudocatenulatum,28026
+2324,Serrata,2802918
+2325,Staphylococcus lugdunensis,28035
+2326,Streptococcus mitis,28037
+2327,Lactobacillus leichmannii,28039
+2328,Philanthus triangulum,280486
+2329,Lyngbya,28073
+2330,Calophyllum brasiliense,280748
+2331,Metacordyceps chlamydosporia,280754
+2332,Bordetella sp.,28081
+2333,Acinetobacter lwoffii,28090
+2334,Burkholderia caryophylli,28094
+2335,Burkholderia gladioli,28095
+2336,Higginsia,281039
+2337,Ircinia ramosa,281041
+2338,Pseudoalteromonas espejiana,28107
+2339,Francisella philomiragia,28110
+2340,Bacteroides eggerthii,28111
+2341,Tannerella forsythia,28112
+2342,Bacteroides heparinolyticus,28113
+2343,Porphyromonas levii,28114
+2344,Bacteroides ovatus,28116
+2345,Odoribacter splanchnicus,28118
+2346,Porphyromonas asaccharolytica,28123
+2347,Prevotella bivia,28125
+2348,Prevotella buccae,28126
+2349,Prevotella corporis,28128
+2350,Prevotella denticola,28129
+2351,Prevotella disiens,28130
+2352,Prevotella intermedia,28131
+2353,Haemophilus influenzae 86-028NP,281310
+2354,Prevotella melaninogenica,28132
+2355,Prevotella nigrescens,28133
+2356,Prevotella oralis,28134
+2357,Prevotella oris,28135
+2358,Prevotella veroralis,28137
+2359,Cronobacter sakazakii,28141
+2360,Pseudomonas reptilovora,281466
+2361,Salmonella enterica subsp. enterica serovar Oranienburg,28147
+2362,Jiangella gansuensis,281473
+2363,Colombian Caribbean sponge,281489
+2364,Staphylococcus intermedius group,2815305
+2365,Purpureonostoc,2816323
+2366,Vibrio aestuarianus,28171
+2367,Polyozellus,281718
+2368,Polyozellus multiplex,281719
+2369,Leptospira weilii,28184
+2370,Porphyromonas uenonis,281920
+2371,Arquibacter butzleri,28197
+2372,Arquibacter cryaerophilus,28198
+2373,Alphaproteobacteria,28211
+2374,Penicillium virgatum,282147
+2375,Betaproteobacteria,28216
+2376,Colwellia psychroerythrea,28229
+2377,Staphylococcus aureus subsp. aureus strain MRSA252,282458
+2378,Staphylococcus aureus subsp. aureus str. MSSA476,282459
+2379,Hypericum japonicum,282542
+2380,Hypericum pseudopetiolatum,282551
+2381,Cobetia marina,28258
+2382,Gypsophila,2828480
+2383,Human adenovirus 5,28285
+2384,Heterosigma akashiwo,2829
+2385,Sandfly fever Sicilian virus,28292
+2386,Porcine epidemic diarrhea virus,28295
+2387,Rat cytomegalovirus,28304
+2388,Flueggea virosa,283121
+2389,Alternaria sonchi,283360
+2390,Lescuraea mutabilis,283382
+2391,Aplysinellidae,283410
+2392,Aplysinella,283412
+2393,Plakinastrella,283416
+2394,Diacarnus,283431
+2395,Monanchora,283434
+2396,Monanchora arbuscula,283435
+2397,Iotrochota,283496
+2398,Spirastrella,283506
+2399,Spirastrella hartmani,283510
+2400,Polymastia,283513
+2401,'Prosuberites' laughlini,283560
+2402,Rhabdastrella,283572
+2403,Melophlus,283574
+2404,Luffariella,283593
+2405,Pseudoceratina,283601
+2406,Cryptococcus neoformans var. neoformans B-3501A,283643
+2407,Planorbella trivolvis,283763
+2408,Carolina anole,28377
+2409,Streptomyces spinoverrucosus,284043
+2410,Sarocladium,284134
+2411,Skeletonema costatum,2843
+2412,Himalayan rhubarb,284363
+2413,Clavibacter michiganensis,28447
+2414,Ecteinascidia,284475
+2415,Ecteinascidia turbinata,284476
+2416,Burkholderia pseudomallei,28450
+2417,Klebsiella aerogenes,28451
+2418,Kluyveromyces lactis NRRL Y-1140,284590
+2419,Yarrowia lipolytica CLIB122,284591
+2420,Candida glabrata ATCC2001,284593
+2421,GB virus-B,2847087
+2422,Sanguinea,2847936
+2423,Schizosaccharomyces pombe 972h-,284812
+2424,grain amaranth,28502
+2425,gill-over-the-ground,28509
+2426,patchouli,28511
+2427,diviner's sage,28513
+2428,Scleronephthya,285276
+2429,Koeberlinia spinosa,28533
+2430,Mostuea brunonis,28543
+2431,Streptomyces pseudoechinosporeus,285444
+2432,Oco,2855276
+2433,Seco,2855301
+2434,Tinospora crispa,285591
+2435,Cylindrotheca closterium,2856
+2436,Talaromyces stipitatus,28564
+2437,Talaromyces wortmannii,28567
+2438,Eurotium,28569
+2439,Aspergillus ruber,28570
+2440,Talaromyces funiculosus,28572
+2441,Talaromyces islandicus,28573
+2442,Talaromyces purpureogenus,28575
+2443,Talaromyces variabilis,28576
+2444,Penicillium javanicum,28578
+2445,Pyrenochaeta lycopersici,285811
+2446,Drosophila suzukii,28584
+2447,Globularia trichosantha,285841
+2448,Dinebra chinensis,285846
+2449,Mexican fruit fly,28586
+2450,Caribbean fruit fly,28587
+2451,Pseudomonas,286
+2452,Clavelina oblonga,286222
+2453,rock-pool mosquito,28624
+2454,Xanthoparmelia angustiphylla,286371
+2455,dinophytes,2864
+2456,Lunularia,2865520
+2457,Pseudomonas aeruginosa,287
+2458,brown algae,2870
+2459,Aralia continentalis,287721
+2460,Eunicea succinea,287898
+2461,Pseudoplexaura wagenaari,287902
+2462,Astrogorgia,287910
+2463,Batara cinerea,288054
+2464,Cucumaria,28832
+2465,Leishmania sp.,28847
+2466,Klebsiella species,2885105
+2467,Cercophora areolata,288678
+2468,Turbinellus floccosus,288723
+2469,Camelpox virus,28873
+2470,Streptomyces nitrosporeus,28894
+2471,Dianthus superbus,288950
+2472,Thermoanaerobacterium saccharolyticum,28896
+2473,Salmonella enterica,28901
+2474,Mycoplasma bovis,28903
+2475,Cynodon dactylon,28909
+2476,Chlorella salina,289237
+2477,Pestalotiopsis photiniae,289238
+2478,Clostridium perfringens strain SM101,289380
+2479,Aplysina aerophoba,289389
+2480,Aplysina archeri,289390
+2481,Albizia grandibracteata,289395
+2482,row pore rope sponge,289398
+2483,Aplysina lacunosa,289403
+2484,Verongula,289406
+2485,Verongula gigantea,289407
+2486,Smenospongia,289408
+2487,Smenospongia aurea,289409
+2488,Pythium dissimile,289616
+2489,Taxodium distichum,28982
+2490,Kluyveromyces lactis,28985
+2491,Physarum melleum,289959
+2492,Myxococcales,29
+2493,Alternaria brassicicola,29001
+2494,Cercospora,29002
+2495,Human coronavirus HKU1,290028
+2496,Xenorhabdus szentirmaii,290112
+2497,Vibrio campbellii ATCC BAA-1116,2902295
+2498,Alex,2904496
+2499,Parainfluenza virus 5,2905673
+2500,Ostrinia nubilalis,29057
+2501,Colletotrichum lindemuthianum,290576
+2502,HIV-1 M:B_Lai,290579
+2503,tobacco budworm,29058
+2504,Leohumicola minima,290618
+2505,Dolichotis patagonum,29091
+2506,Chinese horse-chestnut,290911
+2507,Schleichera oleosa,290996
+2508,Phomopsis obscurans,291056
+2509,Photorhabdus asymbiotica,291112
+2510,Alternaria fragaria,291290
+2511,Incarvillea arguta,291310
+2512,Lecanicillium,291363
+2513,Lecanicillium muscarium,291364
+2514,Crassostrea gigas,29159
+2515,Bacteroides nordii,291645
+2516,dog hookworm,29170
+2517,Neospora caninum,29176
+2518,Pyrene,2917844
+2519,Ammonia,29189
+2520,Acanthamoeba lenticulata,29196
+2521,Burkholderia cepacia genomovar I,292
+2522,Brachypoda,2927759
+2523,Wolbachia endosymbiont strain TRS of Brugia malayi,292805
+2524,Brevundimonas diminuta,293
+2525,Phyllanthus myrtifolius,293059
+2526,Mycobacterium lufu,29312
+2527,Mycobacterium shimoidei,29313
+2528,Mycobacterium hiberniae,29314
+2529,Actinomyces sp.,29317
+2530,Actinomyces neuii subsp. anitratus,29318
+2531,Thermoanaerobacter brockii,29323
+2532,Penicillium ulaiense,293377
+2533,Bacillus thuringiensis serovar kurstaki,29339
+2534,Clostridium scindens,29347
+2535,[Clostridium] spiroforme,29348
+2536,Clostridium celerecrescens,29354
+2537,Penicillium concentricum,293559
+2538,Tyzzerella nexilis,29361
+2539,Clostridium paraputrificum,29363
+2540,[Clostridium] sphenoides,29370
+2541,Staphylococcus auricularis,29379
+2542,Granulobasidium vellereum,293805
+2543,Staphylococcus cohnii,29382
+2544,Staphylococcus saprophyticus,29385
+2545,Staphylococcus sp.,29387
+2546,Staphylococcus capitis,29388
+2547,Gemella morbillorum,29391
+2548,Pseudomonas fluorescens,294
+2549,Duguetia odorata,294160
+2550,Duguetia panamensis,294161
+2551,Duguetia surinamensis,294171
+2552,Acinetobacter haemolyticus,29430
+2553,Pseudomonas savastanoi,29438
+2554,Entamoeba histolytica HM-1:IMSS,294381
+2555,Pseudomonas sp. AK-1,29440
+2556,Pseudomonas tolaasii,29442
+2557,Xanthomonas campestris pv. phaseoli,29445
+2558,Xanthomonas albilineans,29447
+2559,Prorocentrum micans,2945
+2560,Brucella melitensis,29459
+2561,Brucella neotomae,29460
+2562,Brucella suis,29461
+2563,Veillonella,29465
+2564,Veillonella parvula,29466
+2565,Pectobacterium atrosepticum,29471
+2566,Candida albicans WO-1,294748
+2567,Salmonella enterica subsp. enterica serovar Abony,29482
+2568,Yersinia ruckeri,29486
+2569,Photorhabdus,29487
+2570,Photorhabdus luminescens,29488
+2571,Aeromonas enteropelogenes,29489
+2572,Vibrio splendidus,29497
+2573,Leptospira kirschneri,29507
+2574,Ova,2951306
+2575,Kunzea sinclairii,295138
+2576,Leptospermum scoparium,295139
+2577,Brachyspira,29521
+2578,Plakortis angulospiculatus,295227
+2579,Bacteroides sp.,29523
+2580,Porphyromonas circumdentaria,29524
+2581,Agelas conifera,295242
+2582,Calyx,295246
+2583,Calyx podatypa,295247
+2584,Agelas dispar,295252
+2585,Janthinobacterium lividum,29581
+2586,Phyllanthus niruri,296034
+2587,Phyllanthus emblica,296036
+2588,Amphidinium carterae,2961
+2589,Striatella,2963561
+2590,great duckweed,29656
+2591,Agrostis alba,29659
+2592,brome-de-toits,29667
+2593,Pneumonia virus of mice 15,296738
+2594,wire grass,29674
+2595,Caldalkalibacillus thermarum,296745
+2596,Panicum dichotomiflorum,29692
+2597,salt marsh cordgrass,29706
+2598,tampala,29722
+2599,charlock mustard,29728
+2600,Cryptocarya obovata,29743
+2601,Litsea japonica,29744
+2602,Aralia cordata,29746
+2603,Mallotus japonicus,29747
+2604,Salella,2975143
+2605,wine grape,29760
+2606,Mangifera indica,29780
+2607,Galium aparine,29788
+2608,Pinus luchuensis,29805
+2609,common plantain,29818
+2610,Candida apicola,29830
+2611,Hanseniaspora uvarum,29833
+2612,Metaphire,298367
+2613,Fusarium incarnatum,298378
+2614,Gaeumannomyces,29849
+2615,Ochromonas,2985
+2616,Gaeumannomyces graminis,29850
+2617,Hypomyces aurantius,29852
+2618,Clonostachys rosea,29856
+2619,Searsia pyroides,298680
+2620,Trichoderma virens,29875
+2621,Neurospora discreta,29879
+2622,Ganoderma applanatum,29884
+2623,Sporothrix,29907
+2624,Sporothrix schenckii,29908
+2625,Tolypocladium,29909
+2626,Tolypocladium inflatum,29910
+2627,Alternaria brassicae,29911
+2628,Fusarium sp.,29916
+2629,Cladosporium cladosporioides,29917
+2630,Cladosporium herbarum,29918
+2631,Phytophthora cactorum,29920
+2632,Mucor mucedo,29922
+2633,Amylomyces rouxii,29923
+2634,Microbacterium maritypicum,300020
+2635,Rottboellia cochinchinensis,300125
+2636,white wood aster,300142
+2637,Lycogala epidendrum,300236
+2638,Cribraria,300238
+2639,Paraconiothyrium,300251
+2640,Paraconiothyrium brasiliense,300254
+2641,muyaca,300354
+2642,Variola,300414
+2643,Asian malaria mosquito,30069
+2644,Miridae,30083
+2645,Sesamum alatum,300844
+2646,Thermus thermophilus strain HB8,300852
+2647,Valeriana prionophylla,300918
+2648,Hymenocardia acida,300975
+2649,Pseudomonas oleovorans,301
+2650,Phyllanthus polyphyllus,301008
+2651,leafhoppers,30102
+2652,Macrosteles,30137
+2653,Streptococcus pyogenes serotype M1,301447
+2654,Sargassum,3015
+2655,Annona squamosa,301693
+2656,biribarana,301699
+2657,Annona glabra,301703
+2658,bullock's-heart,301862
+2659,Sinularia lochmodes,301888
+2660,mealybugs,30190
+2661,Bombus terrestris,30195
+2662,Heliophila pectinata,302116
+2663,thrips,30262
+2664,Elsinoe ampelina,302913
+2665,Polycarpa,30298
+2666,Pseudomonas putida,303
+2667,Botryllus,30300
+2668,Chusan Island toad,30331
+2669,Duttaphrynus melanostictus,30335
+2670,Penicillium steckii,303698
+2671,Aythya americana,30385
+2672,green algae,3041
+2673,Physalis viscosa,304129
+2674,Dunaliella salina,3046
+2675,Dunaliella tertiolecta,3047
+2676,Sulfurihydrogenibium yellowstonense,304736
+2677,Ralstonia solanacearum,305
+2678,yak,30521
+2679,Chlamydomonas reinhardtii,3055
+2680,Tricleocarpa fragilis,305683
+2681,Prevotella baroniae,305719
+2682,Elysia ornata,305967
+2683,Pseudomonas sp.,306
+2684,Aspergillus flocculosus,306089
+2685,Aglaia argentea,306493
+2686,Aglaia edulis,306499
+2687,Aglaia perviridis,306512
+2688,Annona senegalensis,306945
+2689,Monodora tenuifolia,306973
+2690,Ceutorhynchus obstrictus,307131
+2691,'Chlorella' fusca,3073
+2692,cowpea aphid,307492
+2693,Auxenochlorella protothecoides,3075
+2694,Chlorella sorokiniana,3076
+2695,Chlorella vulgaris,3077
+2696,Chlorella pyrenoidosa,3078
+2697,Apostichopus japonicus,307972
+2698,Brassica fruticulosa,308264
+2699,Gentiana crassicaulis,308434
+2700,Pleurostoma,308472
+2701,scavengers,30848
+2702,Acutodesmus obliquus,3088
+2703,Lissorhoptrus oryzophilus,308863
+2704,Dialister propionicifaciens,308994
+2705,Dialister micraerophilus,309120
+2706,Ficus hirta,309429
+2707,Mallotus <fish>,30959
+2708,Sulfurihydrogenibium azorense,309806
+2709,puffer fishes,31031
+2710,Neofusicoccum parvum,310453
+2711,Staphylococcus faecalis,310516
+2712,Oxalobacteraceae bacterium Cafi2,310518
+2713,Prototheca wickerhamii,3111
+2714,Prototheca zopfii,3112
+2715,Murraya koenigii,311449
+2716,Daboia russellii russellii,31159
+2717,hollow green seaweed,3116
+2718,Culcita novaeguineae,31170
+2719,Ulva,3118
+2720,Tetrahymena thermophila SB210,312017
+2721,du huo,312530
+2722,Plasmodium chabaudi chabaudi,31271
+2723,Plasmodium yoelii nigeriensis,31274
+2724,Enterocytozoon bieneusi,31281
+2725,Trypanosoma brucei gambiense,31285
+2726,Trypanosoma brucei rhodesiense,31286
+2727,Adenaria floribunda,312915
+2728,Ephydatia fluviatilis,31330
+2729,Tugarinovia mongolica,313552
+2730,Agelas clathrodes,313630
+2731,Inula verbascifolia subsp. methanea,313947
+2732,Podospora appendiculata,314037
+2733,Xanthomonas campestris pv. oryzae,314227
+2734,Hypnea musciformis,31429
+2735,Campanularia,314506
+2736,Plocamium cartilagineum,31452
+2737,Chironomus riparius,315576
+2738,Pseudomonas stutzeri,316
+2739,Rosacea,316188
+2740,Human coronavirus OC43,31631
+2741,Dengue virus 2 Thailand/16681/84,31634
+2742,Dengue virus 2 16681-PDK53,31635
+2743,Hepatitis C virus subtype 1b,31647
+2744,Nealchornea yapurensis,316921
+2745,Pseudomonas syringae,317
+2746,Thiomicrospira crunogena str. XCL-2,317025
+2747,Coxsackievirus A16,31704
+2748,Human rhinovirus A16,31708
+2749,Rinorea anguifera,317443
+2750,Pittosporum venulosum,317713
+2751,mahua,317856
+2752,Pseudomonas syringae pv. glycinea,318
+2753,devil's grandmother,318057
+2754,Ixeris chinensis,318058
+2755,asthma-plant,318062
+2756,Xanthium strumarium,318068
+2757,Colletotrichum graminicola,31870
+2758,Cochliobolus pallescens,318706
+2759,rice blast fungus,318829
+2760,Commiphora myrrha,318982
+2761,Pseudomonas syringae pv. phaseolicola,319
+2762,Rhinocladiella similis,319420
+2763,Streptomyces sp. R61,31952
+2764,Catharanthus trichophyllus,319559
+2765,Amycolatopsis orientalis orientalis,31958
+2766,Sauropus spatulifolius,319621
+2767,Aspergillus brasiliensis,319629
+2768,Clavibacter michiganense sepedonicum,31964
+2769,Marchantia polymorpha,3197
+2770,Mycobacterium abscessus subsp. bolletii,319705
+2771,Eggerthia catenaformis,31973
+2772,Euproctis,319798
+2773,Ficus <gastropod>,319808
+2774,Aegle,319987
+2775,Myxococcus,32
+2776,Burkholderia,32008
+2777,Comamonas terrigena,32013
+2778,Ascia monuste,320286
+2779,Aoa,320291
+2780,Lippia rubella,320356
+2781,Lippia sidoides,320357
+2782,Taiwanofungus,320360
+2783,Synechococcus elongatus,32046
+2784,Phera,320924
+2785,Metaphire posthuma,320987
+2786,Pseudomonas syringae pv. syringae,321
+2787,Polytrichum commune,3213
+2788,Bussea sakalava,321565
+2789,Geum japonicum,321607
+2790,Symphyotrichum drummondii,321986
+2791,Pseudomonas syringae pv. tabaci,322
+2792,Rothia <bacteria>,32207
+2793,Porphyromonas somerae,322095
+2794,Dicranum scoparium,3222
+2795,goat's beard,32220
+2796,loquat,32224
+2797,Quillaja saponaria,32244
+2798,red raspberry,32247
+2799,Ceratodon purpureus,3225
+2800,Dermacoccus abyssi,322596
+2801,Tetranychidae,32262
+2802,Tetranychus,32263
+2803,two-spotted spider mite,32264
+2804,Amphibalanus amphitrite,32267
+2805,Cannula,322730
+2806,Didemnum molle,322843
+2807,Trididemnum,322846
+2808,Lissoclinum bistratum,322849
+2809,Mexican croton,323039
+2810,Croton crassifolius,323043
+2811,Croton kongensis,323061
+2812,Croton ruizianus,323079
+2813,Votomita guianensis,323217
+2814,Chrysotoxum elegans,323318
+2815,Torbia,323396
+2816,Xylaria multiplex,323545
+2817,Cotesia glomerata,32391
+2818,Encarsia formosa,32400
+2819,Saussurea costus,324593
+2820,Kregervanrija fluxuum,324740
+2821,Laurencia rigida,324766
+2822,Acinonyx,32535
+2823,Apera spica-venti,325525
+2824,Persea japonica,325535
+2825,black scraper,325629
+2826,Tydemania expeditionis,325645
+2827,Preussia fleischhakii,325672
+2828,Prangos haussknechtii,325743
+2829,Babesia divergens,32595
+2830,Geranium dissectum,326028
+2831,Human herpesvirus 6A,32603
+2832,Human herpesvirus 6B,32604
+2833,Buffalopox virus,32605
+2834,synthetic construct,32630
+2835,unidentified,32644
+2836,Daldinia childiae,326645
+2837,Hypoxylon carneum,326655
+2838,Hypoxylon monticulosum,326669
+2839,Annulohypoxylon truncatum,327061
+2840,Brachiomonas submarina,327064
+2841,ostrich fern,3277
+2842,Hymenaea parvifolia,327908
+2843,Echinogorgia,328230
+2844,Subergorgia,328235
+2845,Lobophytum crassum,328265
+2846,Ellisella,328399
+2847,hua jiao,328401
+2848,Zanthoxylum simulans,328402
+2849,Parabacteroides goldsteinii,328812
+2850,Dictyosporium,328841
+2851,Acanthiops spinosum,328979
+2852,Syringa oblata subsp. dilatata,329230
+2853,Streptomyces costaricanus,329525
+2854,Zoanthus kuroshio,329729
+2855,Propionicibacterium avidum,33010
+2856,Propionibacterium granulosum,33011
+2857,Clavibacter michiganensis subsp. michiganensis,33013
+2858,Clavibacter michiganense insidiosum,33014
+2859,American wormseed,330163
+2860,Staphylococcus saccharolyticus,33028
+2861,Peptoniphilus indolicus,33030
+2862,Peptoniphilus lacrimalis,33031
+2863,Anaerococcus lactolyticus,33032
+2864,Parvimonas micra,33033
+2865,Anaerococcus prevotii,33034
+2866,Blautia producta,33035
+2867,Anaerococcus tetradius,33036
+2868,Anaerococcus vaginalis,33037
+2869,Ruminococcus gnavus,33038
+2870,Ruminococcus torques,33039
+2871,Neisseria perflava,33053
+2872,Aralia dasyphylla,330644
+2873,Pseudomonas viridiflava,33069
+2874,Gloeobacter violaceus,33072
+2875,Graminicola,330741
+2876,Entamoeba invadens,33085
+2877,Aspergillus fumigatus Af293,330879
+2878,Pterocarpus officinalis,330896
+2879,Pardosa pseudoannulata,330961
+2880,Acodontaster conspicuus,331078
+2881,Perknaster fuscus,331098
+2882,Ginkgo biloba,3311
+2883,belladonna,33113
+2884,Physalis alkekengi,33120
+2885,Lepidium sativum,33125
+2886,field poppy,33128
+2887,Chlamydia psittaci 6BC,331636
+2888,Thuja occidentalis,3317
+2889,Eremothecium coryli,33173
+2890,Aspergillus terreus,33178
+2891,Onygenales,33183
+2892,Bipolaris,33194
+2893,Bipolaris oryzae,33195
+2894,Botrytis,33196
+2895,Drechslera,33198
+2896,Drechslera avenae,33199
+2897,Paecilomyces,33202
+2898,nematode egg-parasitic fungus,33203
+2899,Agelas axifera,332232
+2900,Rehmannia chingii,332336
+2901,Argiope lobata,332533
+2902,Ancylostomatidae,33278
+2903,Hepatitis C virus (isolate Con1),333284
+2904,Salina,33337
+2905,Puccinia arachidis,333523
+2906,Human papillomavirus type 16,333760
+2907,Human papillomavirus type 18,333761
+2908,Favolaschia tonkinensis,333979
+2909,Cucurbita maxima x Cucurbita moschata,334420
+2910,Syzygium racemosum,334496
+2911,julia,33453
+2912,Yucca schidigera,334597
+2913,Dione,33460
+2914,Euphorbia antiquorum,334664
+2915,oleander spurge,334689
+2916,Pinus radiata,3347
+2917,Hydropsalis brasiliana,335117
+2918,Cistus monspeliensis,335184
+2919,Gambusia affinis,33528
+2920,Pseudolarix amabilis,3355
+2921,Pseudotsuga menziesii,3357
+2922,Scopus,33580
+2923,hamerkop,33581
+2924,Nigrospora oryzae,335854
+2925,Cardamine nipponica,335955
+2926,Pseudoacanthocereus brasiliensis,336103
+2927,Babesia gibsoni,33632
+2928,Philodromus vulgaris,336604
+2929,Myxogastria,33680
+2930,Burkholderia glumae,337
+2931,Alphapapillomavirus 9,337041
+2932,Alphapapillomavirus 7,337042
+2933,Deltapapillomavirus 4,337052
+2934,Caviid herpesvirus 2,33706
+2935,Olepa ricini,337079
+2936,Gastrorchis lutea,337200
+2937,Feline infectious peritonitis virus (strain 79-1146),33734
+2938,Echovirus,33758
+2939,Rita,337744
+2940,Xanthomonas,338
+2941,teta,338092
+2942,Gnetum gnemon,3382
+2943,Erwinia tasmaniensis,338565
+2944,Amaranthus blitum,338571
+2945,late barnyard grass,338574
+2946,Echinochloa crus-galli var. crus-galli,338575
+2947,Aureibacterium,33882
+2948,Mycobacterium bovis BCG,33892
+2949,Mycobacterium interjectum,33895
+2950,Streptomyces galilaeus,33899
+2951,Xanthomonas campestris,339
+2952,Streptomyces avermitilis,33903
+2953,Bifidobacterium thermophilum,33905
+2954,Papilionanthe teres,339107
+2955,Saccharomonospora sp.,33913
+2956,Drepanospora viridis,339346
+2957,Enterococcus avium,33945
+2958,Clostridium aminobutyricum,33953
+2959,Lactobacillus johnsonii,33959
+2960,Lactobacillus kefiri,33962
+2961,Leuconostoc mesenteroides subsp. dextranicum,33966
+2962,Myxococcus xanthus,34
+2963,Xanthomonas campestris (pv. campestris),340
+2964,Rhodobium <bacteria>,34016
+2965,Aspergillus novofumigatus,340412
+2966,southern magnolia,3406
+2967,Aggregata,340707
+2968,Variovorax,34072
+2969,Scytonema hofmanni,34078
+2970,Cladophora socialis,34135
+2971,Liriodendron tulipifera,3415
+2972,Diphasiastrum complanatum,34168
+2973,Peptostreptococcus stomatis,341694
+2974,Human herpesvirus 3 strain Oka vaccine,341980
+2975,acibar,34199
+2976,Salvia deserta,342061
+2977,Staphylococcus saprophyticus subsp. saprophyticus strain ATCC 15305,342451
+2978,Lithospermum erythrorhizon,34254
+2979,Tramea chinensis,342760
+2980,Nanorana maculosa,342819
+2981,Populus sieboldii x Populus grandidentata,34292
+2982,Eucalyptus camaldulensis,34316
+2983,Eucalyptus globulus,34317
+2984,Corymbia citriodora,34329
+2985,avocado,3435
+2986,Kodamaea ohmeri,34356
+2987,Candida antarctica,34362
+2988,Blumeria,34372
+2989,grass mildew,34373
+2990,dermatophytes,34384
+2991,Trichophyton schoenleinii,34386
+2992,Trichophyton tonsurans,34387
+2993,Trichophyton violaceum,34388
+2994,Epidermophyton floccosum,34391
+2995,Microsporum,34392
+2996,Microsporum audouinii,34393
+2997,Influenza B virus (B/Perth/211/2001),343983
+2998,Phomopsis,34399
+2999,Colletotrichum destructivum,34406
+3000,Litsea rubescens,344078
+3001,Litsea acutivena,344083
+3002,Neolitsea dealbata,344104
+3003,Humicola insolens,34413
+3004,Japanese goldthread,3442
+3005,Negombata magnifica,344322
+3006,Biemna,344323
+3007,Azorella crenata,344360
+3008,Lactarius,34444
+3009,Cortinariaceae,34450
+3010,Ganoderma boninense,34458
+3011,Ganoderma pfeifferi,34464
+3012,Patricia,344662
+3013,Ganoderma tsugae,34467
+3014,Ganoderma weberianum,34468
+3015,Conidiobolus,34487
+3016,Vibrio cholerae O395,345073
+3017,Geranium thunbergii,345239
+3018,Pieris oleracea,345712
+3019,Zoanthus vietnamensis,345753
+3020,Quambalaria cyanescens,345902
+3021,Xanthomonas citri,346
+3022,Amblyomma variegatum,34610
+3023,Ixodes ricinus,34613
+3024,Ditylenchus myceliophagus,346252
+3025,brown dog tick,34632
+3026,western predatory mite,34638
+3027,Senna multijuga,346403
+3028,California poppy,3467
+3029,Papaver somniferum,3469
+3030,Senna obtusifolia,346985
+3031,Senna siamea,346999
+3032,Xanthomonas oryzae,347
+3033,Senna spectabilis,347003
+3034,Leishmania major strain Friedlin,347515
+3035,Centaurea pullata,347528
+3036,Periploca <moth>,347720
+3037,Rhizoctonia bataticola,348105
+3038,hemp,3483
+3039,common hop,3486
+3040,Exophiala xenobiotica,348802
+3041,jackfruit,3489
+3042,Magnolia obovata,349509
+3043,Osage orange,3496
+3044,white mulberry,3498
+3045,Maxillaria alba,350142
+3046,Betula pendula,3505
+3047,Stereocaulon alpinum,350623
+3048,canoe birch,3507
+3049,Asteropus,350938
+3050,Morella cerifera,3510
+3051,Mammalian orthoreovirus,351073
+3052,Salinispora pacifica,351187
+3053,Gaussia princeps H.Wendl. 1865,351363
+3054,Rhodomela confervoides,35163
+3055,Parabodo caudatus,351713
+3056,Simian varicella virus,35246
+3057,Woodchuck hepatitis virus,35269
+3058,Human immunodeficiency virus 3,35274
+3059,food pokeberry,3528
+3060,Azotobacter chroococcum,353
+3061,California encephalitis virus,35305
+3062,Trypanosoma cruzi strain CL Brener,353153
+3063,garden four-o'clock,3538
+3064,Mansoa hirsuta,353998
+3065,red palm weevil,354439
+3066,Acronychia pedunculata,354485
+3067,Melicope pteleifolia,354501
+3068,Tetradium ruticarpum,354523
+3069,Zanthoxylum nitidum,354528
+3070,Trianthema,3547
+3071,Argon,354775
+3072,Aroma,354777
+3073,Mogibacterium timidum,35519
+3074,Daphnia magna,35525
+3075,Polygala tenuifolia,355332
+3076,toothed club-moss,355589
+3077,Rhabditis sp.,35561
+3078,stable fly,35570
+3079,lamb's-quarters,3559
+3080,spinach,3562
+3081,Streptomyces mobaraensis,35621
+3082,Hindu datura,35625
+3083,Sandoricum koetjape,356285
+3084,Amaranthus,3564
+3085,Hepatitis C virus JFH-1,356411
+3086,Hepatitis C virus (isolate NZL1),356415
+3087,Mastomys coucha,35658
+3088,Salmonella enterica subsp. enterica serovar Westhampton,356621
+3089,Amaranthus caudatus,3567
+3090,Naja naja,35670
+3091,Agrobacterium,357
+3092,Dianthus caryophyllus,3570
+3093,Citrobacter amalonaticus,35703
+3094,common soapwort,3572
+3095,Thielavia terrestris,35720
+3096,Myrmecina graminicola,357228
+3097,Murine norovirus,357231
+3098,Macrophomina,35724
+3099,Cronobacter helveticus,357240
+3100,Macrophomina phaseolina,35725
+3101,Bacteroides dorei,357276
+3102,Aspergillus westerdijkiae,357447
+3103,Helicobacter pylori strain HPAG1,357544
+3104,Enterococcus sp.,35783
+3105,Angelica keiskei,357850
+3106,Agrobacterium tumefaciens,358
+3107,Bilophila wadsworthia,35833
+3108,[Clostridium] aldenense,358742
+3109,[Clostridium] citroniae,358743
+3110,Japanese bunching onion,35875
+3111,Lobophytum compactum,358775
+3112,Lobophytum sarcophytoides,358784
+3113,Sarcophyton crassocaule,358797
+3114,Sarcophyton ehrenbergi,358800
+3115,Sarcophyton elegans,358801
+3116,Sarcophyton tortuosum,358808
+3117,Japanese morning glory,35883
+3118,Agrobacterium rhizogenes,359
+3119,common garden peony,35924
+3120,Japanese persimmon,35925
+3121,Phasmarhabditis hermaphrodita,359295
+3122,Podophyllum peltatum,35933
+3123,black locust,35938
+3124,Bupleurum marginatum,359514
+3125,Staphylococcus aureus subsp. aureus str. JH1,359787
+3126,Nageia nagi,36012
+3127,Pichia kluyveri,36015
+3128,Pichia dryadoides,36021
+3129,Nakazawaea holstii,36025
+3130,Corymbia torelliana,360304
+3131,Saccharomycodes ludwigii,36035
+3132,Lipomyces lipofer,36043
+3133,Tuber,36048
+3134,Fusarium poae,36050
+3135,chanterelle,36066
+3136,Ganoderma capense,36068
+3137,Tomophagus colossus,36070
+3138,Ganoderma fornicatum,36071
+3139,Actinomadura melliaura,360723
+3140,Ganoderma sinense,36075
+3141,Mucor circinelloides,36080
+3142,Pseudomonas savastanoi pv. savastanoi,360920
+3143,Clavularia inflata,360968
+3144,Carijoa,360971
+3145,Rhytisma <soft coral>,360986
+3146,Sinularia maxima,360988
+3147,Capnella,360993
+3148,Litophyton,360998
+3149,Agrobacterium sp.,361
+3150,Stereonephthya,361007
+3151,Cespitularia,361028
+3152,Bacillus cereus strain Q1,361100
+3153,Polysphondylium filamentosum,361132
+3154,Gyrophyllum,361164
+3155,Pteroeides,361167
+3156,Paraminabea,361171
+3157,Vitex negundo,361442
+3158,Fagopyrum esculentum,3617
+3159,Antarctic icefish,36188
+3160,garden rhubarb,3621
+3161,baboon,36229
+3162,Rhaponticum carthamoides,362630
+3163,Human immunodeficiency virus type 1 (isolate YU2),362651
+3164,Actinidia deliciosa,3627
+3165,Senna tora,362788
+3166,Erithacus,36283
+3167,Abutilon,3630
+3168,Deinagkistrodon acutus,36307
+3169,Indian mallow,3631
+3170,Boerhavia erecta,363203
+3171,Plasmodium falciparum 3D7,36329
+3172,Gossypium,3633
+3173,Plasmodium ovale,36330
+3174,Pythium irregulare,36331
+3175,Egyptian cotton,3634
+3176,Centaurea spinosa,363453
+3177,upland cotton,3635
+3178,cacao,3641
+3179,Cetacean morbillivirus,36410
+3180,Pestalotiopsis sp.,36460
+3181,Streptococcus sp. 'group A',36470
+3182,Cricetinae gen. sp.,36483
+3183,mamon,3649
+3184,Geobacillus phage GBSV1,365048
+3185,Influenza A virus (A/chicken/Yogjakarta/BBVet-IX/2004(H5N1)),365124
+3186,Vateria copallifera,365568
+3187,Oriental melon,3656
+3188,cucumber,3659
+3189,Palla,366134
+3190,lacayote,3662
+3191,Pseudocydonia sinensis,36622
+3192,Cucurbita pepo,3663
+3193,Neosartorya fischeri,36630
+3194,Penicillium thomii,36647
+3195,Talaromyces aculeatus,36649
+3196,Penicillium digitatum,36651
+3197,Penicillium commune,36653
+3198,Penicillium aurantiogriseum,36655
+3199,Penicillium crustosum,36656
+3200,Formicidae,36668
+3201,bottle gourd,3668
+3202,Neurospora crassa 74-OR23-1V A,367110
+3203,Momordica charantia,3673
+3204,Ophiorrhiza japonica,367363
+3205,Momordica cochinchinensis,3674
+3206,Dermabacter hominis,36740
+3207,Pseudomonas cichorii,36746
+3208,Orobanche minor,36748
+3209,tian hua fen,3677
+3210,sprouting broccoli,36774
+3211,Gaeumannomyces graminis var. tritici,36779
+3212,Staphylococcus aureus subsp. aureus str. USA300,367830
+3213,Corynebacterium bovis,36808
+3214,Mycobacterium abscessus,36809
+3215,Clostridium botulinum A,36826
+3216,Poa pratensis subsp. pratensis,368382
+3217,Terrisporobacter glycolicus,36841
+3218,[Clostridium] rectum,36851
+3219,Aschersonia confluens,368619
+3220,Porphyromonas cangingivalis,36874
+3221,Porphyromonas canoris,36875
+3222,Clavispora lusitaniae,36911
+3223,Dinoponera gigantea,369123
+3224,Dorymyrmex elegans,369126
+3225,Diaporthe,36922
+3226,Tor sinensis,369631
+3227,Botryllus tyreus,369705
+3228,Salinispora tropica strain CNB-440,369723
+3229,Formosan subterranean termite,36987
+3230,eastern subterranean termite,36989
+3231,Pyrrhocoris apterus,37000
+3232,Arabidopsis,3701
+3233,thale-cress,3702
+3234,horseradish,3704
+3235,brown mustard,3707
+3236,oilseed rape,3708
+3237,Aschersonia paraphysata,370937
+3238,Isochrysis galbana,37099
+3239,Chikungunya virus strain S27-African prototype,371094
+3240,field mustard,3711
+3241,Brassica oleracea,3712
+3242,Chikungunya virus,37124
+3243,Ferula gummosa,371349
+3244,Ferula penninervis,371379
+3245,cabbage,3716
+3246,Mycobacterium avium complex,37162
+3247,Opuntia ficus-indica,371859
+3248,Capsella bursa-pastoris,3719
+3249,Ulospora bilgramii,372062
+3250,Crambe crambe,3722
+3251,Raphanus sativus,3726
+3252,Gustavia hexapetala,372738
+3253,Sinapis alba,3728
+3254,Human herpesvirus 8,37296
+3255,Gambierdiscus toxicus,373098
+3256,Streptococcus pneumoniae D39,373153
+3257,Branchiostoma japonicum,373177
+3258,Diplotaxis erucoides,3732
+3259,Nocardia brasilensis,37326
+3260,Nocardia carnea,37328
+3261,Nocardia farcinica,37329
+3262,Nocardia nova,37330
+3263,Conocybe siliginea,373326
+3264,Nocardia transvaalensis,37333
+3265,Athalia,37343
+3266,Athalia rosae,37344
+3267,Moringa oleifera,3735
+3268,Plasmodiophora brassicae,37360
+3269,Stereocaulon sasakii,373710
+3270,tomatillo,374031
+3271,sapote,3741
+3272,Penicillium terrestre,374132
+3273,Ophioglossum petiolatum,37426
+3274,Phoma,37463
+3275,strawberry,3747
+3276,Bradyrhizobium japonicum,375
+3277,apple tree,3750
+3278,Maackia amurensis,37501
+3279,Theonella,37504
+3280,Theonella swinhoei,37505
+3281,Ianthella,375145
+3282,Ianthella basta,375146
+3283,Aplysinella rhax,375147
+3284,Pseudoceratina arabica,375148
+3285,Verongula rigida,375149
+3286,Myrciaria cauliflora,375264
+3287,southern armyworm,37547
+3288,sweet almond,3755
+3289,Saprolegnia monoica,37553
+3290,common rue,37565
+3291,Papilionoidea,37572
+3292,Morus,37577
+3293,Prunus domestica,3758
+3294,Lychnophora salicifolia,375932
+3295,Prunus persica,3760
+3296,Corynebacterium pseudodiphtheriticum,37637
+3297,Citrus x paradisi,37656
+3298,Phalaris canariensis,376798
+3299,hardy orange,37690
+3300,Bromus diandrus,37722
+3301,Aleuritopteris squamosa,377226
+3302,Talaromyces marneffei,37727
+3303,Assa,377306
+3304,Enterococcus casseliflavus,37734
+3305,Machaerium,377526
+3306,Escherichia coli B,37762
+3307,Cryptococcus gattii VGI,37769
+3308,Curcuma heyneana,378295
+3309,Pestalotiopsis,37840
+3310,Heterorhabditis bacteriophora,37862
+3311,Achaea janata,378752
+3312,Rhytidhysteron rufulum,37885
+3313,Rhizobium,379
+3314,Caldalkalibacillus,379065
+3315,Rhodococcus opacus,37919
+3316,Arthrobacter crystallopoietes,37928
+3317,Arthrobacter protophormiae,37930
+3318,Curcuma mangga,379528
+3319,Conus ferrugineus,379542
+3320,Xylaria,37991
+3321,Beauveria felina,37994
+3322,Engyodontium album,37998
+3323,Angiococcus disciformis,38
+3324,Tolypocladium cylindrosporum,38005
+3325,marmosets,38020
+3326,pea family,3803
+3327,Chaetomium globosum,38033
+3328,leaf blotch of barley,38038
+3329,Callosobruchus analis,380381
+3330,camel's foot tree,3806
+3331,Cyathus africanus,380649
+3332,Aspergillus niger ATCC 1015,380704
+3333,corn,381124
+3334,Deroceras panormitanum,381125
+3335,Albizia julibrissin,3813
+3336,Influenza A virus (A/USSR/90/1977(H1N1)),381516
+3337,Influenza A virus (A/Wilson-Smith/1933(H1N1)),381518
+3338,Bolbostemma paniculatum,381652
+3339,Stypopodium flabelliforme,381694
+3340,ground-nut,3818
+3341,Sinorhizobium meliloti,382
+3342,jack bean,3823
+3343,monkeyfruit,382341
+3344,Cicer arietinum,3827
+3345,Influenza A virus (A/RI/5+/1957(H2N2)),382827
+3346,Influenza A virus (A/WSN/1933(H1N1)),382835
+3347,Corynebacterium accolens,38284
+3348,Corynebacterium jeikeium,38289
+3349,Crotalaria juncea,3829
+3350,Photobacterium damselae subsp. piscicida,38294
+3351,Corynebacterium minutissimum,38301
+3352,Shewanella algae,38313
+3353,Bartonella henselae,38323
+3354,Toxoplasma gondii RH,383379
+3355,Influenza A virus (A/Memphis/1/1971(H3N2)),383586
+3356,Rhizobium leguminosarum,384
+3357,coral tree,3843
+3358,Neolitsea aciculata,384321
+3359,Monilinia fructicola,38448
+3360,ci tong,3845
+3361,Sclerotinia minor,38451
+3362,Monilinia fructigena,38457
+3363,Micrococcus flavus,384602
+3364,soybeans,3847
+3365,Sclerotinia homoeocarpa,38483
+3366,Sclerotium cepivorum,38492
+3367,Rhus taitensis,384978
+3368,Hara,385297
+3369,Influenza A virus (A/duck/Ukraine/1/1963(H3N8)),385580
+3370,Influenza A virus (A/budgerigar/Hokkaido/1/1977(H4N6)),385587
+3371,Influenza A virus (A/udorn/1972(H3N2)),385599
+3372,Lathyrus sativus,3860
+3373,Lens culinaris,3864
+3374,Lupinus albus,3870
+3375,Influenza A virus (A/Aichi/2/1968(H3N2)),387139
+3376,Manila grass,38722
+3377,Panicum virgatum,38727
+3378,Medicago sativa,3879
+3379,Medicago truncatula,3880
+3380,Halys,388043
+3381,Luffa operculata,388295
+3382,Banzi virus,38837
+3383,Phaseolus lunatus,3884
+3384,Euphorbia dendroides,38845
+3385,Euphorbia peplus,38846
+3386,kidney bean,3885
+3387,yellow gentian,38851
+3388,Cyperus iria,388567
+3389,Nuphar pumila,38861
+3390,durmast oak,38865
+3391,Salvia officinalis,38868
+3392,Salvia sclarea,38869
+3393,Fraxinus excelsior,38873
+3394,pea,3888
+3395,kudzu vine,3893
+3396,Flammulina velutipes,38945
+3397,white clover,3899
+3398,Enterovirus A71,39054
+3399,unidentified herpesvirus,39059
+3400,Vicia faba,3906
+3401,Diaphania,390976
+3402,Glaucidium palmatum,39106
+3403,azuki bean,3914
+3404,black gram,3915
+3405,Methanococcus maripaludis,39152
+3406,green gram,3916
+3407,cowpea,3917
+3408,Corticium,39180
+3409,Hamigera,39196
+3410,Agastache rugosa,39271
+3411,Athelia rolfsii,39291
+3412,Dracocephalum ruyschiana,39297
+3413,Hamigera avellanea,39317
+3414,Pestalotiopsis calabae,393280
+3415,Pestalotiopsis fici,393283
+3416,Lavandula angustifolia,39329
+3417,sweet balm,39338
+3418,sweet basil,39350
+3419,Origanum vulgare,39352
+3420,Paulownia tomentosa,39353
+3421,Perovskia abrotanoides,39354
+3422,Prunella vulgaris,39358
+3423,Rosmarinus officinalis,39367
+3424,Sphaerechinus granularis,39374
+3425,Temnopleurus hardwickii,39384
+3426,Candida sake,39397
+3427,Curvularia brachyspora,39400
+3428,Pyxidicoccus fallax,394095
+3429,Hyalangium minutum,394096
+3430,Phialophora verrucosa,39412
+3431,Plantago lanceolata,39414
+3432,Amycolatopsis saalfeldensis,394193
+3433,Carnation Italian ringspot virus,39443
+3434,Prorocentrum lima,39448
+3435,Floricola striata,394658
+3436,Eubacterium contortum,39482
+3437,Eubacterium cylindroides,39483
+3438,[Eubacterium] rectale,39491
+3439,Eriophorum scheuchzeri,395292
+3440,Zasmidium,395590
+3441,Penicillium granulatum,395885
+3442,Aspergillus ruber,396024
+3443,Rhazya stricta,396313
+3444,Cereus <sea anemone>,396343
+3445,Eunicella verrucosa,396355
+3446,Scutellaria barbata,396367
+3447,Elephantopus scaber,396369
+3448,Macaranga alnifolia,396448
+3449,Macaranga barteri,396451
+3450,Macaranga monandra,396468
+3451,Macaranga schweinfurthii,396473
+3452,Macaranga siamensis,396474
+3453,Mallotus oppositifolius,396489
+3454,Mallotus resinosus,396494
+3455,Symphyocladia latiuscula,396806
+3456,Tapirira guianensis,397177
+3457,European mistletoe,3972
+3458,Centipeda minima,397370
+3459,Thiomicrospira crunogena,39765
+3460,Veillonella dispar,39778
+3461,Aphrocallistes beatrix,398365
+3462,Botryosphaeria berengeriana,398386
+3463,Lepidium didymum,398450
+3464,Trichoderma gamsii,398673
+3465,castor bean,3988
+3466,Silene noctiflora,39899
+3467,Euphorbia dulcis,3992
+3468,leafy spurge,3993
+3469,Japanese rice,39947
+3470,Dialister,39948
+3471,Dialister pneumosintes,39950
+3472,Jatropha multifida,3996
+3473,Burma mangrove,39984
+3474,Dirca palustris,39989
+3475,Streptococcus equi zooepidemicus,40041
+3476,Lysinibacillus,400634
+3477,Acinetobacter baumannii ATCC 17978,400667
+3478,Pomacea canaliculata,400727
+3479,sugarcane borer,40085
+3480,Neurospora sitophila,40126
+3481,varnish tree,4013
+3482,Tricholoma,40144
+3483,Anagrus,401871
+3484,Macrorhynchia philippina,401965
+3485,Fusarium avenaceum,40199
+3486,Acinetobacter johnsonii,40214
+3487,Acinetobacter junii,40215
+3488,Acinetobacter radioresistens,40216
+3489,Dentitheca habereri,402235
+3490,Acer saccharum,4024
+3491,Actinomycetospora,402649
+3492,Sporothrix albicans,402873
+3493,Penicillium italicum,40296
+3494,Allamanda schottii,403096
+3495,zonal pelargonium,4031
+3496,Streptomyces nodosus,40318
+3497,Stenotrophomonas,40323
+3498,Stenotrophomonas maltophilia,40324
+3499,Trichostrongylus axei,40349
+3500,Echis carinatus,40353
+3501,Fonsecaea,40354
+3502,Fonsecaea pedrosoi,40355
+3503,Scopulariopsis,40374
+3504,arsenic fungus,40375
+3505,Aspergillus glaucus,40379
+3506,Aspergillus ochraceus,40380
+3507,Aspergillus unguis,40381
+3508,Aspergillus ustus,40382
+3509,Caragana sinica,403832
+3510,Delisea pulchra,40385
+3511,carrot,4039
+3512,Cryptococcus neoformans var. neoformans,40410
+3513,Chrysosporium,40411
+3514,Antrodia,40415
+3515,Bondarzewia,40421
+3516,Bondarzewia montana,40423
+3517,Cryptoporus volvatus,40431
+3518,Daedalea,40436
+3519,Daedalea quercina,40437
+3520,Apium graveolens,4045
+3521,Corydalis ambigua,404569
+3522,Inonotus,40468
+3523,Niebla,404708
+3524,Phellinus igniarius,40472
+3525,Phaeolus schweinitzii,40476
+3526,Fomitopsis pinicola,40483
+3527,Stereum hirsutum,40492
+3528,cardinal fritillary,405018
+3529,[Ruminococcus] obeum,40520
+3530,Alicyclobacillus acidocaldarius,405212
+3531,Piper cubeba,405322
+3532,Panax ginseng,4054
+3533,Sutterella wadsworthensis,40545
+3534,Botrytis cinerea,40559
+3535,old-maid,4058
+3536,Sphaerophorus,40599
+3537,Turbo stenogyrus,406001
+3538,Phyllodium pulchellum,406422
+3539,Plectosphaerella cucumerina,40658
+3540,Calotropis gigantea,4066
+3541,mammals,40674
+3542,Gymnema sylvestre,4068
+3543,Frankliniella fusca,407009
+3544,Capsicum,4071
+3545,Capsicum annuum,4072
+3546,Warionia saharae,40727
+3547,bird pepper,4073
+3548,Karlodinium veneficum,407301
+3549,Ipomopsis aggregata,40742
+3550,sacred datura,4075
+3551,common thornapple,4076
+3552,stinking-nightshade,4079
+3553,Neofusicoccum,407951
+3554,Solanum lycopersicum,4081
+3555,Mycoplana ramosa,40837
+3556,goutweed,40902
+3557,dill,40922
+3558,Rhopalosiphum padi,40932
+3559,Nicotiana tabacum,4097
+3560,Aspergillus candidus,41067
+3561,Solanum,4107
+3562,Oriental tea tortrix,410822
+3563,eggplant,4111
+3564,Solanum nigrum,4112
+3565,potato,4113
+3566,seven-spotted lady beetle,41139
+3567,Anaerococcus murdochii,411577
+3568,morning-glory family,4118
+3569,Ipomoea,4119
+3570,Silene fortunei,411984
+3571,sweet potato,4120
+3572,Ewingella americana,41202
+3573,common morning-glory,4121
+3574,Syphacia obvelata,412127
+3575,Convolvulus arvensis,4123
+3576,garden sorrel,41241
+3577,Mycena,41247
+3578,Mycosphaerella,41254
+3579,Didymella pinodes,41255
+3580,Brevundimonas,41275
+3581,Aspergillus niveus,41281
+3582,Burkholderia rhizoxinica,412963
+3583,Yersinia sp.,41315
+3584,Microsphaeropsis arundinis,413604
+3585,Puccinia graminis f. tritici,413621
+3586,Diospyros maritima,413758
+3587,Chinese motherwort,4138
+3588,Eimeria tenella strain Houghton,413949
+3589,Clostridium botulinum A str. ATCC 3502,413999
+3590,Aspergillus pseudoglaucus,41409
+3591,Olea europaea,4146
+3592,hardheads,41466
+3593,Catenulispora,414878
+3594,Silpha perforata,414923
+3595,Nicrophorus concolor,414949
+3596,common marigold,41496
+3597,Pseudonocardia carboxydivorans,415010
+3598,bachelor's-button,41522
+3599,Canada thistle,41550
+3600,mum,41568
+3601,Reseda luteola,415813
+3602,Angophora woodsiana,415881
+3603,Cissus rotundifolia,416102
+3604,Crataegus dahurica,416283
+3605,common foxglove,4164
+3606,Penicillium antarcticum,416450
+3607,Rhexia parviflora,416629
+3608,Scedosporium,41687
+3609,Lactococcus lactis subsp. cremoris strain MG1363,416870
+3610,Scedosporium prolificans,41688
+3611,Photuris pennsylvanica,41716
+3612,Emericella rugulosa,41736
+3613,Aspergillus puniceus,41744
+3614,Nandina domestica,41776
+3615,Stauntonia hexaphylla,41788
+3616,Candida nivariensis,418086
+3617,hu ma,4182
+3618,Ainsliaea fragrans,418257
+3619,Umbelopsis ramanniana,41833
+3620,Conocephalum conicum,41839
+3621,hai er shen,418402
+3622,Influenza A virus H3N2,41857
+3623,Barleria prionitis,4189
+3624,Pleurochrysis roscoffensis,418908
+3625,Aspergillus flavipes,41900
+3626,kamraj,41913
+3627,Shuttle vector pANFluc,419244
+3628,Ochrobactrum pseudogrignonense,419475
+3629,Ruminococcus sp.,41978
+3630,Agromyces mediolanus,41986
+3631,Mycobacterium tuberculosis strain H37Ra,419947
+3632,Henosepilachna vigintioctopunctata,420089
+3633,Hepatitis C virus isolate HC-J4,420174
+3634,Sambucus nigra,4202
+3635,Absidia pseudocylindrospora,420594
+3636,Pneumocystis jirovecii,42068
+3637,Diplodia seriata,420778
+3638,Pythium vexans,42099
+3639,Asteraceae,4210
+3640,common ragweed,4212
+3641,Litomosoides sigmodontis,42156
+3642,Onchocerca ochengi,42157
+3643,Cyperus difformis,421870
+3644,Carthamus tinctorius,4222
+3645,sweet cherry,42229
+3646,Streptomyces acidiscabiei,42234
+3647,Flaveria bidentis,4224
+3648,Hypocrella,42305
+3649,sunflowers,4231
+3650,Helianthus annuus,4232
+3651,Jerusalem artichoke,4233
+3652,beggar-ticks,42337
+3653,Phoenix dactylifera,42345
+3654,Lactuca sativa,4236
+3655,Daldinia,42360
+3656,Daldinia concentrica,42361
+3657,Hirsutella,42367
+3658,Camarops,42370
+3659,Candida dubliniensis,42374
+3660,Sigmodon,42414
+3661,hispid cotton rat,42415
+3662,Culex pipiens pallens,42434
+3663,Salvia chinensis,424420
+3664,Salvia plebeia,424424
+3665,Lichtheimia corymbifera,42458
+3666,Piper obliquum,425162
+3667,Fusarium oxysporum f. sp. dianthi,42551
+3668,Prevotella nanceiensis,425941
+3669,Tetragonopterus,42598
+3670,Staphylococcus aureus subsp. aureus str. Newman,426430
+3671,Fusarium udum,42665
+3672,Fusarium proliferatum,42674
+3673,Fusarium subglutinans,42677
+3674,Chromobacterium viscosum,42739
+3675,Fusarium heterosporum,42747
+3676,Gelsemium elegans,427660
+3677,Enterovirus D68,42789
+3678,Anas sp.,42806
+3679,bunchberry,4282
+3680,Commelina diffusa,428226
+3681,Murdannia keisak,428252
+3682,Cornus florida,4283
+3683,Cacopsylla melanoneura,428564
+3684,Staphylococcus lentus,42858
+3685,Streptomyces chromofuscus,42881
+3686,Enterobacter sp.,42895
+3687,Serratia entomophila,42906
+3688,Holarrhena curtisii,429266
+3689,Cullen corylifolium,429560
+3690,Tilletia indica,43049
+3691,Actinomadura miaoliensis,430685
+3692,Persicaria lapathifolia,430754
+3693,Torula,430997
+3694,Tissierella praeacuta,43131
+3695,Anopheles darlingi,43151
+3696,Sylvia,43162
+3697,sour orange,43166
+3698,Ipomoea hederacea,43178
+3699,Porphyromonas gingivalis str. ATCC 33277,431947
+3700,Arcangelisia gusanlung,432629
+3701,Gnidia <daddy-longlegs>,43298
+3702,Mycobacterium peregrinum,43304
+3703,Aesculus hippocastanum,43364
+3704,Anastrepha serpentina,43388
+3705,Acetobacter,434
+3706,Proserpinaca palustris,434573
+3707,Hintonia latiflora,43501
+3708,jungle-flame,43503
+3709,Morinda citrifolia,43522
+3710,Tubifera,435427
+3711,Uncaria rhynchophylla,43575
+3712,Human herpesvirus 8 type M,435895
+3713,Arnica montana,436207
+3714,green leafhopper,436393
+3715,Hyattella,436463
+3716,Pseudoalteromonas rubra,43658
+3717,Arthrobacter aurescens,43663
+3718,Raspailia,436703
+3719,Jonesia denitrificans,43674
+3720,Rothia mucilaginosa,43675
+3721,Melia dubia,43709
+3722,Eunicea mammosa,437161
+3723,Harrisonia perforata,43717
+3724,Brucea mollis,43723
+3725,Quassia amara,43725
+3726,Cnaphalocrocis medinalis,437488
+3727,Corynebacterium amycolatum,43765
+3728,Rhodococcus equi,43767
+3729,Corynebacterium striatum,43770
+3730,Corynebacterium ureailyticum,43771
+3731,Cercospora sojina,438356
+3732,Aesculus pavia,43872
+3733,Podospora communis,438773
+3734,Peganum harmala,43879
+3735,Copris tripartitus,438892
+3736,Swietenia macrophylla,43891
+3737,Cipadessa baccifera,43897
+3738,Mucor flavus,439312
+3739,Dipodascus capitatus,43960
+3740,Clavelina moluccensis,439815
+3741,Brassica rapa subsp. chinensis,439823
+3742,Geotrichum,43987
+3743,sweet gum,4400
+3744,Caldicellulosiruptor saccharolyticus,44001
+3745,Mycobacterium conspicuum,44010
+3746,Glossina,44049
+3747,Darwinella,440589
+3748,Mycoplasma mycoides subsp. mycoides SC,44101
+3749,Laggera alata,441197
+3750,Hexacentrus japonicus,441225
+3751,Montana,441235
+3752,Saga,441239
+3753,Human rhinovirus A21,44128
+3754,Human rhinovirus A29,44129
+3755,Human rhinovirus A50,44132
+3756,Human rhinovirus A7,44136
+3757,Human rhinovirus B72,44137
+3758,Clostridium botulinum A strain Hall,441771
+3759,Acanella arbuscula,44213
+3760,Argentina sphyraena,442169
+3761,Paenibacillus alvei,44250
+3762,Leishmania mexicana mexicana,44270
+3763,Leishmania chagasi,44271
+3764,Leptospira interrogans serovar Pomona,44276
+3765,Pasteurella multocida multocida,44283
+3766,Protodendron,44305
+3767,Indiann lotus,4432
+3768,Toona sinensis,443222
+3769,Phytoseiulus persimilis,44414
+3770,Eimeria mitis,44415
+3771,Camellia sinensis,4442
+3772,common camellia,4443
+3773,Mycobacterium avium avium,44454
+3774,Phyllotreta striolata,444603
+3775,Iris,444649
+3776,Salmonella enterica subsp. enterica serovar Setubal,44469
+3777,Legionella,445
+3778,Sagittaria sagittifolia,4451
+3779,Clostridium botulinum strain Bf,445336
+3780,Alocasia macrorrhizos,4456
+3781,san-qi,44586
+3782,Legionella pneumophila,446
+3783,Paepalanthus geniculatus,446063
+3784,creeping prickly-pear,446152
+3785,sweet flag,4465
+3786,Trichophyton longifusum,446639
+3787,Sitobion avenae,44664
+3788,Panax stipuleanatus,44682
+3789,Japanese ginseng,44685
+3790,Dictyostelium discoideum,44689
+3791,Seimatosporium discosioides,446939
+3792,Hemsleya endecaphylla,447115
+3793,Lemna minor,4472
+3794,Desulfovibrio fairfieldensis,44742
+3795,Corynebacterium auris,44750
+3796,Epilachna varivestis,447619
+3797,grass family,4479
+3798,Microcystis viridis,44822
+3799,Parazoanthus,44924
+3800,Parazoanthus axinellae,44925
+3801,Gnetum africanum,44929
+3802,Microcystis aeruginosa NIES-88,449441
+3803,Monochoria vaginalis,44972
+3804,oat,4498
+3805,Tacca plantaginea,44982
+3806,Avena fatua,4499
+3807,Dalbergia frutescens,450026
+3808,autumn-crocus,45005
+3809,Swartzia polyphylla,450104
+3810,Brevibacterium frigoritolerans,450367
+3811,Vibrio campbellii CAIM 519 = NBRC 15631 = ATCC 25920,450388
+3812,Pimpinella brachycarpa,45043
+3813,Coix lacryma-jobi,4505
+3814,cocksfoot,4509
+3815,Eleusine coracana,4511
+3816,Hordeum vulgare,4513
+3817,Bipolaris sorokiniana,45130
+3818,Botryosphaeria,45132
+3819,Lasiodiplodia theobromae,45133
+3820,Neofusicoccum ribis,45134
+3821,Setosphaeria rostrata,45150
+3822,Pyrenophora tritici-repentis,45151
+3823,Muntingia calabura,45164
+3824,tree peony,45171
+3825,Italian ryegrass,4521
+3826,Guanarito virus,45219
+3827,Lolium perenne,4522
+3828,Cordyceps,45234
+3829,Streptomyces scopuliridis,452529
+3830,Sarocladium kiliense,45277
+3831,Oryza sativa,4530
+3832,Lewia infectoria,45303
+3833,red maple,45314
+3834,Schisandra arisanensis,453241
+3835,Viburnum awabuki,453244
+3836,Candida intermedia,45354
+3837,Candida haemulonis,45357
+3838,Sporochnus comosus,45367
+3839,European silver fir,45372
+3840,Kopsia arborea,453901
+3841,Heliotropium huascoense,454099
+3842,Heliotropium sinuatum,454107
+3843,cattail millet,4543
+3844,Poa pratensis,4545
+3845,Sambucus racemosa subsp. sieboldiana,45463
+3846,Teladorsagia circumcincta,45464
+3847,Secale cereale,4550
+3848,quiabo,455045
+3849,Pichia nakazawae,45506
+3850,Candida aaseri,45518
+3851,foxtail millet,4555
+3852,Setaria viridis,4556
+3853,Sorghum,4557
+3854,Candida palmioleophila,45574
+3855,Sorghum bicolor,4558
+3856,Scheffersomyces shehatae,45589
+3857,Candida stellata,45594
+3858,Candida tenuis,45596
+3859,Johnson grass,4560
+3860,Xanthomonas euvesicatoria,456327
+3861,Canadian hard winter wheat,4565
+3862,Cyathobasis fruticulosa,456977
+3863,Rhizoctonia solani,456999
+3864,Rhizoctonia solani AG4,457000
+3865,Physostegia purpurea,457159
+3866,lady's-thumb,457184
+3867,Euphorbia resinifera,457265
+3868,Akanthomyces lecanii,457515
+3869,San Angelo virus,45767
+3870,Zea mays,4577
+3871,Nadsonia fulvescens,45786
+3872,Eysenhardtia polystachya,457900
+3873,Lindra,45815
+3874,Lindra thalassiae,45816
+3875,Pediomelum digitatum,458362
+3876,Isaria tenuipes,45847
+3877,Pandaros acanthifolium,458511
+3878,Eurycoma longifolia,458531
+3879,Corydalis yanhusuo,458692
+3880,Ligustrum lucidum,458695
+3881,Tripterygium wilfordii,458696
+3882,mountain laurel,45902
+3883,Brucea antidysenterica,459111
+3884,Nothospondias staudtii,459131
+3885,Odyendyea gabonensis,459133
+3886,Picrasma javanica,459140
+3887,Pratylenchus penetrans,45929
+3888,Embelia ribes,459629
+3889,Oscillibacter,459786
+3890,Nocardia pseudobrasiliensis,45979
+3891,Paecilomyces variotii,45996
+3892,Cribrochalina,459968
+3893,Cribrochalina vasculum,459969
+3894,banana-root nematode,46012
+3895,Echovirus E7,46018
+3896,Mutisia friesiana,460334
+3897,Ogataea polymorpha,460523
+3898,Festuca arundinacea,4606
+3899,Orobanche ramosa,46066
+3900,Chlorocebus cynosuros,460675
+3901,Machilus wangchiana,460783
+3902,green fat hen,46091
+3903,Seseli mairei,460996
+3904,Cyperus,4610
+3905,Celosia argentea,46112
+3906,Cephalosporium serrae,461146
+3907,Staphylococcus chromogenes,46126
+3908,Portulaca oleracea,46147
+3909,Fibraurea tinctoria,461588
+3910,Staphylococcus aureus subsp. aureus,46170
+3911,Nonomuraea pusilla,46177
+3912,Nonomuraea roseola,46179
+3913,Nonomuraea rubra,46180
+3914,Pacific yew,46220
+3915,Ruminococcus lactaris,46228
+3916,Senecio volckmannii,462571
+3917,Macaranga kurzii,463318
+3918,Coccinella septempunctata brucki,463703
+3919,Kalopanax septemlobus,46399
+3920,Fluoribacter gormanii,464
+3921,sweet banana,4641
+3922,Trevesia palmata,46421
+3923,Tupidanthus calyptratus,46423
+3924,Sphingobium chlorophenolicum,46429
+3925,Sinularia densa,464399
+3926,Aspergillus versicolor,46472
+3927,Thrips obscuratus,464996
+3928,Parabacteroides merdae,46503
+3929,Bacteroides stercoris,46506
+3930,Micrococcus luteus str. NCTC 2665,465515
+3931,Malbranchea circinata,465702
+3932,Malbranchea flavorosea,465703
+3933,Kummerowia striata,466223
+3934,Bletilla formosana,466243
+3935,Salmonella enterica subsp. enterica serovar Give,46626
+3936,Pseudomonas agarici,46677
+3937,Ascaridia galli,46685
+3938,Turbinaria <Cnidaria>,46697
+3939,Turbinaria peltata,46698
+3940,Tubastraea,46699
+3941,Novodinia,466994
+3942,Novodinia antillensis,466995
+3943,Montipora,46703
+3944,Lachnoanaerobaculum saburreum,467210
+3945,Persicaria longiseta,467333
+3946,Allium cepa,4679
+3947,leek,4681
+3948,garlic,4682
+3949,Allium tuberosum,4683
+3950,Sarcotragus,468351
+3951,Strepsichordaia lendenfeldi,468353
+3952,garden asparagus,4686
+3953,Nusa,468772
+3954,Bromus diandrus var. rigidus,468977
+3955,Acinetobacter,469
+3956,Persicaria hydropiper,46901
+3957,Aspergillus insuetus,469274
+3958,Aspergillus ruber,469279
+3959,Aspergillus variecolor,469282
+3960,Callyspongia pseudoreticulata,469327
+3961,Haliclona koremella,469341
+3962,Megoura crassicauda,469902
+3963,Garcinia livingstonei,469932
+3964,Acinetobacter baumannii,470
+3965,Palisada perforata,470590
+3966,Melilotus albus,47082
+3967,Medicago polymorpha,47084
+3968,Laurencia majuscula,470949
+3969,Acinetobacter calcoaceticus,471
+3970,Geitlerinema amphibium,471288
+3971,Rhytisma <ascomycete>,47168
+3972,Ascodesmis sphaerospora,47183
+3973,Acinetobacter sp.,472
+3974,Serenoa repens,4722
+3975,Microtus arvalis,47230
+3976,Trichothecium roseum,47278
+3977,Vidalia,472887
+3978,Tsukamurella pulmonis,47312
+3979,Rhabdastrella globostellata,473528
+3980,Enterococcus faecalis str. OG1RF,474186
+3981,Armillaria mellea,47429
+3982,Commelina communis,4744
+3983,Colletotrichum gloeosporioides,474922
+3984,Ophiocordyceps,474995
+3985,Moraxella,475
+3986,Aneurinibacillus migulanus,47500
+3987,Echovirus E13,47501
+3988,Fungi,4751
+3989,Echovirus E29,47512
+3990,Calystegia sepium,47519
+3991,Apha,475258
+3992,Beauveria bassiana,475271
+3993,Pneumocystis,4753
+3994,Pneumocystis carinii,4754
+3995,Moraxella bovis,476
+3996,Bacteroides caccae,47678
+3997,Saprolegnia,4769
+3998,Lactobacillus rhamnosus,47715
+3999,Streptomyces olivaceus,47716
+4000,Streptomyces lydicus,47763
+4001,turnip moth,47767
+4002,Lactobacillus crispatus,47770
+4003,Iryanthera lancifolia,477925
+4004,Dasyscyphus nidulus,47807
+4005,green leafhopper,478132
+4006,greater hornwrack,478208
+4007,Lachnellula,47830
+4008,Phytophthora capsici,4784
+4009,Phytophthora cinnamomi,4785
+4010,Micromonospora inyonensis,47866
+4011,potato late blight agent,4787
+4012,Micromonospora rosaria,47874
+4013,potato pink rot fungus,4788
+4014,Pseudomonas luteola,47886
+4015,Plasmodium falciparum D6,478860
+4016,Phytophthora nicotianae,4790
+4017,potato buckeye rot agent,4791
+4018,Serratia fonticola,47917
+4019,Phytophthora parasitica,4792
+4020,Phytophthora citrophthora,4793
+4021,Phytophthora palmivora,4796
+4022,Acer pictum subsp. mono,47963
+4023,Hippospongia lachne,479639
+4024,Acer pictum subsp. okamotoanum,47964
+4025,Pythium,4797
+4026,Moraxella catarrhalis,480
+4027,Panus rudis,48022
+4028,bishop's-weed,48026
+4029,Anthriscus sylvestris,48027
+4030,fennel,48038
+4031,Shinkaia crosnieri,480484
+4032,summer fruit tortrix moth,480707
+4033,Alternaria porri,48098
+4034,Alternaria solani,48100
+4035,Angelica dahurica,48101
+4036,Bupleurum fruticosum,48103
+4037,sheep-rot,48106
+4038,bastard indigo,48131
+4039,Escherichia coli ATCC 8739,481805
+4040,Neisseria,482
+4041,Aspergillus taichungensis,482145
+4042,Oscillatoria nigro-viridis,482564
+4043,Hassallia,482629
+4044,Mucorales,4827
+4045,Absidia,4828
+4046,bigtooth aspen,482945
+4047,Acinetobacter pittii,48296
+4048,Mirabilis himalaica,482968
+4049,Mucor,4830
+4050,Caesalpinia sappan,483143
+4051,Phycomyces blakesleeanus,4837
+4052,Rhizomucor,4838
+4053,Leucas aspera,483811
+4054,Perilla frutescens,48386
+4055,Rhizomucor miehei,4839
+4056,Rhizomucor pusillus,4840
+4057,Mucor racemosus,4841
+4058,Galtonia saundersiae,484171
+4059,Ornithogalum thyrsoides,484172
+4060,Gulo,48419
+4061,Rhizopus,4842
+4062,Rhizopus microsporus var. chinensis,4843
+4063,Rhizopus stolonifer,4846
+4064,Neisseria gonorrhoeae,485
+4065,Cunninghamella,4852
+4066,Asclepias syriaca,48545
+4067,Mortierella,4855
+4068,Pyricularia,48558
+4069,Suillus granulatus,48571
+4070,Whitmania pigra,486152
+4071,Neisseria meningitidis,487
+4072,Eragrostis cilianensis,48734
+4073,Sarcodon leucopus,487363
+4074,Xanthomonas campestris pv. sesami,487889
+4075,Setaria,48796
+4076,Neisseria mucosa,488
+4077,Persicaria nodosa,488004
+4078,Ascomycota,4890
+4079,HBV genotype D,489483
+4080,Hepatitis B virus duck/DHBV-3,489542
+4081,Schizosaccharomyces pombe,4896
+4082,Microsporum gypseum,489714
+4083,Celastrus flagellaris,489978
+4084,Celastrus vulcanicola,489983
+4085,Neisseria sicca,490
+4086,Moya spinosa,490012
+4087,Hesperocyparis arizonica,49011
+4088,Xylaria nigripes,490159
+4089,Torula yeast,4903
+4090,maruba-aodamo,490850
+4091,Pichia kudriavzevii,4909
+4092,Kluyveromyces marxianus,4911
+4093,Marinobacterium stanieri,49186
+4094,Pichia,4919
+4095,Stemona aphylla,492013
+4096,Stemona burkillii,492014
+4097,Stemona collinsae,492015
+4098,Stemona curtisii,492018
+4099,Clitocybe nuda,492052
+4100,Pichia norvegensis,4921
+4101,Komagataella pastoris,4922
+4102,Trichoderma hamatum,49224
+4103,Actinocyclus <diatoms>,49230
+4104,Chaetoceros,49237
+4105,Scheffersomyces stipitis,4924
+4106,Pichia membranifaciens,4926
+4107,Wickerhamomyces anomalus,4927
+4108,Meyerozyma guilliermondii,4929
+4109,Saccharomyces,4930
+4110,chirimoya,49314
+4111,baker's yeast,4932
+4112,Lagenophora cuneata,493361
+4113,Saccharomyces sp.,4935
+4114,Mycogone perniciosa,494059
+4115,Saccharomycopsis,4943
+4116,Saccharomycopsis fibuligera,4944
+4117,Piper longum,49511
+4118,Yarrowia lipolytica,4952
+4119,Zygosaccharomyces,4953
+4120,Pteris cretica,49539
+4121,Zygosaccharomyces bailii,4954
+4122,Oenanthe javanica,49556
+4123,Zygosaccharomyces rouxii,4956
+4124,Peucedanum japonicum,49563
+4125,Debaryomyces hansenii,4959
+4126,Rhododendron ferrugineum,49622
+4127,Gellius,496429
+4128,Artemisia carvifolia,496566
+4129,Trillium camschatcense,49675
+4130,Menispermum dauricum,49683
+4131,Goniothalamus cheliensis,497606
+4132,Croton tiglium,497687
+4133,Physalis crassifolia,49773
+4134,Anagyris foetida,49793
+4135,Candida auris,498019
+4136,Xylaria feejeensis,498163
+4137,ceibo,49817
+4138,Glycyrrhiza glabra,49827
+4139,golden chain,49828
+4140,Sesbania herbacea,498362
+4141,Streptomyces specialis,498367
+4142,Sophora flavescens,49840
+4143,Garveia annulata,498507
+4144,mountain soursop,49857
+4145,Hydrangea scandens subsp. chinensis,498914
+4146,Dietzia timorensis,499555
+4147,Geopyxis,49968
+4148,Rhopilema esculentum,499914
+4149,Thymus vulgaris,49992
+4150,citrus red mite,50023
+4151,European red spider mite,50024
+4152,Kanzawa spider mite,50028
+4153,Sporidiobolus salmonicolor,5005
+4154,Plumarella,500558
+4155,Dekkera bruxellensis,5007
+4156,peach leaf curl fungus,5011
+4157,Minquartia guianensis,50146
+4158,southern corn leaf blight pathogen,5016
+4159,Viscum articulatum,50172
+4160,Ximenia americana,50174
+4161,Juniperus chinensis,50182
+4162,Torreya nucifera,50189
+4163,Sonchus arvensis,50192
+4164,Sonchus asper,50193
+4165,Thalassospira profundimaris,502049
+4166,common sow-thistle,50207
+4167,Diplodia mutila,502120
+4168,Neofusicoccum australe,502121
+4169,Paraconiothyrium hawaiiense,502129
+4170,blackleg of canola fungus,5022
+4171,Lasiodiplodia theobromae,502207
+4172,Taraxacum officinale,50225
+4173,Venturia <fungus>,5024
+4174,Nostoc spongiaeforme,502487
+4175,Venturia inaequalis,5025
+4176,Fusarium acuminatum,502705
+4177,Fusarium avenaceum,502741
+4178,Paracoccidioides brasiliensis Pb18,502780
+4179,Pyrenophora graminea,5028
+4180,Pentarhizidium orientale,50328
+4181,Pseudomonas fuscovaginae,50340
+4182,Ajellomyces capsulatus,5037
+4183,Diabrotica undecimpunctata,50387
+4184,Diabrotica undecimpunctata howardi,50388
+4185,Ajellomyces dermatitidis,5039
+4186,Trypoxylus dichotomus,50413
+4187,Stylophora pistillata,50429
+4188,Acremonium chrysogenum,5044
+4189,Sarocladium strictum,5046
+4190,Cardamine hirsuta,50463
+4191,wu wei zi,50507
+4192,Acremonium persicinum,5051
+4193,Aspergillus,5052
+4194,Aspergillus aculeatus,5053
+4195,Aspergillus amstelodami,5054
+4196,Stichoneuron caudatum,50540
+4197,Insecta,50557
+4198,Aspergillus clavatus,5057
+4199,Aspergillus ficuum,5058
+4200,Aspergillus flavus,5059
+4201,Aspergillus niger,5061
+4202,Aspergillus oryzae,5062
+4203,Influenza A virus (A/Hong Kong/1/1968(H3N2)),506350
+4204,Aspergillus restrictus,5064
+4205,Aspergillus sp.,5065
+4206,Aspergillus wentii,5066
+4207,Metaphire sieboldi,506672
+4208,Aspergillus parasiticus,5067
+4209,Aspergillus tubingensis,5068
+4210,Alcaligenes,507
+4211,Vibrio diabolicus,50719
+4212,Ampelomyces,50729
+4213,Penicillium,5073
+4214,Penicillium brevicompactum,5074
+4215,Penicillium camemberti,5075
+4216,Hyphopichia,507510
+4217,Penicillium chrysogenum,5076
+4218,Penicillium citrinum,5077
+4219,Penicillium griseofulvum,5078
+4220,Penicillium janthinellum,5079
+4221,Penicillium sp.,5081
+4222,Penicillium roqueforti,5082
+4223,Penicillium canescens,5083
+4224,Aspergillus fumigatus,5085
+4225,Leptospira interrogans serovar Portlandvere,508528
+4226,Morula,508940
+4227,Alternaria tenuis,509205
+4228,Botryosphaeria berengeriana,509207
+4229,Dothiorella gregaria,509222
+4230,Bipolaris maydis,509226
+4231,Mariannaea elegans,509241
+4232,Dispar,509375
+4233,Talaromyces,5094
+4234,Stereocaulon paschale,50940
+4235,Lucida,509419
+4236,Talaromyces flavus,5095
+4237,Lindra <butterfly>,509525
+4238,Viola <butterfly>,509528
+4239,Biomphalaria alexandrina,50959
+4240,Clitocybe,50966
+4241,Monascus purpureus,5098
+4242,kerosene fungus,5101
+4243,Pisum fulvum,51020
+4244,Aspergillus oryzae RIB40,510516
+4245,shan zha,510735
+4246,Myristica fragrans,51089
+4247,Alcaligenes faecalis,511
+4248,Claviceps,5110
+4249,Dendronephthya,51109
+4250,Claviceps purpurea,5111
+4251,Escherichia coli strain MG1655,511145
+4252,Delicatula,511170
+4253,Mucor javanicus,51122
+4254,chestnut blight fungus,5116
+4255,Conoideocrella tenuis,511609
+4256,Aliivibrio,511678
+4257,Escherichia coli BL21,511693
+4258,Tulane virus,512169
+4259,Sewellia tropica,512248
+4260,Juglans regia,51240
+4261,Cyperus rotundus,512623
+4262,Fusarium fujikuroi,5127
+4263,Fusarium sambucinum,5128
+4264,Hypomyces chrysospermus,5131
+4265,Eimeria brunetti,51314
+4266,Eimeria necatrix,51315
+4267,Zasmidium citri,513420
+4268,Antipathozoanthus hickmani,513425
+4269,Parazoanthus darwini,513426
+4270,Chinese cabbage,51351
+4271,Pseuduvaria trimera,513648
+4272,Salinivibrio costicola,51367
+4273,Neurospora,5140
+4274,Neurospora crassa,5141
+4275,Amaryllis belladonna,51432
+4276,Podospora anserina,5145
+4277,Trichoderma reesei,51453
+4278,Chaetomium,5149
+4279,Chaetomium elatum,5150
+4280,transparent tunicate,51511
+4281,Phakellia fusca,515585
+4282,Ophiostoma,5159
+4283,Willaertia magna,51641
+4284,Lagopsis supina,516545
+4285,Cirsium japonicum,516546
+4286,Vincetoxicum stauntonii,516547
+4287,Plutella xylostella,51655
+4288,Leontice kiangnanensis,516550
+4289,Tetragenococcus halophilus,51669
+4290,Bordetella,517
+4291,Dutch elm disease fungus,5174
+4292,Sclerotinia,5179
+4293,Bordetella bronchiseptica,518
+4294,Sclerotinia sclerotiorum,5180
+4295,Sarcophyton,51812
+4296,Sinularia,51814
+4297,Sinularia flexibilis,51815
+4298,Buteogallus subtilis,518697
+4299,orange peel mushroom,5188
+4300,Influenza B virus (B/Lee/1940),518987
+4301,Ascobolus,5190
+4302,horse tapeworm,519353
+4303,Trididemnum cyclops,519493
+4304,Geodia barretti,519541
+4305,Caminus,519553
+4306,Bordetella pertussis,520
+4307,Basidiomycota,5204
+4308,Filobasidiella,5206
+4309,Steinernema feltiae,52066
+4310,Cryptococcus neoformans,5207
+4311,Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446,521098
+4312,Leishmania aristidesi,521160
+4313,Elymus repens,52152
+4314,Festuca rubra,52153
+4315,smilo grass,52158
+4316,Nasutitermes corniger,52233
+4317,Candida inconspicua,52247
+4318,Candida famata,522691
+4319,Human adenovirus 37,52275
+4320,Cypa,522807
+4321,Amorpha <moth>,522886
+4322,Trichophyton mentagrophytes,523103
+4323,Helicoverpa assulta,52344
+4324,Methanosarcina thermophila strain TM-1,523844
+4325,Villosa,52401
+4326,Arcangeliella camphorata,524218
+4327,Myrrha,524508
+4328,Ferula assa-foetida,52471
+4329,Ceratobasidium cornigerum,5252
+4330,Prochelator,525471
+4331,Brachyspira pilosicoli,52584
+4332,Erysiphe necator,52586
+4333,Euphorbia ebracteolata,526193
+4334,Uromyces appendiculatus,5264
+4335,Ustilago,5269
+4336,Bacillus cereus ATCC 10876,526980
+4337,Ustilago maydis,5270
+4338,Microbotryum violaceum,5272
+4339,Actinomyces meyeri,52773
+4340,Cyrtanthus contractus,527973
+4341,Ochrobactrum,528
+4342,Neofusicoccum ribis,528155
+4343,copa de oro,52818
+4344,Asclepias curassavica,52823
+4345,Oryza sp.,52841
+4346,Picralima nitida,52846
+4347,gou ya hua,52861
+4348,Thevetia peruviana,52862
+4349,Puccinia,5296
+4350,Arene,529734
+4351,Polaribacter irgensii,531
+4352,Marinactinospora thermotolerans,531310
+4353,Ganoderma,5314
+4354,Ganoderma lucidum,5315
+4355,Lamium album,53159
+4356,Irpex lacteus,5319
+4357,Stoechospermum,531987
+4358,tara-yo,53205
+4359,cornucopia mushroom,5321
+4360,oyster mushroom,5322
+4361,Pseudoalteromonas,53246
+4362,Pseudoalteromonas antarctica,53247
+4363,Trametes versicolor,5325
+4364,Uca,53313
+4365,Helice,53324
+4366,Ancylostoma ceylanicum,53326
+4367,Schizophyllum commune,5334
+4368,Enterococcus durans,53345
+4369,Agaricales,5338
+4370,Agaricus,5340
+4371,Pseudomonas coronafaciens,53409
+4372,Agaricus bisporus,5341
+4373,Xanthomonas axonopodis,53413
+4374,Nocardiopsis lucentia,53441
+4375,Eubacterium callanderi,53442
+4376,Coprinopsis cinerea,5346
+4377,Mycobacterium mageritense,53462
+4378,barley net-spot blotch disease agent,53485
+4379,Chromobacterium,535
+4380,Streptomyces caespitosus,53502
+4381,Thermobifida alba,53522
+4382,Stegomyia,53541
+4383,Lentinus,5357
+4384,Orobanche cernua,53590
+4385,Trichogramma nubilale,53591
+4386,Chromobacterium violaceum,536
+4387,Pichia fermentans,53655
+4388,Callicarpa arborea,536986
+4389,Pseudomonas syringae pv. lachrymans,53707
+4390,Eclipta prostrata,53719
+4391,Heliopsis helianthoides,53723
+4392,Rhinacanthus nasutus,537489
+4393,Echinacea purpurea,53751
+4394,Mammalian orthoreovirus 1,538120
+4395,Mammalian orthoreovirus 3,538123
+4396,Piper nudibaccatum,538318
+4397,Suillus luteus,5384
+4398,Caesalpinia pulcherrima,53846
+4399,Colletotrichum camelliae,538528
+4400,Coccus,538669
+4401,sericea lespedeza,53893
+4402,Eikenella corrodens,539
+4403,Xanthocercis zambesiaca,53932
+4404,Pyrococcus horikoshii,53953
+4405,Rhodococcus corynebacterioides,53972
+4406,Agrocybe aegerita,5400
+4407,Peptoniphilus harei,54005
+4408,Anaerococcus octavius,54007
+4409,chipmunks,54071
+4410,Siphonella,540885
+4411,Asterotremella humicola,5417
+4412,Cryptococcus laurentii,5418
+4413,Zymomonas mobilis,542
+4414,Camellia crapnelliana,542719
+4415,Sporobolomyces <Sporidiobolaceae>,5429
+4416,Enterobacteriaceae,543
+4417,Planktothrix,54304
+4418,Salmonella enterica subsp. enterica serovar Paratyphi A,54388
+4419,Citrobacter,544
+4420,Paramphistomum,54402
+4421,Helicobasidium mompa,54444
+4422,Securinega suffruticosa,544674
+4423,chastetree,54477
+4424,Citrobacter koseri,545
+4425,Ascochyta,5453
+4426,Didymella rabiei,5454
+4427,Tricholoma pardinum,54540
+4428,Colletotrichum,5455
+4429,Colletotrichum capsici,5456
+4430,Lindera aggregata,545644
+4431,Sporothrix globosa,545651
+4432,Glomerella cingulata,5457
+4433,Streptomyces venezuelensis,54571
+4434,Citrobacter freundii,546
+4435,Colletotrichum lagenaria,5462
+4436,Colletotrichum musae,5464
+4437,Colletotrichum orbiculare,5465
+4438,Colletotrichum truncatum,5467
+4439,Euphorbia lagascae,54672
+4440,Enterobacter,547
+4441,Bifora radians,54706
+4442,osha,54719
+4443,Hansenia weberbaueriana,54724
+4444,Leptoxyphium,5473
+4445,Zymoseptoria tritici,54734
+4446,Salmonella bongori,54736
+4447,Candida,5475
+4448,Plasmodium vinckei vinckei,54757
+4449,Candida albicans,5476
+4450,Candida boidinii,5477
+4451,Candida glabrata,5478
+4452,Stagonospora,54788
+4453,Candida maltosa,5479
+4454,Enterobacter aerogenes,548
+4455,Candida parapsilosis,5480
+4456,Piper kadsura,54803
+4457,Saururus chinensis,54806
+4458,Candida rugosa,5481
+4459,Candida tropicalis,5482
+4460,Ferula communis,54829
+4461,Leucojum aestivum,54835
+4462,Candida viswanathii,5486
+4463,Sternbergia lutea,54865
+4464,Candida azyma,5488
+4465,Diaporthe longicolla,54899
+4466,Pantoea agglomerans,549
+4467,Candida magnoliae,5490
+4468,Cymbopogon nardus,549175
+4469,Candida zeylanoides,5493
+4470,Cinnamodendron axillare,549613
+4471,Pleodendron costaricense,549616
+4472,Vitex altissima,549680
+4473,Arenaria <Aves>,54972
+4474,Cladosporium,5498
+4475,Passalora fulva,5499
+4476,Enterobacter cloacae,550
+4477,Coccidioides immitis,5501
+4478,Curvularia,5502
+4479,Curvularia lunata,5503
+4480,Liposcelis entomophila,550478
+4481,cabbage moth,55057
+4482,Fusarium,5506
+4483,Phaeosphaeria,55067
+4484,Fusarium oxysporum,5507
+4485,Monomorium,55077
+4486,Fusarium oxysporum f. cucumerinum,5508
+4487,Dendroides,55099
+4488,Erwinia,551
+4489,Euryops arabicus,551048
+4490,Fusarium sporotrichioides,5514
+4491,Fusarium acuminatum,5515
+4492,Fusarium culmorum,5516
+4493,Botryosphaeria dothidea,55169
+4494,Didymella,55170
+4495,Fusarium graminearum,5518
+4496,Guignardia,55180
+4497,Guignardia citricarpa,55181
+4498,Acorus gramineus,55184
+4499,Malassezia,55193
+4500,Pityriasis (Tinea) versicolor infection agent,55194
+4501,Erwinia amylovora,552
+4502,Microdochium nivale,5520
+4503,Fusarium lateritium,5523
+4504,Cryptococcus gattii,552467
+4505,Humicola,5526
+4506,Metarhizium,5529
+4507,Pantoea ananatis,553
+4508,Metarhizium anisopliae,5530
+4509,Myrothecium,5531
+4510,Latrunculia,553185
+4511,Myrothecium verrucaria,5532
+4512,Rhodotorula,5533
+4513,Rhodotorula glutinis,5535
+4514,Peniophora incarnata,55350
+4515,Photobacterium leiognathi,553611
+4516,Rhodotorula mucilaginosa,5537
+4517,Pectobacterium carotovorum,554
+4518,Thermomyces lanuginosus,5541
+4519,Tapes,55421
+4520,Trichoderma,5543
+4521,Trichoderma harzianum,5544
+4522,Trichoderma viride,5547
+4523,Trichoderma longibrachiatum,5548
+4524,Stratiotes aloides,55494
+4525,Pestalotiopsis longiseta,554969
+4526,Pectobacterium carotovorum subsp. carotovorum,555
+4527,Trichophyton,5550
+4528,Trichophyton rubrum,5551
+4529,Magnetospirillum gryphiswaldense,55518
+4530,Trichosporon,5552
+4531,Trichosporon beigelii,5553
+4532,Trichosporon cutaneum,5554
+4533,Ferula varia,555417
+4534,black-caraway,555479
+4535,Suberites,55566
+4536,ten-months yam,55571
+4537,Uromyces viciae-fabae,55588
+4538,Kniphofia ensifolia,555937
+4539,Erwinia chrysanthemi,556
+4540,Vibrio anguillarum,55601
+4541,blanket-flower,55624
+4542,Gloeocercospora sorghi,5563
+4543,Stevia rebaudiana,55670
+4544,Radix,55689
+4545,Matayba guianensis,557007
+4546,Venus,55714
+4547,Bursaria,55725
+4548,Thia,557274
+4549,Pseudomonas aeruginosa LESB58,557722
+4550,poverty brome,55777
+4551,Aureobasidium pullulans,5580
+4552,Bulinus truncatus,55810
+4553,Pria,558101
+4554,Hirudinida,55824
+4555,Exophiala jeanselmei,5584
+4556,Stevia commixta,558453
+4557,Rhinocladiella,5587
+4558,Acanthodendrilla,558782
+4559,Mycobacterium avium-intracellulare,55883
+4560,Saccharomyces cerevisiae S288c,559292
+4561,Pseudallescheria boydii,5597
+4562,Ips,55979
+4563,Alternaria,5598
+4564,Alternaria alternata,5599
+4565,Sorangium cellulosum,56
+4566,Matricaria,56016
+4567,Abies pinsapo,56046
+4568,dhak,56060
+4569,pongam,56065
+4570,Ula,560788
+4571,Ditaxis <mantid lacewing>,560958
+4572,Escherichia,561
+4573,Fischerella ambigua,56108
+4574,Staphylococcus aureus subsp. aureus RN4220,561307
+4575,Oncomelania hupensis,56141
+4576,Zyzzya,561730
+4577,green amaranth,56196
+4578,Escherichia coli,562
+4579,Synoicum,562744
+4580,Synoicum adareanum,562745
+4581,Coraciidae,56290
+4582,Mucor spinosus,562977
+4583,Laetiporus sulphureus,5630
+4584,Dendrilla,563157
+4585,Lenzites betulinus,5632
+4586,Pseudallescheria apiosperma,563466
+4587,Agrotis ipsilon,56364
+4588,Polyporus,5637
+4589,Escherichia fergusonii,564
+4590,Hanseniaspora guilliermondii,56406
+4591,Hanseniaspora osmophila,56408
+4592,Hanseniaspora vineae,56409
+4593,Stereum,5644
+4594,Xanthomonas vasicola,56459
+4595,Xanthomonas vesicatoria,56460
+4596,Anagnostidinema amphibium,564789
+4597,Thelephora,56489
+4598,Bifidobacterium longum subsp. longum str. JCM 1217,565042
+4599,Anvillea garcinii,56519
+4600,Trypanosomatidae,5654
+4601,Crithidia fasciculata,5656
+4602,Strigomonas oncopelti,5657
+4603,Leishmania <genus>,5658
+4604,Leishmania amazonensis,5659
+4605,Leishmania braziliensis,5660
+4606,Leishmania donovani,5661
+4607,Puccinia graminis f. sp. tritici,56615
+4608,Leishmania enriettii,5663
+4609,Leishmania major,5664
+4610,Leishmania mexicana,5665
+4611,Leishmania tropica,5666
+4612,Leishmania aethiopica,5667
+4613,Tritrichomonas suis,56690
+4614,Pachypoda,566937
+4615,Leishmania guyanensis,5670
+4616,Leishmania infantum,5671
+4617,Tritrichomonas mobilensis,56778
+4618,Leishmania panamensis,5679
+4619,Leishmania peruviana,5681
+4620,Leishmania pifanoi,5682
+4621,Bacillus anthracis strain CDC 684,568206
+4622,Callicarpa bodinieri,568210
+4623,Leptomonas seymouri,5684
+4624,Leishmania tarentolae,5689
+4625,Hafnia alvei,569
+4626,Trypanosoma,5690
+4627,Trypanosoma brucei,5691
+4628,Trypanosoma congolense,5692
+4629,Lepidozia reptans,56927
+4630,Trypanosoma cruzi,5693
+4631,Lunularia cruciata,56931
+4632,Trypanosoma equiperdum,5694
+4633,Trypanosoma lewisi,5695
+4634,Trypanosoma evansi,5697
+4635,Zanha africana,569835
+4636,Trypanosoma vivax,5699
+4637,Klebsiella,570
+4638,Pseudoalteromonas lipolytica,570156
+4639,Trypanosoma brucei brucei,5702
+4640,Salmonella enterica subsp. enterica serovar Paratyphi B,57045
+4641,Klebsiella oxytoca,571
+4642,Sarcodon,57135
+4643,Fusarium decemcellulare,57161
+4644,Saccharomyces carlsbergensis,571644
+4645,Actinopyga lecanora,571811
+4646,Trichomonas,5721
+4647,Wilsoniana,572136
+4648,Trichomonas vaginalis,5722
+4649,Fasciospongia,572251
+4650,Tritrichomonas suis,5724
+4651,Pentatrichomonas hominis,5728
+4652,Klebsiella pneumoniae,573
+4653,Candida dubliniensis str. CD36,573826
+4654,Klebsiella pneumoniae subsp. ozaenae,574
+4655,Giardia,5740
+4656,Clusia,574057
+4657,Giardia intestinalis,5741
+4658,Holothuria fuscopunctata,574471
+4659,Escherichia coli O127:H6 str. E2348/69,574521
+4660,Sphaerotheca cucurbitae,57464
+4661,Kocuria,57493
+4662,Raoultella planticola,575
+4663,Acanthamoeba,5754
+4664,Acanthamoeba castellanii,5755
+4665,corn cyst nematode,57558
+4666,Belonolaimus,57561
+4667,Acanthamoeba polyphaga,5757
+4668,Trifolium pratense,57577
+4669,Entamoeba,5758
+4670,Entamoeba histolytica,5759
+4671,Klebsiella sp.,576
+4672,Naegleria,5761
+4673,Naegleria gruberi,5762
+4674,Naegleria fowleri,5763
+4675,dodan,57655
+4676,Simian-Human immunodeficiency virus,57667
+4677,Capitata,576756
+4678,Citrobacter braakii,57706
+4679,Amoeba,5774
+4680,Vermamoeba vermiformis,5778
+4681,Dictyostelium,5782
+4682,Burkholderia thailandensis,57975
+4683,Eimeria,5800
+4684,Cryptolestes ferrugineus,58000
+4685,Eimeria acervulina,5801
+4686,Eimeria tenella,5802
+4687,Mitrephora glabra,580318
+4688,Eimeria maxima,5804
+4689,Cryptosporidium,5806
+4690,Cryptosporidium parvum,5807
+4691,Mylabris phalerata,580879
+4692,Muhlenbergia,58090
+4693,Morganella,581
+4694,Toxoplasma,5810
+4695,Eusynstyela,581069
+4696,Stolonica socialis,581074
+4697,Toxoplasma gondii,5811
+4698,Geranium molle,581251
+4699,Helminthosporium,58127
+4700,Paralobesia,581690
+4701,Compacta,581810
+4702,Morganella morganii,582
+4703,Plasmodium,5820
+4704,Plasmodium berghei,5821
+4705,Garcinia mangostana,58228
+4706,Plasmodium berghei ANKA,5823
+4707,Plasmodium chabaudi,5825
+4708,Plasmodium cynomolgi,5827
+4709,Rhizopus microsporus,58291
+4710,Proteus,583
+4711,malaria parasite P. falciparum,5833
+4712,Streptomyces canus,58343
+4713,Streptomyces platensis,58346
+4714,Kitasatospora cystarginea,58350
+4715,Kitasatosporia mediocidinica,58352
+4716,Chondrostereum purpureum,58369
+4717,Plasmodium falciparum FCR-3/Gambia,5838
+4718,Plasmodium falciparum K1,5839
+4719,Proteus mirabilis,584
+4720,Plasmodium falciparum NF54,5843
+4721,Genipa americana,58486
+4722,Plasmodium gallinaceum,5849
+4723,Proteus vulgaris,585
+4724,Plasmodium knowlesi,5850
+4725,Plasmodium vivax,5855
+4726,Plasmodium malariae,5858
+4727,Providencia,586
+4728,Plasmodium vinckei,5860
+4729,Plasmodium yoelii,5861
+4730,Plasmodium berghei yoelii,5862
+4731,Babesia,5864
+4732,Babesia bovis,5865
+4733,Providencia rettgeri,587
+4734,Salmonella enterica subsp. enterica serovar Anatum,58712
+4735,Biosteres,58723
+4736,Hirsutella nivea,587367
+4737,Theileria parva,5875
+4738,Tripolium vulgare,587543
+4739,Isodon rubescens,587669
+4740,Teucrium viscidum,587682
+4741,Euplexaura,58799
+4742,Providencia stuartii,588
+4743,Glaucoma,5882
+4744,Plodia interpunctella,58824
+4745,Paramecium,5884
+4746,Verrucosa,588438
+4747,Trichoderma citrinoviride,58853
+4748,tamarind,58860
+4749,Paramecium tetraurelia,5888
+4750,Salvia prionitis,588964
+4751,Providencia sp.,589
+4752,Tetrahymena,5890
+4753,Iris domestica,58944
+4754,Peltodoris nobilis,589681
+4755,Salmonella,590
+4756,Hymenocallis littoralis,59040
+4757,Anemarrhena asphodeloides,59045
+4758,Ruscus aculeatus,59067
+4759,Tetrahymena pyriformis,5908
+4760,Tetrahymena thermophila,5911
+4761,Trogoderma granarium,591392
+4762,Valeriana jatamansi,59170
+4763,Steganotaenia araliacea,59178
+4764,Salmonella enterica subsp. enterica,59201
+4765,Getah virus,59300
+4766,Mayaro virus,59301
+4767,Una virus,59304
+4768,Carteriospongia,593583
+4769,Carteriospongia foliascens,593584
+4770,Salmonella enterica subsp. enterica serovar Gallinarum,594
+4771,Euplotes aediculatus,5940
+4772,Monographella nivalis var. nivalis,594596
+4773,Planktothrix rubescens,59512
+4774,Neopetrosia,595364
+4775,Neopetrosia chaliniformis,595366
+4776,Corynespora,59585
+4777,Corynespora cassiicola,59586
+4778,Blepharisma japonicum,5961
+4779,Stentor coeruleus,5963
+4780,Eurya japonica,59671
+4781,Styrax japonicus,59680
+4782,Exophiala dermatitidis,5970
+4783,Fusarium oxysporum f. sp. lycopersici,59765
+4784,Colpoda,5979
+4785,Mycobacterium novocastrense,59813
+4786,Pantoea dispersa,59814
+4787,Tyrophagus putrescentiae,59818
+4788,spot,59837
+4789,Cynara cardunculus var. scolymus,59895
+4790,Salmonella sp.,599
+4791,Aegiceras corniculatum,59970
+4792,Myrsine africana,59982
+4793,Swida controversa,60118
+4794,Penicillium cyclopium,60167
+4795,Penicillium verrucosum,60171
+4796,Penicillium solitum,60172
+4797,Encephalitozoon cuniculi,6035
+4798,Porifera,6040
+4799,Drupella,604261
+4800,Geodia,6046
+4801,Haplosclerida,6049
+4802,Mycoleptodiscus,60494
+4803,Salmonella enterica subsp. enterica serovar Pullorum,605
+4804,Burkholderia pyrrocinia,60550
+4805,Burkholderia vietnamiensis,60552
+4806,Aquilonastra batheri,60557
+4807,Certonardoa semiregularis,60563
+4808,Haliclona,6057
+4809,Haliclona oculata,6058
+4810,Reticulitermes speratus,60591
+4811,Halichondria,6061
+4812,Halichondria panicea,6063
+4813,Hymeniacidon,6065
+4814,Dichotomaria marginata,60691
+4815,Spongosorites,6070
+4816,vervet,60710
+4817,Chlorocebus sabaeus,60711
+4818,Chlorocebus tantalus,60712
+4819,Amara,60755
+4820,Haliclona fulva,608202
+4821,Ophioglossum pedunculosum,60874
+4822,Aequorea victoria,6100
+4823,Geomyces,610258
+4824,Salmonella enterica subsp. enterica serovar Heidelberg,611
+4825,Ceriops tagal,61143
+4826,Rhizophora mucronata,61149
+4827,Holdemania filiformis,61171
+4828,Monilinia laxa,61186
+4829,Stichodactyla helianthus,6123
+4830,Fusarium equiseti,61235
+4831,Chrysosplenium grayanum,61245
+4832,Fusarium tricinctum,61284
+4833,Serratia,613
+4834,Phoenician juniper,61308
+4835,Boswellia serrata,613112
+4836,Renilla,6134
+4837,Renilla reniformis,6136
+4838,Fusarium oxysporum f. cubense,61366
+4839,Fusarium oxysporum f. sp. vasinfectum,61374
+4840,Serratia liquefaciens,614
+4841,Aspergillus caelatus,61420
+4842,Polyphylla,614209
+4843,Serratia marcescens,615
+4844,Strobiloscypha,61500
+4845,Serratia sp.,616
+4846,Acanthamoeba lugdunensis,61605
+4847,Enterobacter asburiae,61645
+4848,Lelliottia amnigena,61646
+4849,Enterobacter gergoviensis,61647
+4850,Porcine endogenous retrovirus,61673
+4851,Alangium grisolleoides,616979
+4852,Alangium longiflorum,616982
+4853,Alangium salviifolium,616984
+4854,Trematoda,6178
+4855,Schistosoma,6181
+4856,Schistosoma japonicum,6182
+4857,Schistosoma mansoni,6183
+4858,Schistosoma haematobium,6185
+4859,liver fluke,6192
+4860,Ianmoorea,619344
+4861,Adota,619382
+4862,Opisthorchis viverrini,6198
+4863,Shigella,620
+4864,Echo,62031
+4865,pork tapeworm,6204
+4866,Cooperia curticei,62055
+4867,Taenia crassiceps,6207
+4868,pagoda tree,62097
+4869,Shigella boydii,621
+4870,Echinococcus granulosus,6210
+4871,Echinococcus multilocularis,6211
+4872,Scorias spongiosa,62139
+4873,Shigella dysenteriae,622
+4874,Escherichia/Shigella flexneri,623
+4875,roundworms,6231
+4876,Shewanella baltica,62322
+4877,Panagrellus redivivus,6233
+4878,Caenorhabditis elegans,6239
+4879,Shigella sonnei,624
+4880,Shigella sp.,625
+4881,Ascaris,6251
+4882,Ascaris suum,6253
+4883,Parascaris,6254
+4884,Xenorhabdus,626
+4885,dog roundworm,6265
+4886,Caragana sukiensis,626694
+4887,grass mildew,62688
+4888,Blumeria graminis f. sp. tritici,62690
+4889,Podosphaera,62701
+4890,Golovinomyces cichoracearum,62708
+4891,Leveillula taurica,62718
+4892,Podosphaera pannosa,62728
+4893,Agrostis stolonifera var. palustris,62759
+4894,Acanthocheilonema viteae,6277
+4895,agent of lymphatic filariasis,6279
+4896,Xenorhabdus nematophila,628
+4897,Brugia pahangi,6280
+4898,Botrylloides,62806
+4899,Onchocerca,6281
+4900,Onchocerca volvulus,6282
+4901,Onchocerca gutturosa,6283
+4902,canine heartworm nematode,6287
+4903,Haemonchus,6288
+4904,Gliocladium,62887
+4905,barber pole worm,6289
+4906,Yersinia,629
+4907,agent of lymphatic filariasis,6293
+4908,Myrothecium roridum,62969
+4909,Litomosoides carinii,6299
+4910,Yersinia enterocolitica,630
+4911,Meloidogyne javanica,6303
+4912,Meloidogyne hapla,6305
+4913,southern root-knot nematode,6306
+4914,Ancistrocladus korupensis,63089
+4915,Triphyophyllum peltatum,63090
+4916,Colpoda steinii,63136
+4917,Tepa,631412
+4918,Trichostrongylus,6318
+4919,Trichostrongylus colubriformis,6319
+4920,Yersinia pestis,632
+4921,Pestalotia,63205
+4922,Azadinium,632149
+4923,Azadinium spinosum,632150
+4924,Bursaphelenchus xylophilus,6326
+4925,Callophycus serratus,632897
+4926,Yersinia pseudotuberculosis,633
+4927,Trichinella spiralis,6334
+4928,Epimedium koreanum,63351
+4929,Aquifex aeolicus,63363
+4930,Heligmosomoides polygyrus,6339
+4931,Arthroderma benhamiae,63400
+4932,Arthroderma fulvum,63401
+4933,Arthroderma gypseum,63402
+4934,Arthroderma otae,63405
+4935,Trichophyton verrucosum,63417
+4936,Trichophyton concentricum,63419
+4937,Phyllanthus <Aves>,634324
+4938,quinoa,63459
+4939,common oleander,63479
+4940,Flemingia philippinensis,634991
+4941,Edwardsiella tarda,636
+4942,creeping bent grass,63632
+4943,Hepatitis C virus (isolate H77),63746
+4944,Artemisia keiskeana,637481
+4945,garden balsam,63779
+4946,Penicillium chermesinum,63820
+4947,Tomophagus,638363
+4948,Penicillium sp. CMV-2009d,639303
+4949,Eisenia bicyclis,6395
+4950,Pheretima,6401
+4951,Metaphire sieboldi,6402
+4952,Actaea asiatica,64022
+4953,Actaea pachypoda,64023
+4954,Actaea dahurica,64029
+4955,Actaea racemosa,64040
+4956,Actaea simplex,64042
+4957,Influenza A virus (A/California/07/2009(H1N1)),641809
+4958,Xanthomonas oryzae pv. oryzae,64187
+4959,Aeromonas,642
+4960,Hirudo medicinalis,6421
+4961,Usutu virus,64286
+4962,Modoc virus,64300
+4963,Zika virus,64320
+4964,Niebla homalea,643219
+4965,Callosobruchus maculatus,64391
+4966,Aeromonas hydrophila,644
+4967,Paecilomyces formosus,644133
+4968,Komagataella pastoris GS115,644223
+4969,small white,64459
+4970,mollusks,6447
+4971,Actinidia arguta,64478
+4972,Gastropoda,6448
+4973,Mucor fragilis,64491
+4974,Mucor hiemalis,64493
+4975,Rhizopus oryzae,64495
+4976,Sydowia polyspora,64499
+4977,Aeromonas salmonicida,645
+4978,Mortierella alpina,64518
+4979,Discula theae-sinensis,645589
+4980,Aeromonas sobria,646
+4981,Ilyonectria radicicola,64609
+4982,Torula herbarum,646131
+4983,Mucor indicus,64623
+4984,Benjaminiella,64628
+4985,Benjaminiella poitrasii,64631
+4986,Mycotypha microspora,64633
+4987,Paecilomyces marquandii,64636
+4988,Patella vulgata,6465
+4989,Aeromonas sp.,647
+4990,Dioscorea nipponica,64700
+4991,Aeromonas caviae,648
+4992,Alopecurus japonicus,649009
+4993,Atlanta,649065
+4994,magus cone,6492
+4995,Aplysia,6499
+4996,Aplysia californica,6500
+4997,Aplysia kurodai,6501
+4998,Corynebacterium ulcerans,65058
+4999,Pythium aphanidermatum,65070
+5000,Pythium ultimum,65071
+5001,ragged sea hare,6508
+5002,Aeromonas media,651
+5003,Dolabella auricularia,6511
+5004,Lymnaea,6522
+5005,great pond snail,6523
+5006,Biomphalaria glabrata,6526
+5007,Pion,65268
+5008,giant African snail,6530
+5009,Helix,6534
+5010,Helix aspersa,6535
+5011,Roman snail,6536
+5012,Aeromonas veronii,654
+5013,Polysiphonia urceolata,65404
+5014,Baikal skullcap,65409
+5015,Phaeoacremonium,65412
+5016,Phaeoacremonium minimum,65417
+5017,Trichoderma viride,65470
+5018,Actinoalloteichus cyanogriseus,65497
+5019,edible mussel,6550
+5020,Zeuzera,655084
+5021,Kocuria sp. 10-4DEP,655234
+5022,caper,65558
+5023,Hypericum perforatum,65561
+5024,Paeonia lactiflora,65562
+5025,Aeromonas allosaccharophila,656
+5026,Setaria cervi,65603
+5027,Potoroidae,65619
+5028,eastern oyster,6565
+5029,scallops,6566
+5030,Acanthamoeba hatchetti,65660
+5031,Earias,656906
+5032,Earias vitella,656907
+5033,Scilla peruviana,65771
+5034,Photobacterium phosphoreum,659
+5035,Nasturtium officinale,65948
+5036,Mycale hentscheli,659499
+5037,Digitaria,66017
+5038,Digitaria ciliaris,66018
+5039,Sepia officinalis,6610
+5040,Cephalotaxus fortunei,66169
+5041,Vibrio,662
+5042,Salacia,662028
+5043,Vibrio alginolyticus,663
+5044,Actinomycetospora chlora,663608
+5045,Streptomyces fumigatiscleroticus,66371
+5046,kozo,66380
+5047,Morus bombycis,66393
+5048,Streptomyces parvus,66428
+5049,Octopus,6643
+5050,Streptomyces thioluteus,66431
+5051,Erwinia piriflorinigrans,665097
+5052,Verruca,66522
+5053,Balamuthia mandrillaris,66527
+5054,Acarus siro,66546
+5055,Arthropoda,6656
+5056,Vibrio cholerae,666
+5057,Artemia,6660
+5058,Ovatus,666060
+5059,Artemia franciscana,6661
+5060,Tetraena mongolica,66646
+5061,common water fleas,6668
+5062,Daphnia pulex,6669
+5063,Actinoallomurus,667113
+5064,Diplodia pinea,66738
+5065,Balanus,6677
+5066,Aliivibrio fischeri,668
+5067,Rhizopycnis vagum,66823
+5068,Escherichia coli str. DH5[alpha],668369
+5069,Sinularia brassica,668394
+5070,Sinularia capillosa,668396
+5071,Sinularia depressa,668409
+5072,Sinularia gibberosa,668428
+5073,Sinularia nanolobata,668468
+5074,Sinularia numerosa,668470
+5075,Sinularia scabra,668493
+5076,Sinularia verruca,668537
+5077,Streptomyces cacaoi subsp. cacaoi,66857
+5078,Streptomyces atroolivaceus,66869
+5079,Streptomyces aureiverticillatus,66871
+5080,Streptomyces filipinensis,66887
+5081,Vibrio harveyi,669
+5082,Meyerozyma caribbica,66948
+5083,Polygonum humifusum,669781
+5084,Vibrio parahaemolyticus,670
+5085,Thalassiosira weissflogii,67004
+5086,Vibrio proteolyticus,671
+5087,Vibrio vulnificus,672
+5088,Streptomyces griseus subsp. griseus,67263
+5089,Streptomyces alboflavus,67267
+5090,red swamp crayfish,6728
+5091,Streptomyces filamentosus,67294
+5092,Streptomyces hawaiiensis,67305
+5093,Streptomyces lavendofoliae,67314
+5094,Streptomyces lucensis,67319
+5095,Streptomyces misionesensis,67331
+5096,Streptoverticillium orinocoense,67339
+5097,Streptomyces prasinus,67345
+5098,Streptomyces psammoticus,67349
+5099,Streptomyces purpureifuscus,67352
+5100,Streptomyces violascens,67381
+5101,Vibrio mimicus,674
+5102,Paralithodes camtschaticus,6741
+5103,true crabs,6752
+5104,Cancer,6754
+5105,Phytophthora sojae,67593
+5106,Vibrio fluvialis,676
+5107,Psammocinia,676613
+5108,Amanita phalloides,67723
+5109,Yeddo spruce,67778
+5110,Edwardsiella ictaluri,67780
+5111,Vibrio sp.,678
+5112,Citrobacter farmeri,67824
+5113,Citrobacter rodentium,67825
+5114,Citrobacter werkmanii,67827
+5115,Citrobacter gillenii,67828
+5116,Fallax,67875
+5117,Pestalotiopsis hainanensis,679339
+5118,Flindersia pimenteliana,67934
+5119,Majidae,6805
+5120,Streptomyces albolongus,68173
+5121,Streptomyces antimycoticus,68175
+5122,Streptomyces blastmyceticus,68180
+5123,Streptomyces griseochromogenes,68214
+5124,Streptomyces iakyrus,68219
+5125,Streptomyces lusitanus,68232
+5126,Streptomyces mirabilis,68239
+5127,Streptomyces pactum,68249
+5128,Ageratum conyzoides,68299
+5129,Merostomata,6844
+5130,Limulus,6849
+5131,Indian baelfruit,68527
+5132,Tachypleus tridentatus,6853
+5133,white sapote,68535
+5134,Micromelum minutum,68550
+5135,Phellodendron amurense,68554
+5136,Petrosia,68563
+5137,Streptomyces albulus,68570
+5138,Chondrosia,68573
+5139,Pyralis,687121
+5140,Pluteus,68743
+5141,Albatrellus,68750
+5142,Calvatia,68761
+5143,Fusobacterium sp.,68766
+5144,Cyathus,68776
+5145,Aliivibrio logei,688
+5146,Egyptian scorpion,6883
+5147,Eupenicillium crustaceum,68832
+5148,Lichtheimia,688353
+5149,Hellula,688639
+5150,Penicillium paneum,68879
+5151,Crassa,688987
+5152,Araneae,6893
+5153,Actaea <crab>,689456
+5154,Una,689564
+5155,Lysobacter enzymogenes,69
+5156,Vibrio natriegens,691
+5157,Human enterovirus 71 (strain BRCR),69153
+5158,Rodentia sp.,69158
+5159,Isa,691644
+5160,Brevicoryne brassicae,69196
+5161,Enterobacter cancerogenus,69218
+5162,Enterobacter cloacae subsp. dissolvens,69219
+5163,Acari,6933
+5164,Ixodida,6935
+5165,Murine coronavirus,694005
+5166,Severe acute respiratory syndrome-related coronavirus,694009
+5167,Atractylodes lancea,69406
+5168,Amblyomma americanum,6943
+5169,Areas,695168
+5170,Spilarctia,695183
+5171,house-dust mites,6952
+5172,American house dust mite,6954
+5173,Rema,695596
+5174,Dermatophagoides pteronyssinus,6956
+5175,Mitra,69650
+5176,Spring viraemia of carp virus,696863
+5177,Dictyoptera <superorder>,6970
+5178,Blattella germanica,6973
+5179,Blatta orientalis,6976
+5180,Penicillium capsulatum,69766
+5181,Penicillium citreonigrum,69768
+5182,Penicillium decumbens,69771
+5183,Penicillium inflatum,69776
+5184,American cockroach,6978
+5185,Penicillium ochrochloron,69780
+5186,Penicillium oxalicum,69781
+5187,Penicillium raistrickii,69783
+5188,Penicillium restrictum,69784
+5189,ide,69811
+5190,Spodoptera litura,69820
+5191,[Clostridium] cocleatum,69824
+5192,Gymnoascus reesii,69890
+5193,Trichophyton soudanense,69891
+5194,Chrysosporium keratinophilum,69893
+5195,crickets,6995
+5196,Macrococcus caseolyticus,69966
+5197,Acheta domesticus,6997
+5198,two-spotted cricket,6999
+5199,Caelifera,7001
+5200,Locusta migratoria,7004
+5201,Kigelia africana,70070
+5202,Cyclopia genistoides,70073
+5203,Limnophila,700822
+5204,American grasshopper,7009
+5205,Penicillium adametzioides,70094
+5206,Penicillium fellutanum,70095
+5207,desert locust,7010
+5208,Penicillium fuscum,70104
+5209,vagrant locust,7011
+5210,Penicillium parvum,70113
+5211,Scleritoderma,701253
+5212,Plesiomonas,702
+5213,Eysarcoris,702481
+5214,Colletotrichum asianum,702518
+5215,Carinata,702550
+5216,Tuta,702716
+5217,Tuta absoluta,702717
+5218,Acyrthosiphon pisum,7029
+5219,Plesiomonas shigelloides,703
+5220,Mauritiana,703493
+5221,Aleyrodidae,7036
+5222,Bacillus subtilis subsp. spizizenii strain ATCC 6633,703612
+5223,Bemisia,7037
+5224,sweet potato whitefly,7038
+5225,Coleoptera,7041
+5226,weevils,7042
+5227,Sitophilus,7045
+5228,Perola,704570
+5229,Sitophilus granarius,7046
+5230,Squamosa,704607
+5231,Sitophilus zeamais,7047
+5232,Sitophilus oryzae,7048
+5233,Lampyridae,7049
+5234,Luciola lateralis,7052
+5235,Photinus,7053
+5236,North American firefly,7054
+5237,Penicillium sumatrense,70558
+5238,Penicillium raciborskii,70559
+5239,Enos,705866
+5240,Mithras,705885
+5241,Salia,705956
+5242,Alabama,705993
+5243,Pyrococcus sp. OT3,70601
+5244,Popillia japonica,7064
+5245,Comanthus,706649
+5246,Himerometra,706651
+5247,yellow mealworm,7067
+5248,red flour beetle,7070
+5249,confused flour beetle,7071
+5250,Allium jesdianum,70760
+5251,Holopus rangii,707701
+5252,Penicillium corylophilum,70792
+5253,Mucor fuscus,708069
+5254,Tritonia,70852
+5255,Shewanella oneidensis,70863
+5256,butterflies and moths,7088
+5257,Patu,709031
+5258,silk moth,7091
+5259,mitochodrion Sarcophyton glaucum,70919
+5260,tobacco budworm,7102
+5261,Symphyotrichum subulatum,71035
+5262,Spodoptera,7106
+5263,Spodoptera exigua,7107
+5264,fall armyworm,7108
+5265,Egyptian cotton leafworm,7109
+5266,Trichoplusia,7110
+5267,Euproctis fraterna,711052
+5268,cabbage looper,7111
+5269,corn earworm,7113
+5270,Pieris,7115
+5271,cabbage butterfly,7116
+5272,Limnothrix rosea,71188
+5273,Pasteurellaceae,712
+5274,Antheraea polyphemus,7120
+5275,Samia,7126
+5276,Actinobacillus,713
+5277,Carolina sphinx,7130
+5278,Hypselodoris,71310
+5279,greater wax moth,7137
+5280,Mucor irregularis,713888
+5281,Aggregatibacter actinomycetemcomitans,714
+5282,spruce budworm,7141
+5283,Nonomuraea endophytica,714136
+5284,Haemophilus influenzae KW20,71421
+5285,Amblyseius andersoni,714357
+5286,Enterococcus raffinosus,71452
+5287,Diptera,7147
+5288,Placida dendritica,71497
+5289,Aplysia punctata,71498
+5290,Actinobacillus pleuropneumoniae,715
+5291,Chironomus tentans,7153
+5292,Culicidae,7157
+5293,Aedes,7158
+5294,yellow fever mosquito,7159
+5295,forest day mosquito,7160
+5296,Hedychium coronarium,71610
+5297,Pinus halepensis,71633
+5298,Anopheles <genus>,7164
+5299,Anopheles gambiae sensu stricto,7165
+5300,Waddlia chondrophila,71667
+5301,Coprinellus domesticus,71704
+5302,Anopheles arabiensis,7173
+5303,Ira,717364
+5304,Culex,7174
+5305,Culex pipiens,7175
+5306,southern house mosquito,7176
+5307,Hyphopichia burtonii,717740
+5308,Anomala,71817
+5309,Sporormiella,718228
+5310,Preussia typharum,718249
+5311,Hypocopra,718369
+5312,Leucopaxillus albissimus,71893
+5313,Rhodotus palmatus,71920
+5314,sand flies,7198
+5315,Sanicula europaea,71982
+5316,Kocuria rhizophila,72000
+5317,Hippocampus,72046
+5318,eye worm,7209
+5319,Omphalotus olearius,72120
+5320,sulphur tuft,72129
+5321,Mediterranean fruit fly,7213
+5322,"Drosophila <fruit fly, genus>",7215
+5323,Ophiocordyceps sinensis,72228
+5324,Isaria,72232
+5325,Oricia,722394
+5326,fruit fly,7227
+5327,tarragon,72341
+5328,Artemisia scoparia,72351
+5329,Stolonifera,723794
+5330,Cuniculus,723807
+5331,Haemophilus,724
+5332,Klebsiella pneumoniae subsp. pneumoniae,72407
+5333,Dipetalogaster maximus,72496
+5334,Actinomadura sp. R39,72570
+5335,Axinella damicornis,72671
+5336,Haemophilus influenzae,727
+5337,Agelas,72714
+5338,Agelas oroides,72715
+5339,Haliclona fulva,72735
+5340,Formica yessensis,72782
+5341,Pseudomonas sp. NB86,728229
+5342,Sporosarcina sp. NB90,728230
+5343,Haemophilus parainfluenzae,729
+5344,Conyza canadensis,72917
+5345,Haemophilus ducreyi,730
+5346,Boeremia exigua,73000
+5347,Phoma herbarum,73001
+5348,Perna viridis,73031
+5349,Kluyvera georgiana,73098
+5350,Histophilus somni,731
+5351,Otis,73106
+5352,Thiocystis violascens,73141
+5353,Vernicia fordii,73154
+5354,Plasmodium yoelii yoelii,73239
+5355,Japonica,73258
+5356,Amphitrite,73387
+5357,Cordyceps militaris,73501
+5358,Lycopodiella cernua,73621
+5359,Lycopodium casuarinoides,73626
+5360,Musca domestica,7370
+5361,blow-fly,7371
+5362,Calliphora vicina,7373
+5363,greenbottle fly,7375
+5364,Discodermia,73795
+5365,Haemophilus parasuis,738
+5366,Phormia regina,7380
+5367,Glossina,7393
+5368,Asteriscus schultzii,73985
+5369,Roseovarius tolerans,74031
+5370,Arthroderma uncinatum,74035
+5371,Nebulosa,741601
+5372,Sagenomella striatispora,743106
+5373,Zeta,743421
+5374,Bipolaris setariae,74419
+5375,Bipolaris sorokiniana,74420
+5376,Collinsella aerofaciens,74426
+5377,Akis,744263
+5378,Halidrys siliquosa,74466
+5379,Sargassum muticum,74468
+5380,Meretrix lusoria,74491
+5381,Pasteurella,745
+5382,Mycoleptodiscus indicus,745397
+5383,Human coxsackievirus B6,74561
+5384,Agrobacterium sp. ATCC 21400,74562
+5385,Apis,7459
+5386,bee,7460
+5387,Bipolaris leersiae,74612
+5388,Aspergillus fumigatus,746128
+5389,Glycyrrhiza uralensis,74613
+5390,Glycyrrhiza inflata,74614
+5391,Rosa persica,74628
+5392,alpine rose,74642
+5393,Japanese rose,74645
+5394,Japanese rose,74647
+5395,Cherokee rose,74652
+5396,Agrimonia pilosa,74656
+5397,Calonectria canadensis,746834
+5398,Pasteurella multocida,747
+5399,Staphylococcus schleiferi subsp. coagulans,74706
+5400,Stachybotrys,74721
+5401,Stachybotrys chartarum,74722
+5402,Nais <Oligochaeta>,74730
+5403,Paramecium bursaria,74790
+5404,Pachysandra terminalis,74825
+5405,Dolichospermum,748770
+5406,king salmon,74940
+5407,Stagonosporopsis cucurbitacearum,749889
+5408,Isoptera,7499
+5409,fleas,7509
+5410,Modulus,75127
+5411,Ctenocephalides felis,7515
+5412,Sphaerospermopsis,752201
+5413,Hemiptera,7524
+5414,Menisporopsis,752603
+5415,Menisporopsis theobromae,752604
+5416,Ariopsis felis,75286
+5417,Heliofungia actiniformis,75303
+5418,Hellula undalis,753185
+5419,seed bugs,7533
+5420,Lindera <moth>,753480
+5421,Oncopeltus fasciatus,7536
+5422,Colorado potato beetle,7539
+5423,Terrazoanthus,754180
+5424,Aspergillus duricaulis,75552
+5425,Aspergillus viridinutans,75553
+5426,Pseudomonas libanensis,75588
+5427,yarrow,756482
+5428,Aspergillus sydowii,75750
+5429,Echinodermata,7586
+5430,starfish,7588
+5431,Pasteurella sp.,759
+5432,Patiria pectinifera,7594
+5433,Mannheimia haemolytica,75985
+5434,Typhlodromips swirskii,759916
+5435,Botryosphaeria berengeriana f. sp. pyricola,760146
+5436,North Pacific seastar,7602
+5437,Chinese knotweed,76025
+5438,wild buckwheat,76029
+5439,Marthasterias,7608
+5440,Marthasterias glacialis,7609
+5441,Asarum sieboldii,76098
+5442,Alloprevotella tannerae,76122
+5443,Plumbago zeylanica,76149
+5444,brittle stars,7618
+5445,Ophiocoma,7622
+5446,Idea,76236
+5447,sea urchins,7625
+5448,sensitive-plant,76306
+5449,Caulerpa taxifolia,76313
+5450,Caulerpa racemosa,76317
+5451,Tricholoma terreum,76328
+5452,Ceratobasidium cereale,76351
+5453,Hesperocyparis macrocarpa,76352
+5454,Arbacia,7639
+5455,Cunninghamella echinulata,76405
+5456,Echinus esculentus,7648
+5457,Hemicentrotus pulcherrimus,7650
+5458,Lytechinus pictus,7653
+5459,Lytechinus variegatus,7654
+5460,common urchin,7656
+5461,Pyrenopeziza brassicae,76659
+5462,Mesocentrotus nudus,7666
+5463,Strongylocentrotus intermedius,7667
+5464,purple urchin,7668
+5465,Dichotella,767258
+5466,Dichotella gemmacea,767270
+5467,Subergorgia suberosa,767284
+5468,Echinacea <Echinodermata>,7674
+5469,Malassezia globosa,76773
+5470,Cliona,76785
+5471,Solibacillus silvestris,76853
+5472,Streptococcus constellatus,76860
+5473,Clausena excavata,76959
+5474,Atalantia buxifolia,76974
+5475,Malassezia pachydermatis,77020
+5476,Rosellinia necatrix,77044
+5477,holothurians,7705
+5478,Idesia polycarpa,77057
+5479,Halomonas aquamarina,77097
+5480,Tunicata,7712
+5481,Ascidiacea,7713
+5482,Dendroctonus ponderosae,77166
+5483,Erylus,77180
+5484,Penares,77185
+5485,Microsporum ferrugineum,77205
+5486,Halocynthia roretzi,7729
+5487,Herdmania <sea squirt>,7732
+5488,red throated ascidian,7733
+5489,Epilachna,77530
+5490,Paraixeris denticulata,77561
+5491,Mycobacterium tuberculosis complex,77643
+5492,Sida,77655
+5493,Coxiella burnetii,777
+5494,silverleaf whitefly,77855
+5495,Torpedo,7786
+5496,Torpedo californica,7787
+5497,Psychotria rubra,77895
+5498,Japanese red pine,77912
+5499,Oidiodendron,78141
+5500,Oidiodendron truncatum,78155
+5501,Rickettsia prowazekii,782
+5502,Glaucidium,78216
+5503,Abies sachalinensis,78264
+5504,Coniothyrium,78388
+5505,Beesia calthifolia,78478
+5506,Aphidius colemani,78482
+5507,Streptococcus viridans,78535
+5508,Orobanche cernua var. cumana,78542
+5509,skates,7858
+5510,Betula platyphylla,78630
+5511,Bletilla striata,78707
+5512,Thapsia garganica,79022
+5513,Chrysosporium undulatum,79086
+5514,Podosphaera leucotricha,79249
+5515,Podosphaera aphanis,79252
+5516,Streptomyces castaneoglobisporus,79261
+5517,Inonotus linteus,79320
+5518,eels,7933
+5519,Cyprinidae,7953
+5520,zebra fish,7955
+5521,Carassius,7956
+5522,goldfish,7957
+5523,Cyprinus carpio,7962
+5524,Stachylidium,796327
+5525,Microtus ochrogaster,79684
+5526,Avian erythroblastosis virus (strain ES4),79685
+5527,Separata,79796
+5528,Coniochaeta,79808
+5529,Ascotricha,79810
+5530,Chaetomium aureum,79815
+5531,Setophoma terrestris,798162
+5532,Mycosphaerella nawae,798215
+5533,Ptilocaulis spiculifer,798311
+5534,Heteropogon contortus,79849
+5535,Bacillus clausii,79880
+5536,oriental liver fluke,79923
+5537,Erwinia pyrifoliae,79967
+5538,Nitrosomonas sp. TK794,79974
+5539,channel catfish,7998
+5540,Electrophorus,8004
+5541,electric eel,8005
+5542,salmonids,8015
+5543,chum salmon,8018
+5544,Oncorhynchus mykiss,8022
+5545,mustard beetle,80249
+5546,Bursera fagaroides,80299
+5547,Bursera microphylla,80317
+5548,palo mulato,80326
+5549,ubos,80338
+5550,Imperata cylindrica,80369
+5551,Capsicum chinense,80379
+5552,Gadus morhua,8049
+5553,Melanogaster,80614
+5554,Atlantic hake,8063
+5555,Coniophora puteana,80637
+5556,Pulveroboletus ravenelii,80668
+5557,Serpula,80744
+5558,melon aphid,80765
+5559,Poecilia reticulata,8081
+5560,Fragum,80820
+5561,Streptomyces cyanogenus,80860
+5562,Delftia acidovorans,80866
+5563,Colletotrichum higginsianum,80884
+5564,medaka,8090
+5565,Chlamydia,810
+5566,Pseudoalteromonas elyakovii,81037
+5567,Oligoporus,81047
+5568,Perenniporia,81049
+5569,Poria,81051
+5570,Wolfiporia cocos,81056
+5571,Cephalosporium,81097
+5572,largemouth tilapia,8127
+5573,Nile tilapia,8128
+5574,Chlamydia trachomatis,813
+5575,Oreochromis,8139
+5576,Alopecurus myosuroides,81473
+5577,Clathria,81539
+5578,Leucetta,81545
+5579,Ruegeria atlantica,81569
+5580,Bacteroides,816
+5581,Japanese seabass,8164
+5582,Bacteroides fragilis,817
+5583,Galtonia candicans,81751
+5584,Bacteroides thetaiotaomicron,818
+5585,Arthroderma cajetani,81846
+5586,Trichophyton quinckeanum,81847
+5587,Podosphaera aphanis var. aphanis,81920
+5588,Bacteroides uniformis,820
+5589,Ornithogalum longebracteatum,82047
+5590,Microsporum canis,82078
+5591,Aralia elata,82095
+5592,Eleutherococcus senticosus,82096
+5593,Bacteroides vulgatus,821
+5594,Atopobium vaginae,82135
+5595,Polianthes tuberosa,82206
+5596,Polygonatum odoratum,82207
+5597,Lycoris traubii,82237
+5598,Zephyranthes candida,82257
+5599,Parabacteroides distasonis,823
+5600,Campylobacter gracilis,824
+5601,Trillium tschonoskii,82502
+5602,Trichosporon asahii,82508
+5603,Trichosporon domesticum,82514
+5604,Trichosporon inkin,82517
+5605,Trichosporon jirovecii,82518
+5606,Trichosporon loubieri,82519
+5607,Trichosporon mucoides,82522
+5608,Trichosporon ovoides,82524
+5609,saffron crocus,82528
+5610,Cydia pomonella,82600
+5611,Human coxsackievirus B2,82639
+5612,winter flounder,8265
+5613,Campylobacter ureolyticus,827
+5614,Orius strigicollis,82748
+5615,Carnation vein mottle virus,82847
+5616,Amphibia,8292
+5617,Pythium middletonii,82940
+5618,Pythium rostratum,82947
+5619,Ambystoma,8295
+5620,axolotl,8296
+5621,Butyrivibrio fibrisolvens,831
+5622,Amphiuma tridactylum,8313
+5623,Bassia scoparia,83154
+5624,Phomopsis asparagi,83181
+5625,Diaporthe rudis,83185
+5626,Diaporthe citri,83186
+5627,Diaporthe nomurai,83188
+5628,roughskin newts,8320
+5629,roughskin newt,8321
+5630,Tyromyces,83249
+5631,firebelly newts,8329
+5632,Streptomyces armeniacus,83291
+5633,Mycobacterium tuberculosis CDC1551,83331
+5634,Mycobacterium tuberculosis strain H37Rv,83332
+5635,Escherichia coli K-12,83333
+5636,Escherichia coli O157:H7,83334
+5637,Pseudocercospora fijiensis,83344
+5638,frogs,8342
+5639,Avena sterilis,83444
+5640,Avena sterilis subsp. ludoviciana,83445
+5641,Cystobacter ferrugineus,83449
+5642,Cystobacter violaceus,83451
+5643,Myxococcus virescens,83456
+5644,Corallococcus,83461
+5645,Xenopus,8353
+5646,African clawed frog,8355
+5647,Chlamydia psittaci,83554
+5648,Chlamydophila abortus,83555
+5649,Chlamydia pneumoniae,83558
+5650,Xenopus sp.,8356
+5651,Porphyromonas,836
+5652,Orius insidiosus,83647
+5653,Nonomuraea,83681
+5654,Porphyromonas gingivalis,837
+5655,Crinia georgiana,8374
+5656,Toronia toru,83747
+5657,Prevotella,838
+5658,Polygonum cuspidatum,83819
+5659,true toads,8382
+5660,Bufo,8383
+5661,Rhinella marina,8386
+5662,Boehmeria nivea,83906
+5663,sheep scab mite,83912
+5664,riparian frogs,8397
+5665,Rana,8399
+5666,Prevotella loescheii,840
+5667,bullfrogs,8400
+5668,Pelophylax esculentus,8401
+5669,Clostridium disporicum,84024
+5670,Flavonifractor plautii,84027
+5671,Rana pipiens,8404
+5672,laughing frog,8406
+5673,European common frog,8407
+5674,Glandirana rugosa,8410
+5675,Slackia exigua,84109
+5676,Eggerthella lenta,84112
+5677,Gemella sanguinis,84135
+5678,Cercospora kikuchii,84275
+5679,Brachypoda,84332
+5680,Neoseiulus fallacis,84385
+5681,Typhlodromus pyri,84387
+5682,American bell toad,8439
+5683,Wolinella succinogenes,844
+5684,Sanicula lamelligera,84533
+5685,Camponotus japonicus,84547
+5686,Camponotus kiusiuensis,84548
+5687,Verrucosispora,84593
+5688,Proteus inconstans,84631
+5689,Aspergillus pulverulentus,84679
+5690,Pseudozyma antarctica,84753
+5691,Fusobacterium,848
+5692,Stenostomum acutatum,84956
+5693,Fusobacterium mortiferum,850
+5694,Streptomycetineae,85011
+5695,Arthrobacter chlorophenolicus,85085
+5696,Fusobacterium nucleatum,851
+5697,southern catalpa,85179
+5698,Celastrus orbiculatus,85181
+5699,Dioscorea polygonoides,85194
+5700,bay laurel,85223
+5701,Melianthus major,85230
+5702,Morus nigra,85232
+5703,Rinorea bengalensis,85259
+5704,Stemona japonica,85282
+5705,jian gen shu,85283
+5706,southern green stink bug,85310
+5707,Taenia pisiformis,85432
+5708,Delphinium grandiflorum,85439
+5709,Artemia salina,85549
+5710,Citrus reticulata,85571
+5711,Adoxophyes,85584
+5712,Adoxophyes honmai,85585
+5713,Fusibacterium pseudonecrophorum,856
+5714,Tsuga diversifolia,85622
+5715,Alcaligenes xylosoxydans,85698
+5716,Serpentes,8570
+5717,Angelica gigas,85712
+5718,Stylissa carteri,85779
+5719,Acanthella,85782
+5720,Cymbastela,85785
+5721,Ptilocaulis,85789
+5722,Reniochalina stalagmitis,85792
+5723,Fusobacterium necrogenes,858
+5724,Dragmacidon reticulatum,85803
+5725,Astrosclera willeyana,85810
+5726,Phakellia,85813
+5727,Pestalotiopsis microspora,85828
+5728,Stephanotis floribunda,85838
+5729,Chrysosporium tropicum,85852
+5730,Magnolia officinalis,85864
+5731,Oesophagostomum columbianum,85896
+5732,Fusibacterium necrophorum,859
+5733,Kirschsteiniothelia,85916
+5734,Nais <fungus>,85919
+5735,Diplodia mutila,85927
+5736,Ophioceras venezuelense,85945
+5737,Callitropsis nootkatensis,85954
+5738,hybrid yew,85957
+5739,Helicobacter pylori strain 26695,85962
+5740,Helicobacter pylori J99,85963
+5741,Boletinus,85972
+5742,Boletinus cavipes,85973
+5743,Omphalotus illudens,85975
+5744,Chlamydia pecorum,85991
+5745,Corona,859912
+5746,Mycale,86015
+5747,Oculimacula yallundae,86028
+5748,Xanthomonas citri subsp. malvacearum,86040
+5749,Plakortis,86044
+5750,Cladophialophora carrionii,86049
+5751,Fonsecaea compacta,86057
+5752,Cortinarius rubellus,86073
+5753,Cortinarius brunneus,86082
+5754,banded krait,8613
+5755,Pseudomonas chlororaphis subsp. aurantiaca,86192
+5756,Artemisia rupestris,86317
+5757,Naja melanoleuca,8643
+5758,Mozambique cobra,8644
+5759,Naja kaouthia,8649
+5760,Clavularia,86520
+5761,Tubipora musica,86527
+5762,Xenia,86539
+5763,Briareum,86542
+5764,deadman's fingers,86543
+5765,Eunicea,86557
+5766,Eunicea laciniata,86558
+5767,Chinese cobra,8656
+5768,Junceella,86560
+5769,Palythoa,86596
+5770,Rhizopus microsporus var. microsporus,86635
+5771,Turbinaria <Phaeophyceae>,86656
+5772,Turbinaria ornata,86657
+5773,Magnolia baillonii,86754
+5774,Ustilago nuda,86802
+5775,Human herpesvirus 8 strain GK18,868565
+5776,Rhodobium <aphid>,869314
+5777,Daboia russelii,8707
+5778,Ogataea angusta,870730
+5779,Pichia sporocuriosa,87101
+5780,cottonmouth,8715
+5781,Agkistrodon piscivorus piscivorus,8716
+5782,Desulfovibrio,872
+5783,Bothrops asper,8722
+5784,Bothrops jararaca,8724
+5785,fer-de-lance,8725
+5786,jararacussu,8726
+5787,Parmelia,87260
+5788,Crotalus adamanteus,8729
+5789,Wolfiporia cocos,87299
+5790,bushmaster,8752
+5791,Cyclamen mirabile,87528
+5792,Cyclamen persicum,87530
+5793,Desulfovibrio desulfuricans,876
+5794,Aves,8782
+5795,Burkholderia cepacia complex,87882
+5796,Burkholderia multivorans,87883
+5797,Infundibulicybe catinus,880273
+5798,ground-hemlock,88032
+5799,Carpinus cordata,88034
+5800,Selaginella moellendorffii,88036
+5801,Protobothrops elegans,88086
+5802,habu,88087
+5803,Desulfovibrio vulgaris,881
+5804,Hormoscilla,881023
+5805,su-momo,88123
+5806,Poterioochromonas malhamensis,88167
+5807,Gea,88325
+5808,Anas,8835
+5809,mallard ducks,8839
+5810,Anser sp.,8847
+5811,greenhouse whitefly,88556
+5812,Sio,88715
+5813,Neurospora terricola,88718
+5814,Korean pine,88728
+5815,Chinese red pine,88730
+5816,Influenza A virus (A/Brevig Mission/1/1918(H1N1)),88776
+5817,Chenopodium ficifolium,887860
+5818,Borrelia spielmanii,88916
+5819,swifts,8893
+5820,Apus,8894
+5821,Eurasian swift,8895
+5822,Blautia luti,89014
+5823,Isaria farinosa,89141
+5824,[Clostridium] hylemonae,89153
+5825,pigeons,8930
+5826,carrier pigeon,8932
+5827,Descurainia sophia,89411
+5828,falcons,8952
+5829,Falco columbarius,8953
+5830,Lemna paucicostata,89585
+5831,Virgularia juncea,89596
+5832,Acalycigorgia inermis,89600
+5833,Ipomoea alba,89634
+5834,Ipomoea aquatica,89636
+5835,Ipomoea arborescens,89637
+5836,Ipomoea asarifolia,89639
+5837,Ipomoea lacunosa,89647
+5838,Ipomoea pes-caprae,89656
+5839,flying-saucers,89664
+5840,Lolium rigidum,89674
+5841,Phellinus xeranticus,89911
+5842,Cladophialophora bantiana,89940
+5843,Leptospira interrogans serovar Icterohaemorrhagiae,90062
+5844,Buglossidium luteum,90071
+5845,Desulfovibrio piger,901
+5846,Moraxella canis,90239
+5847,Cunninghamella bertholletiae,90251
+5848,Saksenaea vasiformis,90258
+5849,Rhizopus microsporus var. rhizopodiformis,90259
+5850,Mucor ramosissimus,90264
+5851,Rhizomucor variabilis,90265
+5852,Apophysomyces elegans,90269
+5853,Gallus,9030
+5854,chicken,9031
+5855,Salmonella enterica subsp. enterica serovar Typhi,90370
+5856,Salmonella enterica subsp. enterica serovar Typhimurium,90371
+5857,Deccan grass,90396
+5858,barnyard grass,90397
+5859,Cryptotomus roseus,90412
+5860,Penicillium shearii,904690
+5861,Chaetomium cochliodes,904709
+5862,Panama,905818
+5863,false flax,90675
+5864,Cyberlindnera saturnus,907340
+5865,Plakortis halichondrioides,908214
+5866,Antipathozoanthus,908898
+5867,Coturnix,9090
+5868,common quail,9091
+5869,Ioa,909703
+5870,fathead minnow,90988
+5871,Anthrenocerus,910045
+5872,Meleagris,9102
+5873,Meleagris gallopavo,9103
+5874,Bacilli,91061
+5875,Gastrodia elata,91201
+5876,Juglans mandshurica,91218
+5877,Conyza bonariensis,91242
+5878,eastern daisy fleabane,91248
+5879,Enterobacteriales,91347
+5880,Curvularia australiensis,91365
+5881,Nitrosomonas,914
+5882,Neosartorya udagawae,91492
+5883,Exserohilum,91493
+5884,Nitrosomonas europaea,915
+5885,Thamnocephalus platyurus,91582
+5886,Penicillium abidjanum,91631
+5887,Eupenicillium molle,91635
+5888,Hericium erinaceus,91752
+5889,Exophiala spinifera,91928
+5890,Coniochaeta hoffmannii,91930
+5891,Hortaea werneckii,91943
+5892,Acidithiobacillus ferrooxidans,920
+5893,Ara,9225
+5894,Trochilidae,9242
+5895,Venturia <ichneumonid wasp>,92443
+5896,Podosphaera fuliginea,92473
+5897,Metarhizium acridum,92637
+5898,Streptomyces malaysiensis,92644
+5899,American opossums,9265
+5900,Rhyzopertha dominica,92692
+5901,Sandaracinus amylolyticus,927083
+5902,Epipedobates anthonyi,92728
+5903,Epipedobates tricolor,92736
+5904,Melo,927630
+5905,Moloney murine leukemia virus isolate Shinnick,928306
+5906,Pleosporales,92860
+5907,Silybum marianum,92921
+5908,Sarcandra glabra,92927
+5909,Fischerella muscicola,92938
+5910,Lindernia procumbens,929486
+5911,Cladosporium sphaerospermum,92950
+5912,Cryptococcus gastricus,92955
+5913,Pieris rapae crucivora,930006
+5914,Dietes bicolor,93015
+5915,Poa annua,93036
+5916,Staphylococcus aureus subsp. aureus NCTC 8325,93061
+5917,Staphylococcus aureus subsp. aureus COL,93062
+5918,Potorous,9309
+5919,potoroo,9310
+5920,carmine spider mite,93129
+5921,Propolis,931589
+5922,Perenniporia maackiae,933052
+5923,Brassica rapa subsp. chinensis,93385
+5924,Ostrinia furnacalis,93504
+5925,armadillo,9359
+5926,Simplicillium lamellicola,93593
+5927,Dysosma versipellis,93611
+5928,Setosphaeria turcica,93612
+5929,hedgehogs,9363
+5930,"moles, shrew-moles, and desmans",9373
+5931,Catostemma fragrans,93749
+5932,Corchorus olitorius,93759
+5933,Suncus,9377
+5934,Asian house shrew,9378
+5935,Heritiera littoralis,93780
+5936,Kleinhovia hospita,93784
+5937,Malvaviscus arboreus,93788
+5938,Gymnopus,93827
+5939,Tineola bisselliella,93883
+5940,Coturnix japonica,93934
+5941,Chiroptera,9397
+5942,crab spiders,94016
+5943,Meta,94025
+5944,Staphylococcus cohnii urealyticum,94138
+5945,Genetta,94189
+5946,Dendrobium nobile,94219
+5947,Alpinia galanga,94327
+5948,Zingiber officinale,94328
+5949,Ehrlichia canis,944
+5950,green rice leafhopper,94400
+5951,Primates,9443
+5952,Saccharomyces cerevisiae FL100,947036
+5953,Callitrichinae,9480
+5954,Callithrix,9481
+5955,Callithrix jacchus,9483
+5956,Fusarium proliferatum,948311
+5957,Pilosa,948950
+5958,Cingulata,948951
+5959,Aotus trivirgatus,9505
+5960,Cebus,9513
+5961,black-capped capuchin,9515
+5962,Nocardia beijingensis,95162
+5963,Saimiri,9520
+5964,common squirrel monkey,9521
+5965,Old World monkeys,9527
+5966,Wolbachia,953
+5967,Trichothecium indicum,95326
+5968,Nigrosabulum globosum,95328
+5969,African green monkeys,9534
+5970,macaque,9539
+5971,Macaca arctoides,9540
+5972,cynomolgus monkeys,9541
+5973,Rhesus monkey,9544
+5974,pig-tailed macaque,9545
+5975,Burkholderia stabilis,95485
+5976,Burkholderia cenocepacia,95486
+5977,Wolbachia pipientis,955
+5978,Anastrepha obliqua,95512
+5979,Anastrepha striata,95521
+5980,Papio,9554
+5981,Kenya baboon,9555
+5982,Papio hamadryas,9557
+5983,Bothrops pauloensis,95649
+5984,Stemphylium,95729
+5985,Trichocolea mollissima,95765
+5986,western gorilla,9593
+5987,western lowland gorilla,9595
+5988,Pan,9596
+5989,raptorial gall midge,95972
+5990,chimpanzee,9598
+5991,Homo,9605
+5992,Phalaris arundinacea,96050
+5993,human,9606
+5994,Canis,9611
+5995,dog,9615
+5996,Bacillus subtilis subsp. spizizenii,96241
+5997,Ursidae,9632
+5998,Nodulisporium,96453
+5999,Ailuropoda melanoleuca,9646
+6000,Urnula craterium,96586
+6001,European mink,9666
+6002,Eleutherococcus koreanus,96667
+6003,European polecat,9668
+6004,black ferret,9669
+6005,cat family,9681
+6006,Flabellifera,96841
+6007,Felis catus,9685
+6008,Panthera,9688
+6009,lion,9689
+6010,tiger,9694
+6011,Selenomonas,970
+6012,Heterodera schachtii,97005
+6013,Trifolium alexandrinum,97006
+6014,earless seals,9709
+6015,Trichoderma koningii,97093
+6016,Eutypa,97095
+6017,Eutypa lata,97096
+6018,Mucor plumbeus,97098
+6019,Leptonychotes weddellii,9713
+6020,Cystoseira baccata,97146
+6021,Manchurian fir,97168
+6022,Dryopteris crassirhizoma,97234
+6023,Viola arvensis,97415
+6024,Viola odorata,97441
+6025,Boesenbergia rotunda,97729
+6026,Kaempferia elegans,97749
+6027,Kaempferia parviflora,97751
+6028,Zingiber ottensii,97770
+6029,Indian elephant,9783
+6030,donkey,9793
+6031,equine,9796
+6032,Periconia,97971
+6033,rock dassie,9813
+6034,boars,9821
+6035,swine,9823
+6036,domestic pig,9825
+6037,Rhizoctonia solani AG1 IA SC,983506
+6038,Camelus,9836
+6039,Junceella fragilis,98366
+6040,camel,9838
+6041,Lama,9839
+6042,Sphaerospermopsis torques-reginae,984207
+6043,Lama glama,9844
+6044,Ruminantia,9845
+6045,Consolida regalis,984867
+6046,Cytophaga hutchinsonii,985
+6047,Matricaria chamomilla,98504
+6048,"european elk, moose",9852
+6049,Axis,9855
+6050,Flavobacterium johnsoniae,986
+6051,Dama,9867
+6052,caribou,9870
+6053,black-tailed deer,9873
+6054,Phlebia uda,98779
+6055,Leeuwenhoekiella marinoflava,988
+6056,Antitype,988061
+6057,Trachea,988164
+6058,Amathia,98848
+6059,Cardinalis cardinalis,98964
+6060,Ajania fruticulosa,99024
+6061,"oxen, cattle",9903
+6062,field marigold,99035
+6063,Chamaemelum nobile,99037
+6064,Cladanthus arabicus,99040
+6065,scentless mayweed,99108
+6066,Muricella,991083
+6067,cow,9913
+6068,Bos indicus,9915
+6069,goats,9925
+6070,Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,99287
+6071,Rehmannia glutinosa,99300
+6072,Strychnos spinosa,99302
+6073,Ovis,9935
+6074,long-leaf pondweed,99363
+6075,Ovis aries musimon,9938
+6076,Ovis aries,9940
+6077,Flavobacterium columnare,996
+6078,Xanthoceras sorbifolium,99658
+6079,hares,9980
+6080,Taxus cuspidata,99806
+6081,Glyptostrobus pensilis,99811
+6082,Streptococcus dysgalactiae subsp. dysgalactiae,99822
+6083,Delta,998453
+6084,Japanese white rabbit,9986
+6085,Leishmania donovani donovani,99875
+6086,Sylvilagus floridanus,9988
+6087,Rodentia,9989
+6088,Cordyceps gunnii,99897
+6089,Laurencia viridis,99904
+6090,Alces americanus,999462
+6091,woodchucks,9995
