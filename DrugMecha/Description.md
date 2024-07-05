@@ -9,15 +9,14 @@ It integrates various biological entities such as genes, cell lines, tissues, or
 2. [Database Schema](#database-schema)
 3. [Installation](#installation)
 4. [Usage](#usage)
-5. [License](#license)
-6. [Contributing](#contributing)
-7. [Acknowledgements](#acknowledgements)
 
 ## Introduction
-DrugMecha is developed by the Synergistic Bioinformatics Laboratory at the Korea Advanced Institute Science and Technology (KAIST). The database utilizes text mining techniques to extract and organize information about drug mechanisms from various biomedical literature sources.
+DrugMecha is developed by the Synergistic Bioinformatics Laboratory at the Korea Advanced Institute Science and Technology (KAIST). 
+The database utilizes text mining techniques to extract and organize information about drug mechanisms from various biomedical literature sources.
 
 ## Database Schema
-The database consists of several interconnected tables, each representing a different biological entity or relationship. Below is a brief description of each table and its columns:
+The database consists of several interconnected tables, each representing a different biological entity or relationship. 
+Below is a brief description of each table and its columns:
 
 ![Schema of DrugMecha](https://github.com/SYNBI-KAIST/DrugMecha/DrugMecha/DrugMecha-Schema.png)
 
