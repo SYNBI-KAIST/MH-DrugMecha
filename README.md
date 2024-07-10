@@ -1,4 +1,4 @@
-# DrugMecha: An Ontology-based Knowledge Graph Database of Drug Mechanisms via Text Mining
+# DrugMecha: A Knowledge Graph Database of Drug Mechanisms via Text Mining
 
 [Korea Advanced Institute Science and Technology(KAIST)](https://kaist.ac.kr/en/)
 
