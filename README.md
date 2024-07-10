@@ -12,7 +12,7 @@ Myeong-Ha Hwang, Daeho Lee, Sechan Lee, Hyojin Son and Gwan-Su Yi*
 
 ## Overview
 
-![Architecture of DrugMecha](https://github.com/SYNBI-KAIST/DrugMecha/blob/main/Overview.png)
+![Architecture of DrugMecha](https://github.com/SYNBI-KAIST/DrugMecha/blob/main/DrugMecha-Overview.png)
 
 ## Acknowledgement
 
