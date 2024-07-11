@@ -2,6 +2,8 @@
 
 [Korea Advanced Institute Science and Technology(KAIST)](https://kaist.ac.kr/en/)
 
+[Department of Bio and Brain Engineering(BBE)](https://bioeng.kaist.ac.kr/)
+
 [Synergistic Bioinformatics Laboratory](https://synbi.kaist.ac.kr/)
 
 Myeong-Ha Hwang*, Daeho Lee*, Sechan Lee, Hyojin Son and Gwan-Su Yi†
