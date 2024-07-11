@@ -20,108 +20,117 @@ Below is a brief description of each table and its columns:
 ![Schema of DrugMecha](https://github.com/SYNBI-KAIST/MH-DrugMecha/raw/main/DrugMecha/DrugMecha-Schema.png)
 
 ## DRUG_MECHANISM
-DRUG_MECHANISM_ID: Unique identifier for each drug mechanism.
-SID: Substance identifier.
-AID: Assay identifier.
-MF_ID: Molecular function identifier.
-MF_NAME: Name of the molecular function.
-MF_EDGE: Edge type for molecular function relationships.
-GENE_ID: Gene identifier.
-GENE_NAME: Name of the gene.
-GENE_EDGE: Edge type for gene relationships.
-BP_ID: Biological process identifier.
-BP_NAME: Name of the biological process.
-BP_EDGE: Edge type for biological process relationships.
-CELL_LINE_ID: Cell line identifier.
-CELL_LINE_NAME: Name of the cell line.
-CELL_LINE_EDGE: Edge type for cell line relationships.
-TISSUE_ID: Tissue identifier.
-TISSUE_NAME: Name of the tissue.
-TISSUE_EDGE: Edge type for tissue relationships.
-ORGANISM_ID: Organism identifier.
-ORGANISM_NAME: Name of the organism.
-ORGANISM_EDGE: Edge type for organism relationships.
+
+- **DRUG_MECHANISM_ID**: Unique identifier for each drug mechanism.
+- **SID**: Substance identifier.
+- **AID**: Assay identifier.
+- **MF_ID**: Molecular function identifier.
+- **MF_NAME**: Name of the molecular function.
+- **MF_EDGE**: Edge type for molecular function relationships.
+- **GENE_ID**: Gene identifier.
+- **GENE_NAME**: Name of the gene.
+- **GENE_EDGE**: Edge type for gene relationships.
+- **BP_ID**: Biological process identifier.
+- **BP_NAME**: Name of the biological process.
+- **BP_EDGE**: Edge type for biological process relationships.
+- **CELL_LINE_ID**: Cell line identifier.
+- **CELL_LINE_NAME**: Name of the cell line.
+- **CELL_LINE_EDGE**: Edge type for cell line relationships.
+- **TISSUE_ID**: Tissue identifier.
+- **TISSUE_NAME**: Name of the tissue.
+- **TISSUE_EDGE**: Edge type for tissue relationships.
+- **ORGANISM_ID**: Organism identifier.
+- **ORGANISM_NAME**: Name of the organism.
+- **ORGANISM_EDGE**: Edge type for organism relationships.
 
 ## DRUG_MECHANISM_FRAG
-DRUG_MECHANISM_FRAG_ID: Unique identifier for each drug mechanism fragment.
-AID: Assay identifier.
-REGULATION: Type of regulation (e.g., upregulation, downregulation).
-GENE_ID: Gene identifier.
-GENE_NAME: Name of the gene.
-FUNCTION_ID: Function identifier.
-FUNCTION_NAME: Name of the function.
-FUNCTION_TYPE: Type of function.
-CELL_LINE_ID: Cell line identifier.
-CELL_LINE_NAME: Name of the cell line.
-TISSUE_ID: Tissue identifier.
-TISSUE_NAME: Name of the tissue.
-ORGANISM_ID: Organism identifier.
-ORGANISM_NAME: Name of the organism.
+
+- **DRUG_MECHANISM_FRAG_ID**: Unique identifier for each drug mechanism fragment.
+- **AID**: Assay identifier.
+- **REGULATION**: Type of regulation (e.g., upregulation, downregulation).
+- **GENE_ID**: Gene identifier.
+- **GENE_NAME**: Name of the gene.
+- **FUNCTION_ID**: Function identifier.
+- **FUNCTION_NAME**: Name of the function.
+- **FUNCTION_TYPE**: Type of function.
+- **CELL_LINE_ID**: Cell line identifier.
+- **CELL_LINE_NAME**: Name of the cell line.
+- **TISSUE_ID**: Tissue identifier.
+- **TISSUE_NAME**: Name of the tissue.
+- **ORGANISM_ID**: Organism identifier.
+- **ORGANISM_NAME**: Name of the organism.
 
 ## SUBSTANCE_ACTIVITY
-SID: Substance identifier.
-AID: Assay identifier.
-ACTIVITY: Activity measure of the substance.
+
+- **SID**: Substance identifier.
+- **AID**: Assay identifier.
+- **ACTIVITY**: Activity measure of the substance.
 
 ## ASSAY_ACTIVITY
-AID: Assay identifier.
-SUBSTANCE_LIST: List of substances tested in the assay.
-ACTIVITY_LIST: List of activity measures for the substances.
-ACTIVITY_SCORE: Overall activity score.
+
+- **AID**: Assay identifier.
+- **SUBSTANCE_LIST**: List of substances tested in the assay.
+- **ACTIVITY_LIST**: List of activity measures for the substances.
+- **ACTIVITY_SCORE**: Overall activity score.
 
 ## GENE
-GENE_ID: Unique identifier for each gene.
-GENE_NAME: Name of the gene.
-UMLS_ID: Unified Medical Language System identifier.
-UMLS_NAME: UMLS name.
-UNIPROT_GENE_NAME: UniProt gene name.
-NCBI_GENE_ID: NCBI gene identifier.
+
+- **GENE_ID**: Unique identifier for each gene.
+- **GENE_NAME**: Name of the gene.
+- **UMLS_ID**: Unified Medical Language System identifier.
+- **UMLS_NAME**: UMLS name.
+- **UNIPROT_GENE_NAME**: UniProt gene name.
+- **NCBI_GENE_ID**: NCBI gene identifier.
 
 ## CELL_LINE
-CELL_LINE_ID: Unique identifier for each cell line.
-CELL_LINE_NAME: Name of the cell line.
-PUBCHEM_ID: PubChem identifier.
-CELLOSAURUS_ID: Cellosaurus identifier.
-UMLS_ID: Unified Medical Language System identifier.
-CELL_ONTOLOGY_ID: Cell Ontology identifier.
+
+- **CELL_LINE_ID**: Unique identifier for each cell line.
+- **CELL_LINE_NAME**: Name of the cell line.
+- **PUBCHEM_ID**: PubChem identifier.
+- **CELLOSAURUS_ID**: Cellosaurus identifier.
+- **UMLS_ID**: Unified Medical Language System identifier.
+- **CELL_ONTOLOGY_ID**: Cell Ontology identifier.
 
 ## TISSUE
-TISSUE_ID: Unique identifier for each tissue.
-TISSUE_NAME: Name of the tissue.
-UMLS_ID: Unified Medical Language System identifier.
+
+- **TISSUE_ID**: Unique identifier for each tissue.
+- **TISSUE_NAME**: Name of the tissue.
+- **UMLS_ID**: Unified Medical Language System identifier.
 
 ## ORGANISM
-ORGANISM_ID: Unique identifier for each organism.
-ORGANISM_NAME: Name of the organism.
-NCBI_TAXONOMY_ID: NCBI Taxonomy identifier.
+
+- **ORGANISM_ID**: Unique identifier for each organism.
+- **ORGANISM_NAME**: Name of the organism.
+- **NCBI_TAXONOMY_ID**: NCBI Taxonomy identifier.
 
 ## BIOLOGICAL_FUNCTION
-FUNCTION_ID: Unique identifier for each function.
-FUNCTION_NAME: Name of the function.
-FUNCTION_TYPE: Type of function (e.g., pathway, process).
-GO_ID: Gene Ontology identifier.
-GO_TYPE: Gene Ontology type.
-UMLS_ID: Unified Medical Language System identifier.
-UMLS_TYPE: UMLS type.
-PATHWAY_TYPE: Type of pathway.
-REACTOME: Reactome pathway identifier.
-PUBCHEM_PATHWAY_ID: PubChem Pathway identifier.
-PATHBANK: PathBank identifier.
-PANTHER: PANTHER pathway identifier.
-BIOCYC: BioCyc identifier.
-WIKIPATHWAYS: WikiPathways identifier.
-SMPDB: Small Molecule Pathway Database identifier.
-PATHWAY_INTERACTION_DATABASE: Pathway Interaction Database identifier.
-KEGG: KEGG pathway identifier.
-PLANT_REACTOME: Plant Reactome pathway identifier.
-PLANTCYC: PlantCyc identifier.
-PATHWAY_COMMON: Pathway Commons identifier.
-PANTHER_PATHWAY: PANTHER Pathway identifier.
-CHEMFONT: ChemFont pathway identifier.
-PHARMGKB: PharmGKB identifier.
-LIPID_MAPS: LIPID MAPS pathway identifier.
-BIOCARTA: BioCarta pathway identifier.
-NETPATH: NetPath pathway identifier.
+
+- **FUNCTION_ID**: Unique identifier for each function.
+- **FUNCTION_NAME**: Name of the function.
+- **FUNCTION_TYPE**: Type of function (e.g., pathway, process).
+- **GO_ID**: Gene Ontology identifier.
+- **GO_TYPE**: Gene Ontology type.
+- **UMLS_ID**: Unified Medical Language System identifier.
+- **UMLS_TYPE**: UMLS type.
+- **PATHWAY_TYPE**: Type of pathway.
+- **REACTOME**: Reactome pathway identifier.
+- **PUBCHEM_PATHWAY_ID**: PubChem Pathway identifier.
+- **PATHBANK**: PathBank identifier.
+- **PANTHER**: PANTHER pathway identifier.
+- **BIOCYC**: BioCyc identifier.
+- **WIKIPATHWAYS**: WikiPathways identifier.
+- **SMPDB**: Small Molecule Pathway Database identifier.
+- **PATHWAY_INTERACTION_DATABASE**: Pathway Interaction Database identifier.
+- **KEGG**: KEGG pathway identifier.
+- **PLANT_REACTOME**: Plant Reactome pathway identifier.
+- **PLANTCYC**: PlantCyc identifier.
+- **PATHWAY_COMMON**: Pathway Commons identifier.
+- **PANTHER_PATHWAY**: PANTHER Pathway identifier.
+- **CHEMFONT**: ChemFont pathway identifier.
+- **PHARMGKB**: PharmGKB identifier.
+- **LIPID_MAPS**: LIPID MAPS pathway identifier.
+- **BIOCARTA**: BioCarta pathway identifier.
+- **NETPATH**: NetPath pathway identifier.
 
 ## Installation
 To install DrugMecha, clone the repository from GitHub:
