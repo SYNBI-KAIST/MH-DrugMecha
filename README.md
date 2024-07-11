@@ -8,7 +8,7 @@ Myeong-Ha Hwang*, Daeho Lee*, Sechan Lee, Hyojin Son and Gwan-Su Yi†
 - Journal: IEEE Journal of Biomedical and Health Informatics
 - Status: Under Review
 - First Author(*): hmh929@kaist.ac.kr, daeho715@gmail.com
-- Correspondence(†): gwansuyi@kaist.ac.kr
+- Corresponding Author(†): gwansuyi@kaist.ac.kr
 
 ## Overview
 
