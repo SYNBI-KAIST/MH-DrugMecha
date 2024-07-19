@@ -19,30 +19,6 @@ Below is a brief description of each table and its columns:
 
 ![Schema of DrugMecha](https://github.com/SYNBI-KAIST/MH-DrugMecha/raw/main/DrugMecha/DrugMecha-Schema.png)
 
-## DRUG_MECHANISM
-
-- **DRUG_MECHANISM_ID**: Unique identifier for each drug mechanism.
-- **SID**: Substance identifier.
-- **AID**: Assay identifier.
-- **MF_ID**: Molecular function identifier.
-- **MF_NAME**: Name of the molecular function.
-- **MF_EDGE**: Edge type for molecular function relationships.
-- **GENE_ID**: Gene identifier.
-- **GENE_NAME**: Name of the gene.
-- **GENE_EDGE**: Edge type for gene relationships.
-- **BP_ID**: Biological process identifier.
-- **BP_NAME**: Name of the biological process.
-- **BP_EDGE**: Edge type for biological process relationships.
-- **CELL_LINE_ID**: Cell line identifier.
-- **CELL_LINE_NAME**: Name of the cell line.
-- **CELL_LINE_EDGE**: Edge type for cell line relationships.
-- **TISSUE_ID**: Tissue identifier.
-- **TISSUE_NAME**: Name of the tissue.
-- **TISSUE_EDGE**: Edge type for tissue relationships.
-- **ORGANISM_ID**: Organism identifier.
-- **ORGANISM_NAME**: Name of the organism.
-- **ORGANISM_EDGE**: Edge type for organism relationships.
-
 ## DRUG_MECHANISM_FRAG
 
 - **DRUG_MECHANISM_FRAG_ID**: Unique identifier for each drug mechanism fragment.
