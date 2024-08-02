@@ -117,9 +117,8 @@ Below is a brief description of each table and its columns:
 ## Installation
 To install DrugMecha, clone the repository from GitHub (except SUBSTANCE_ACTIVITY & ASSAY_ACTIVITY):
 
-*SUBSTANCE_ACTIVITY and ASSAY_ACTIVITY files can download in each folder
-
 ```sh
 git clone https://github.com/your-repo/MH-DrugMecha.git
 cd MH-DrugMecha
 
+*SUBSTANCE_ACTIVITY and ASSAY_ACTIVITY files can download in each folder
