@@ -115,9 +115,9 @@ Below is a brief description of each table and its columns:
 - **NETPATH_ID**: NetPath pathway identifier.
 
 ## Installation
-To install DrugMecha, clone the repository from GitHub:
+To install DrugMecha, clone the repository from GitHub (except SUBSTANCE_ACTIVITY & ASSAY_ACTIVITY):
 
-*But, SUBSTANCE_ACTIVITY and ASSAY_ACTIVITY files can download in each folder
+*SUBSTANCE_ACTIVITY and ASSAY_ACTIVITY files can download in each folder
 
 ```sh
 git clone https://github.com/your-repo/MH-DrugMecha.git
