@@ -79,34 +79,40 @@ Below is a brief description of each table and its columns:
 - **ORGANISM_NAME**: Name of the organism.
 - **NCBI_TAXONOMY_ID**: NCBI Taxonomy identifier.
 
-## BIOLOGICAL_FUNCTION
+## FUNCTION_MAIN
 
 - **FUNCTION_ID**: Unique identifier for each function.
 - **FUNCTION_NAME**: Name of the function.
-- **FUNCTION_TYPE**: Type of function (e.g., pathway, process).
+- **FUNCTION_TYPE**: Type of function.
 - **GO_ID**: Gene Ontology identifier.
 - **GO_TYPE**: Gene Ontology type.
 - **UMLS_ID**: Unified Medical Language System identifier.
 - **UMLS_TYPE**: UMLS type.
+- **KEGG_ID**: KEGG pathway identifier.
+
+## FUNCTION_OTHERS
+
+- **FUNCTION_ID**: Unique identifier for each function.
+- **FUNCTION_NAME**: Name of the function.
+- **FUNCTION_TYPE**: Type of function.
 - **PATHWAY_TYPE**: Type of pathway.
-- **REACTOME**: Reactome pathway identifier.
+- **REACTOME_ID**: Reactome pathway identifier.
 - **PUBCHEM_PATHWAY_ID**: PubChem Pathway identifier.
-- **PATHBANK**: PathBank identifier.
-- **PANTHER**: PANTHER pathway identifier.
-- **BIOCYC**: BioCyc identifier.
-- **WIKIPATHWAYS**: WikiPathways identifier.
-- **SMPDB**: Small Molecule Pathway Database identifier.
-- **PATHWAY_INTERACTION_DATABASE**: Pathway Interaction Database identifier.
-- **KEGG**: KEGG pathway identifier.
-- **PLANT_REACTOME**: Plant Reactome pathway identifier.
-- **PLANTCYC**: PlantCyc identifier.
-- **PATHWAY_COMMON**: Pathway Commons identifier.
-- **PANTHER_PATHWAY**: PANTHER Pathway identifier.
-- **CHEMFONT**: ChemFont pathway identifier.
-- **PHARMGKB**: PharmGKB identifier.
-- **LIPID_MAPS**: LIPID MAPS pathway identifier.
-- **BIOCARTA**: BioCarta pathway identifier.
-- **NETPATH**: NetPath pathway identifier.
+- **PATHBANK_ID**: PathBank identifier.
+- **PANTHER_ID**: PANTHER pathway identifier.
+- **BIOCYC_ID**: BioCyc identifier.
+- **WIKIPATHWAYS_ID**: WikiPathways identifier.
+- **SMPDB_ID**: Small Molecule Pathway Database identifier.
+- **PATHWAY_INTERACTION_DATABASE_ID**: Pathway Interaction Database identifier.
+- **PLANT_REACTOME_ID**: Plant Reactome pathway identifier.
+- **PLANTCYC_ID**: PlantCyc identifier.
+- **PATHWAY_COMMON_ID**: Pathway Commons identifier.
+- **PANTHER_PATHWAY_ID**: PANTHER Pathway identifier.
+- **CHEMFONT_ID**: ChemFont pathway identifier.
+- **PHARMGKB_ID**: PharmGKB identifier.
+- **LIPID_MAPS_ID**: LIPID MAPS pathway identifier.
+- **BIOCARTA_ID**: BioCarta pathway identifier.
+- **NETPATH_ID**: NetPath pathway identifier.
 
 ## Installation
 To install DrugMecha, clone the repository from GitHub:
