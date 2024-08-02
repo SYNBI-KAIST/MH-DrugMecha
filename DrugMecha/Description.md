@@ -120,5 +120,6 @@ To install DrugMecha, clone the repository from GitHub (except SUBSTANCE_ACTIVIT
 ```sh
 git clone https://github.com/your-repo/MH-DrugMecha.git
 cd MH-DrugMecha
+```
 
 *SUBSTANCE_ACTIVITY and ASSAY_ACTIVITY files can download in each folder
