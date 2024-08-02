@@ -23,7 +23,7 @@ Below is a brief description of each table and its columns:
 
 - **DRUG_MECHANISM_FRAG_ID**: Unique identifier for each drug mechanism fragment.
 - **AID**: Assay identifier.
-- **REGULATION**: Type of regulation (e.g., upregulation, downregulation).
+- **REGULATION**: Type of regulation (e.g., Upregulates, Regulates(Associates), Downregulates).
 - **GENE_ID**: Gene identifier.
 - **GENE_NAME**: Name of the gene.
 - **FUNCTION_ID**: Function identifier.
