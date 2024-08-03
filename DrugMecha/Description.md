@@ -1,7 +1,7 @@
 # DrugMecha: A Knowledge Graph Database of Drug Mechanisms via Text Mining
 
 ## Overview
-DrugMecha is an ontology-based knowledge graph database designed to capture the mechanisms of drugs through text mining.<br>
+DrugMecha is a knowledge graph database designed to capture the mechanisms of drugs through text mining.<br>
 It integrates various biological entities such as genes, cell lines, tissues, organisms, and biological functions to provide a comprehensive resource for understanding drug actions and their effects.
 
 ## Table of Contents
