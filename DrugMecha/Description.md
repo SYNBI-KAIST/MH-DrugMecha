@@ -122,4 +122,4 @@ git clone https://github.com/your-repo/MH-DrugMecha.git
 cd MH-DrugMecha
 ```
 
-*SUBSTANCE_ACTIVITY and ASSAY_ACTIVITY files can download in each folder
+*SUBSTANCE_ACTIVITY and ASSAY_ACTIVITY files can be downloaded in each folder
